@@ -1,0 +1,4094 @@
+EventTime	Origin	Destination
+2020.6856699999998	UNKNOWN	India
+2020.73266	India	Russia
+2020.85093	India	France
+2020.88299	India	Russia
+2020.93979	India	United Kingdom
+2020.98275	India	Turkey
+2021.02457	France	Slovakia
+2021.05393	Russia	USA
+2021.05534	India	Czech Republic
+2021.06037	Russia	Turkey
+2021.08253	France	Spain
+2021.09791	India	USA
+2021.10017	India	Thailand
+2021.10948	United Kingdom	Slovakia
+2021.12088	India	Turkey
+2021.12367	France	Spain
+2021.1332	India	Indonesia
+2021.13476	India	South Africa
+2021.13503	India	Germany
+2021.15475	India	Turkey
+2021.15516	India	USA
+2021.15694	United Kingdom	Italy
+2021.16545	India	Bangladesh
+2021.17549	India	USA
+2021.17626	India	Malaysia
+2021.17893	Spain	France
+2021.20035	India	USA
+2021.20271	India	Indonesia
+2021.20278	India	USA
+2021.20539	India	Italy
+2021.2067299999999	India	USA
+2021.20901	India	South Africa
+2021.21154	India	South Africa
+2021.2202399999999	India	South Korea
+2021.22343	India	Pakistan
+2021.2240199999999	India	Indonesia
+2021.22909	India	South Africa
+2021.22949	India	Mexico
+2021.2296	India	Kenya
+2021.23018	India	USA
+2021.23431	Russia	South Korea
+2021.24012	India	Iran
+2021.24339	India	France
+2021.24448	India	France
+2021.24646	India	USA
+2021.24968	India	USA
+2021.25323	India	Pakistan
+2021.25343	India	Kenya
+2021.25505	India	Turkey
+2021.25594	India	South Africa
+2021.2574	India	Japan
+2021.25844	India	USA
+2021.26245	India	United Kingdom
+2021.26291	India	Japan
+2021.26804	India	Indonesia
+2021.2684	India	Singapore
+2021.27223	India	Germany
+2021.27413	India	Pakistan
+2021.275	South Korea	Russia
+2021.27645	Germany	Spain
+2021.27671	India	Bangladesh
+2021.27769	USA	Mexico
+2021.27781	India	South Africa
+2021.27812	India	United Kingdom
+2021.27886	India	Turkey
+2021.27937	India	Singapore
+2021.28067	USA	Mexico
+2021.28312	France	Spain
+2021.2843599999999	India	Pakistan
+2021.28482	India	Singapore
+2021.28519	India	South Africa
+2021.28538	India	United Kingdom
+2021.28705	India	Russia
+2021.29031	India	Spain
+2021.2905	India	Spain
+2021.29132	India	Bangladesh
+2021.29305	India	Japan
+2021.29486	India	France
+2021.29547	Mexico	USA
+2021.29579	India	Singapore
+2021.29609	India	Singapore
+2021.29779	India	Zambia
+2021.29828	France	Spain
+2021.29853	India	South Korea
+2021.29988	India	United Kingdom
+2021.3007	India	Japan
+2021.30074	India	Russia
+2021.30126	India	Oman
+2021.3012899999999	India	Singapore
+2021.3013	India	Singapore
+2021.3013	India	Japan
+2021.30133	India	South Africa
+2021.3029099999999	India	Iran
+2021.30301	India	Malaysia
+2021.30303	USA	Malaysia
+2021.30401	India	Singapore
+2021.3042	India	Pakistan
+2021.30493	India	South Africa
+2021.30587	USA	Guatemala
+2021.30588	India	Italy
+2021.30659	United Kingdom	Spain
+2021.30677	India	Singapore
+2021.3075	India	Italy
+2021.3085	India	France
+2021.30909	India	Indonesia
+2021.30949	India	Singapore
+2021.30949	India	Singapore
+2021.31065	India	Turkey
+2021.3113	France	Netherlands
+2021.3122	India	Singapore
+2021.31222	India	Singapore
+2021.31223	India	Singapore
+2021.31304	India	Bangladesh
+2021.31367	India	South Africa
+2021.31476	India	Uganda
+2021.31496	India	Singapore
+2021.31496	India	Singapore
+2021.31497	India	Singapore
+2021.31497	India	USA
+2021.31602	India	Vietnam
+2021.3177	India	Singapore
+2021.31771	India	Singapore
+2021.31772	India	Japan
+2021.31773	India	Singapore
+2021.31899	India	USA
+2021.31908	India	Mozambique
+2021.32014	Spain	Brazil
+2021.32044	India	Singapore
+2021.32047	Russia	India
+2021.321	USA	Mexico
+2021.32275	India	Thailand
+2021.32308	India	United Kingdom
+2021.32315	India	Iran
+2021.32319	India	Iran
+2021.32319	India	Japan
+2021.3232	India	Iran
+2021.3232	India	Bangladesh
+2021.3232	India	Japan
+2021.32592	India	Indonesia
+2021.32594	India	Bangladesh
+2021.32614	India	Philippines
+2021.32825	India	Philippines
+2021.32826	India	Pakistan
+2021.32861	India	Brazil
+2021.32866	Oman	Singapore
+2021.3286699999999	India	Japan
+2021.3286699999999	India	Iran
+2021.32926	India	Malaysia
+2021.32988	India	Bangladesh
+2021.3301099999999	India	South Africa
+2021.33013	India	Turkey
+2021.33044	India	Malaysia
+2021.3314	India	Japan
+2021.3341599999999	India	Japan
+2021.33417	India	Singapore
+2021.33418	India	USA
+2021.33418	India	Singapore
+2021.33507	India	Indonesia
+2021.33543	India	Turkey
+2021.33626	India	Bangladesh
+2021.33659	United Kingdom	Portugal
+2021.33688	India	Nepal
+2021.33839	Spain	Portugal
+2021.33946	Russia	Germany
+2021.33962	India	USA
+2021.33963	India	Nepal
+2021.33963	South Africa	United Kingdom
+2021.33964	India	USA
+2021.33982	Turkey	Egypt
+2021.34038	India	Turkey
+2021.3404	USA	Canada
+2021.34068	India	Pakistan
+2021.34104	India	United Kingdom
+2021.34168	Russia	Germany
+2021.34235	India	Japan
+2021.34237	India	Japan
+2021.34237	India	Japan
+2021.34237	India	South Africa
+2021.34257	Germany	Indonesia
+2021.34296	Spain	France
+2021.34372	Spain	Israel
+2021.3441599999999	India	Indonesia
+2021.34509	India	Japan
+2021.34512	India	Nepal
+2021.3451499999999	France	Netherlands
+2021.34558	India	Turkey
+2021.34688	Iran	Pakistan
+2021.34697	India	Bangladesh
+2021.34734	India	Bangladesh
+2021.34759	India	Pakistan
+2021.34782	India	Japan
+2021.34783	India	Japan
+2021.34783	India	Singapore
+2021.34784	India	Japan
+2021.3478499999999	Russia	India
+2021.34786	India	Japan
+2021.34941	Russia	Georgia
+2021.3500099999999	India	Russia
+2021.35059	Russia	India
+2021.35152	India	Bangladesh
+2021.35332	India	Japan
+2021.35332	India	Nepal
+2021.35333	India	Nepal
+2021.35333	India	Japan
+2021.35347	France	Russia
+2021.35369	India	Bangladesh
+2021.35393	United Kingdom	USA
+2021.35553	Turkey	Germany
+2021.35591	India	USA
+2021.35604	India	Singapore
+2021.35605	India	Nepal
+2021.35606	India	South Korea
+2021.35606	India	Japan
+2021.35606	India	Nepal
+2021.3563	India	USA
+2021.35643	India	Turkey
+2021.35671	South Korea	Russia
+2021.35765	Guatemala	USA
+2021.3577	India	South Africa
+2021.35818	India	South Africa
+2021.35839	Brazil	France
+2021.35839	India	Nepal
+2021.35896	India	South Korea
+2021.359	Russia	Turkey
+2021.3598	United Kingdom	France
+2021.36003	India	Russia
+2021.36152	United Kingdom	India
+2021.36155	India	Bangladesh
+2021.36246	India	South Africa
+2021.36428	India	Sri Lanka
+2021.36441	Italy	Turkey
+2021.36527	France	Netherlands
+2021.36618	India	South Africa
+2021.36701	India	Thailand
+2021.36702	India	Japan
+2021.36848	India	USA
+2021.36964	France	Greece
+2021.36974	India	USA
+2021.36977	India	Nepal
+2021.36978	India	Singapore
+2021.36991	France	Netherlands
+2021.37052	India	Brazil
+2021.37097	India	Bangladesh
+2021.37248	Russia	Italy
+2021.37248	USA	India
+2021.37251	India	Bahrain
+2021.37251	India	Singapore
+2021.37254	South Africa	Brazil
+2021.37297	India	Malaysia
+2021.37414	India	Philippines
+2021.37445	Spain	France
+2021.37453	India	South Korea
+2021.37463	India	Turkey
+2021.37483	France	Italy
+2021.37493	India	Philippines
+2021.37553	India	Spain
+2021.37587	India	South Africa
+2021.37646	Indonesia	Malaysia
+2021.37771	Germany	Indonesia
+2021.37795	USA	India
+2021.37798	India	Russia
+2021.378	India	Nepal
+2021.38048	India	Bangladesh
+2021.38051	United Kingdom	Spain
+2021.38082	Indonesia	Malaysia
+2021.38101	India	Germany
+2021.38217	Germany	Israel
+2021.38246	India	South Africa
+2021.38343	USA	India
+2021.38346	India	Singapore
+2021.38347	India	Singapore
+2021.38349	Spain	France
+2021.38415	India	Germany
+2021.38571	Singapore	Myanmar
+2021.38619	United Kingdom	India
+2021.3862	India	Singapore
+2021.38795	Pakistan	Poland
+2021.38817	Zambia	South Africa
+2021.38893	United Kingdom	India
+2021.38894	India	Bangladesh
+2021.38958	Russia	South Korea
+2021.38973	India	Malaysia
+2021.39051	Philippines	Japan
+2021.39105	India	Malaysia
+2021.39129	India	Kuwait
+2021.39133	France	Germany
+2021.39268	United Kingdom	Costa Rica
+2021.39286	Russia	South Korea
+2021.39343	Spain	Germany
+2021.39375	India	Bangladesh
+2021.39404	India	Sri Lanka
+2021.39442	India	Singapore
+2021.39443	India	Russia
+2021.3944999999999	Turkey	Georgia
+2021.39457	India	USA
+2021.39493	USA	Canada
+2021.39526	Brazil	Spain
+2021.39591	Spain	France
+2021.39634	India	Rwanda
+2021.39655	India	Turkey
+2021.39679	India	Turkey
+2021.40056	India	Sri Lanka
+2021.40074	India	Georgia
+2021.4009	India	USA
+2021.40127	USA	Colombia
+2021.40187	India	Indonesia
+2021.40262	India	Bahrain
+2021.40265	India	Japan
+2021.40267	Russia	India
+2021.40292	Mexico	Colombia
+2021.40459	Netherlands	France
+2021.40496	India	Japan
+2021.40517	Philippines	Japan
+2021.40538	India	Indonesia
+2021.40538	India	Bahrain
+2021.40539	India	Nepal
+2021.40541	India	Singapore
+2021.40564	Netherlands	France
+2021.40645	India	Bangladesh
+2021.40679	France	Spain
+2021.40787	USA	Germany
+2021.40789	India	Indonesia
+2021.40811	India	South Korea
+2021.4081899999999	India	South Africa
+2021.40842	India	Poland
+2021.40884	India	United Kingdom
+2021.4099899999999	India	United Kingdom
+2021.41049	India	South Africa
+2021.41087	India	Japan
+2021.41122	India	Iraq
+2021.4122	Spain	France
+2021.41227	India	Russia
+2021.41236	India	South Korea
+2021.41282	India	Sri Lanka
+2021.41312	Portugal	France
+2021.41336	Mexico	USA
+2021.41357	USA	Nepal
+2021.41358	India	France
+2021.41358	India	Nepal
+2021.41363	India	Bangladesh
+2021.41407	United Kingdom	Netherlands
+2021.41476	Turkey	Germany
+2021.41496	Turkey	Germany
+2021.41519	India	Poland
+2021.41634	South Korea	Nepal
+2021.41635	India	Uganda
+2021.41636	India	France
+2021.41685	Spain	Germany
+2021.41709	India	Netherlands
+2021.41718	Spain	France
+2021.41752	Russia	Ukraine
+2021.41808	India	Sri Lanka
+2021.41831	India	Botswana
+2021.41837	France	United Kingdom
+2021.41841	Spain	France
+2021.41845	India	Thailand
+2021.41853	Italy	Romania
+2021.41906	India	Bahrain
+2021.41907	India	Nepal
+2021.41907	India	South Korea
+2021.41909	India	South Africa
+2021.41938	France	Spain
+2021.41985	India	Bangladesh
+2021.42108	India	Spain
+2021.4218	India	Bangladesh
+2021.42181	India	Bangladesh
+2021.42208	USA	Mexico
+2021.42289	Russia	USA
+2021.42426	India	Pakistan
+2021.42455	India	Japan
+2021.42626	Russia	Greece
+2021.42649	Russia	France
+2021.4272799999999	India	Singapore
+2021.42729	India	United Kingdom
+2021.42841	India	United Kingdom
+2021.4292	Netherlands	Slovakia
+2021.42947	Myanmar	Thailand
+2021.43029	Russia	Germany
+2021.43087	Mexico	Brazil
+2021.43156	South Africa	Brazil
+2021.43215	Russia	Kazakhstan
+2021.43278	United Kingdom	France
+2021.43278	India	Japan
+2021.43279	India	Bangladesh
+2021.43292	Netherlands	Bulgaria
+2021.43328	India	Indonesia
+2021.43331	India	Greece
+2021.43368	India	Indonesia
+2021.43376	Spain	Portugal
+2021.43445	South Africa	China
+2021.43458	France	Switzerland
+2021.43497	Russia	Turkey
+2021.43552	India	Bahrain
+2021.43553	India	USA
+2021.43554	India	South Africa
+2021.43569	South Africa	Philippines
+2021.43607	Russia	Turkey
+2021.4363	Spain	Belgium
+2021.43701	United Kingdom	Slovenia
+2021.43768	USA	Israel
+2021.43825	India	Oman
+2021.43826	India	Oman
+2021.4385399999999	Russia	Brazil
+2021.44081	USA	Mexico
+2021.4409699999999	USA	India
+2021.4412	Guatemala	Mexico
+2021.44229	Russia	Spain
+2021.44246	Mexico	USA
+2021.4429499999999	Russia	USA
+2021.4433	India	USA
+2021.44374	Turkey	France
+2021.44377	India	Spain
+2021.44494	India	Thailand
+2021.4455	France	Germany
+2021.44643	India	Uganda
+2021.44647	United Kingdom	Uganda
+2021.44648	South Africa	India
+2021.44682	Russia	Spain
+2021.44723	Mexico	USA
+2021.44789	India	Turkey
+2021.4492	India	Nepal
+2021.4497	Turkey	Germany
+2021.44973	United Kingdom	South Africa
+2021.45019	Spain	France
+2021.45065	Turkey	Germany
+2021.45195	India	South Africa
+2021.45196	India	United Arab Emirates
+2021.45197	India	Russia
+2021.45197	India	South Africa
+2021.452	India	Portugal
+2021.45337	France	Germany
+2021.45388	Spain	Brazil
+2021.45426	India	United Kingdom
+2021.45467	India	France
+2021.45467	India	Uganda
+2021.45467	India	Zambia
+2021.45468	India	Turkey
+2021.4547	India	USA
+2021.4547	India	Uganda
+2021.45471	India	Nepal
+2021.45471	India	United Arab Emirates
+2021.45504	South Korea	Sweden
+2021.45512	India	Bangladesh
+2021.45598	United Kingdom	Brazil
+2021.4565499999999	Spain	Brazil
+2021.45674	India	United Kingdom
+2021.4574	India	Turkey
+2021.45743	India	Bangladesh
+2021.45743	India	Bangladesh
+2021.45744	India	USA
+2021.4574499999999	India	Bangladesh
+2021.45748	South Africa	United Kingdom
+2021.45805	France	Netherlands
+2021.45878	Germany	Brazil
+2021.45895	India	France
+2021.46007	India	Sri Lanka
+2021.46017	Indonesia	United Arab Emirates
+2021.46017	India	South Korea
+2021.46052	Russia	Germany
+2021.46073	France	Spain
+2021.46208	Germany	Spain
+2021.46233	Russia	Israel
+2021.46287	India	South Africa
+2021.4629	India	United Kingdom
+2021.463	Russia	Germany
+2021.46303	France	Spain
+2021.46377	India	Russia
+2021.46473	Netherlands	Portugal
+2021.46491	India	Germany
+2021.46492	Spain	Israel
+2021.46499	India	Bulgaria
+2021.46548	France	Germany
+2021.46562	France	Spain
+2021.46568	India	Bangladesh
+2021.46601	Turkey	Japan
+2021.46619	USA	Australia
+2021.46775	Mexico	Brazil
+2021.46807	France	Switzerland
+2021.46837	India	Bangladesh
+2021.46838	India	Bangladesh
+2021.46843	Turkey	Germany
+2021.46935	Netherlands	France
+2021.46984	France	Greece
+2021.47008	United Kingdom	South Africa
+2021.47014	United Kingdom	France
+2021.47021	South Africa	Bangladesh
+2021.47112	Turkey	Indonesia
+2021.47113	India	Bangladesh
+2021.47113	Russia	Brazil
+2021.47115	India	South Korea
+2021.47115	Russia	India
+2021.47118	India	Oman
+2021.47118	South Africa	Brazil
+2021.47119	Russia	USA
+2021.47198	India	United Kingdom
+2021.47226	Spain	France
+2021.47273	South Korea	Switzerland
+2021.47275	Spain	France
+2021.47385	India	Oman
+2021.47387	India	Bangladesh
+2021.47387	India	Bangladesh
+2021.47387	USA	South Africa
+2021.47387	Mexico	USA
+2021.47388	United Kingdom	Portugal
+2021.47389	India	Indonesia
+2021.4746499999999	France	United Kingdom
+2021.47472	Spain	Germany
+2021.47626	Turkey	Germany
+2021.47632	India	Malaysia
+2021.47657	India	Malaysia
+2021.47658	India	Japan
+2021.47661	India	Oman
+2021.47661	France	Spain
+2021.47662	India	Turkey
+2021.47663	Russia	France
+2021.47688	France	Netherlands
+2021.47707	Greece	Portugal
+2021.47737	India	Indonesia
+2021.47772	Greece	Russia
+2021.47849	Russia	Pakistan
+2021.47887	Pakistan	Turkey
+2021.47909	United Kingdom	USA
+2021.47935	India	South Africa
+2021.47963	Mexico	USA
+2021.47978	Spain	Germany
+2021.48011	France	Germany
+2021.48011	USA	Canada
+2021.48076	USA	Estonia
+2021.48207	Brazil	USA
+2021.48207	India	USA
+2021.48208	Mexico	Colombia
+2021.48209	Mexico	USA
+2021.48209	Russia	Germany
+2021.48242	South Korea	Switzerland
+2021.48255	South Africa	United Kingdom
+2021.48332	France	Italy
+2021.48341	Mexico	USA
+2021.48381	Spain	Israel
+2021.48409	Germany	Pakistan
+2021.48429	Spain	France
+2021.4848299999999	India	Nepal
+2021.4852	Portugal	Brazil
+2021.48524	India	Bulgaria
+2021.48651	Spain	Italy
+2021.48651	Portugal	Brazil
+2021.48754	India	Japan
+2021.48756	India	Oman
+2021.48756	India	Oman
+2021.48759	Russia	Japan
+2021.48792	Spain	France
+2021.48804	USA	Mexico
+2021.48809	Russia	Greece
+2021.48854	USA	Brazil
+2021.48878	India	USA
+2021.48902	Portugal	USA
+2021.4895	India	Malaysia
+2021.4897	France	Italy
+2021.4903199999999	France	Spain
+2021.49033	India	South Africa
+2021.49036	Netherlands	Belgium
+2021.49196	United Kingdom	Germany
+2021.49247	Spain	Germany
+2021.49299	Spain	Italy
+2021.49302	Germany	Turkey
+2021.49302	India	Bangladesh
+2021.49303	India	Bangladesh
+2021.49305	India	Bangladesh
+2021.49305	India	Bangladesh
+2021.49306	India	Thailand
+2021.49348	India	Philippines
+2021.49353	Turkey	Israel
+2021.49372	Turkey	Russia
+2021.49382	Spain	France
+2021.49437	Netherlands	France
+2021.49482	India	Philippines
+2021.49485	Spain	Brazil
+2021.49487	India	Bangladesh
+2021.49501	Russia	Ukraine
+2021.49502	Russia	Poland
+2021.49576	Guatemala	USA
+2021.49576	Sri Lanka	Zambia
+2021.49577	India	Zambia
+2021.49578	USA	Argentina
+2021.4958	India	South Africa
+2021.49581	India	South Korea
+2021.49595	France	Netherlands
+2021.49611	Spain	Germany
+2021.49643	USA	Brazil
+2021.49722	Spain	France
+2021.49755	Germany	Greece
+2021.49834	Zambia	USA
+2021.49852	USA	Argentina
+2021.49854	India	Rwanda
+2021.50125	France	Italy
+2021.50129	Russia	Japan
+2021.5013	Russia	Japan
+2021.5021199999999	France	Italy
+2021.5026	Spain	France
+2021.50381	France	Italy
+2021.50398	South Africa	India
+2021.504	India	Bangladesh
+2021.5040099999999	Mexico	USA
+2021.50471	Spain	Israel
+2021.50487	France	Germany
+2021.50625	France	Spain
+2021.50661	Turkey	Italy
+2021.50674	India	Malaysia
+2021.50676	India	Malaysia
+2021.50677	India	Zambia
+2021.50677	India	Nepal
+2021.5068899999999	South Africa	Brazil
+2021.50866	Spain	Germany
+2021.50881	Russia	Italy
+2021.50942	Israel	France
+2021.50948	USA	Argentina
+2021.50949	Japan	Kuwait
+2021.50949	India	USA
+2021.50949	Malaysia	Indonesia
+2021.50949	India	Pakistan
+2021.5095	Singapore	Myanmar
+2021.50951	Russia	Georgia
+2021.50953	India	South Africa
+2021.50975	United Kingdom	USA
+2021.51001	France	Spain
+2021.51008	France	Spain
+2021.51053	Germany	Austria
+2021.51057	Spain	Greece
+2021.51084	Spain	Germany
+2021.51106	Spain	France
+2021.51126	Mexico	USA
+2021.51145	United Kingdom	Malaysia
+2021.51194	India	Jordan
+2021.51207	Mexico	Brazil
+2021.51222	Oman	Japan
+2021.51223	India	Rwanda
+2021.51223	India	USA
+2021.51224	India	South Africa
+2021.51224	India	Nepal
+2021.51224	Bangladesh	South Korea
+2021.51224	France	Belgium
+2021.51226	United Kingdom	USA
+2021.51247	Russia	Georgia
+2021.51249	France	Germany
+2021.51289	Netherlands	Slovakia
+2021.513	India	Philippines
+2021.51345	Germany	Pakistan
+2021.5137	Turkey	USA
+2021.51383	USA	Australia
+2021.51407	Spain	Poland
+2021.51464	Netherlands	Bulgaria
+2021.51484	Russia	Turkey
+2021.51497	Bangladesh	Mozambique
+2021.51514	Spain	Germany
+2021.51543	India	Bangladesh
+2021.5155399999999	India	Netherlands
+2021.51596	Germany	France
+2021.51602	India	Turkey
+2021.51614	United Kingdom	Poland
+2021.51652	Russia	USA
+2021.5166	Russia	Germany
+2021.51706	Netherlands	Ukraine
+2021.51719	France	Romania
+2021.51737	India	Turkey
+2021.51746	Turkey	Netherlands
+2021.51768	India	Bangladesh
+2021.5176999999999	India	Singapore
+2021.5176999999999	Spain	Belgium
+2021.51772	India	Bangladesh
+2021.51773	India	Zambia
+2021.51773	USA	Mexico
+2021.51773	South Africa	Germany
+2021.51834	United Kingdom	Germany
+2021.51881	Turkey	Germany
+2021.5193	Netherlands	Germany
+2021.5193	Russia	Germany
+2021.5194099999999	Netherlands	USA
+2021.51998	India	USA
+2021.52044	Russia	Germany
+2021.52044	Mexico	Colombia
+2021.52045	India	Mozambique
+2021.52177	United Kingdom	France
+2021.5219299999999	Slovenia	Israel
+2021.52201	Russia	Ukraine
+2021.52263	United Kingdom	Ireland
+2021.52315	India	Nepal
+2021.52317	Japan	Kuwait
+2021.52317	United Kingdom	Italy
+2021.52318	USA	Mexico
+2021.52318	United Kingdom	Spain
+2021.5231899999999	India	USA
+2021.5232	India	South Africa
+2021.5232	Spain	Italy
+2021.5233699999999	USA	Argentina
+2021.52355	Russia	Finland
+2021.52361	Germany	Belgium
+2021.52401	Spain	Belgium
+2021.52403	India	Indonesia
+2021.52404	United Kingdom	Germany
+2021.5241	Spain	United Kingdom
+2021.52486	Germany	United Kingdom
+2021.52518	Spain	Germany
+2021.52581	Spain	Germany
+2021.52583	USA	Israel
+2021.52589	India	Bangladesh
+2021.52591	Spain	Mexico
+2021.52592	India	Russia
+2021.52592	United Kingdom	USA
+2021.52593	India	USA
+2021.52593	India	Bangladesh
+2021.52594	Netherlands	Argentina
+2021.52594	India	United Kingdom
+2021.52621	France	United Kingdom
+2021.52675	Russia	Colombia
+2021.5269	Turkey	Germany
+2021.52746	Russia	South Korea
+2021.52748	Russia	Poland
+2021.52753	Indonesia	Malaysia
+2021.52847	France	Italy
+2021.52865	United Kingdom	France
+2021.52865	United Kingdom	Ireland
+2021.52866	Russia	Germany
+2021.52867	India	Indonesia
+2021.52867	India	South Korea
+2021.52868	Mozambique	South Africa
+2021.52872	India	Bangladesh
+2021.52963	South Africa	Italy
+2021.53029	Germany	France
+2021.53068	India	Bangladesh
+2021.5311	Russia	Colombia
+2021.53137	South Africa	Indonesia
+2021.53138	South Africa	Botswana
+2021.5313899999999	United Kingdom	Ireland
+2021.5314	India	Bangladesh
+2021.5314	India	Bangladesh
+2021.53141	France	USA
+2021.53141	France	Italy
+2021.53141	France	Argentina
+2021.53142	India	Bangladesh
+2021.53142	France	United Kingdom
+2021.53142	India	Botswana
+2021.53142	Russia	South Korea
+2021.53143	Russia	Japan
+2021.53144	Russia	Brazil
+2021.53165	United Kingdom	France
+2021.53201	Sri Lanka	Rwanda
+2021.5321	South Africa	Turkey
+2021.5321999999999	Turkey	Czech Republic
+2021.53244	Russia	France
+2021.53313	Mexico	USA
+2021.5335499999999	Russia	Ukraine
+2021.53402	France	Belgium
+2021.53413	France	Spain
+2021.53413	Turkey	Germany
+2021.53414	India	South Africa
+2021.53414	United Kingdom	Spain
+2021.53415	Netherlands	Germany
+2021.53415	India	USA
+2021.53415	Spain	Argentina
+2021.53416	Spain	United Kingdom
+2021.53417	France	Israel
+2021.53645	France	Germany
+2021.53678	France	Germany
+2021.5368799999999	India	Indonesia
+2021.5368799999999	India	Bangladesh
+2021.53689	Turkey	Denmark
+2021.53689	Germany	Spain
+2021.53691	France	Guatemala
+2021.53692	South Africa	Mozambique
+2021.5369699999999	India	Turkey
+2021.53767	USA	Colombia
+2021.53908	United Kingdom	Poland
+2021.53925	India	Bangladesh
+2021.53948	Spain	France
+2021.53961	USA	Japan
+2021.53961	United Kingdom	Brazil
+2021.53962	Mexico	USA
+2021.53963	France	Belgium
+2021.53963	France	Spain
+2021.53963	France	Netherlands
+2021.53963	Portugal	Colombia
+2021.53964	India	Bangladesh
+2021.53964	United Kingdom	Japan
+2021.53996	India	Italy
+2021.54001	Turkey	Germany
+2021.54039	Russia	USA
+2021.54063	United Kingdom	Germany
+2021.54166	Japan	USA
+2021.54216	India	Bangladesh
+2021.54234	Russia	Japan
+2021.54235	Indonesia	Italy
+2021.54236	France	Denmark
+2021.54237	India	Netherlands
+2021.54239	Russia	Israel
+2021.54291	Russia	France
+2021.54319	Ireland	United Kingdom
+2021.5432	India	South Korea
+2021.54415	Russia	Germany
+2021.54493	South Africa	USA
+2021.54505	Mexico	Brazil
+2021.54509	India	South Africa
+2021.54509	Spain	Denmark
+2021.5451	United Kingdom	Spain
+2021.54511	Bangladesh	South Africa
+2021.54512	India	Bangladesh
+2021.54512	India	United Kingdom
+2021.54513	USA	Argentina
+2021.54572	Spain	Italy
+2021.54696	Mexico	Brazil
+2021.54739	Mexico	USA
+2021.54747	India	Poland
+2021.5476899999999	Netherlands	Croatia
+2021.54784	Spain	United Kingdom
+2021.54784	Spain	France
+2021.54784	USA	South Africa
+2021.54784	India	France
+2021.54785	Germany	Netherlands
+2021.54786	France	Brazil
+2021.5478699999999	South Korea	Germany
+2021.54788	Spain	Brazil
+2021.54828	Mexico	Brazil
+2021.54914	United Kingdom	Germany
+2021.54968	Spain	France
+2021.54974	France	Belgium
+2021.55034	India	Turkey
+2021.55037	France	Netherlands
+2021.55055	United Kingdom	Switzerland
+2021.55055	Russia	Pakistan
+2021.55056	United Kingdom	Belgium
+2021.5505699999999	Netherlands	Spain
+2021.5505699999999	France	Spain
+2021.55058	Germany	Italy
+2021.55059	India	Italy
+2021.5506	France	Italy
+2021.5506	France	Israel
+2021.5506	Portugal	Germany
+2021.55061	Spain	Italy
+2021.55061	Russia	South Korea
+2021.55098	Germany	Switzerland
+2021.55106	Guatemala	USA
+2021.55171	Mexico	Brazil
+2021.55209	USA	Indonesia
+2021.55227	Russia	Ukraine
+2021.55248	Germany	Croatia
+2021.55304	USA	Costa Rica
+2021.5533	Russia	Germany
+2021.55332	India	Malaysia
+2021.55332	France	Netherlands
+2021.55332	India	United Kingdom
+2021.55333	USA	Argentina
+2021.55333	USA	Japan
+2021.55334	India	United Kingdom
+2021.55334	India	Greece
+2021.55334	United Kingdom	Spain
+2021.55334	France	Belgium
+2021.55335	Netherlands	Japan
+2021.55335	India	United Kingdom
+2021.5533599999999	United Kingdom	Ireland
+2021.55357	Mexico	USA
+2021.55437	Spain	Romania
+2021.55471	USA	Costa Rica
+2021.55597	Spain	Israel
+2021.55604	Germany	Denmark
+2021.55604	India	Nepal
+2021.55604	Germany	Netherlands
+2021.55605	Mexico	USA
+2021.55606	India	South Africa
+2021.55606	France	Spain
+2021.55606	India	South Korea
+2021.55607	Netherlands	Colombia
+2021.55607	Spain	Argentina
+2021.55607	Spain	United Kingdom
+2021.55608	India	Greece
+2021.55608	France	United Kingdom
+2021.55609	Mexico	USA
+2021.55609	Mexico	USA
+2021.55609	Russia	South Korea
+2021.5561	India	Turkey
+2021.55611	South Africa	Mozambique
+2021.55617	United Kingdom	Ireland
+2021.5586	United Kingdom	Poland
+2021.55864	Russia	Japan
+2021.55877	India	Philippines
+2021.55877	France	Spain
+2021.55879	Spain	Ireland
+2021.5588	Mexico	USA
+2021.5588	India	South Africa
+2021.5588	France	Italy
+2021.5588	France	Portugal
+2021.55881	Netherlands	Israel
+2021.55881	France	Spain
+2021.55881	Portugal	USA
+2021.55881	Russia	South Korea
+2021.55882	India	South Africa
+2021.55882	Spain	Germany
+2021.55884	India	Portugal
+2021.55902	Russia	France
+2021.55905	Switzerland	Sweden
+2021.55966	Turkey	Germany
+2021.5601	Spain	Netherlands
+2021.56029	France	Spain
+2021.56033	Turkey	South Korea
+2021.5607	Russia	Germany
+2021.56152	France	Brazil
+2021.56152	India	Nepal
+2021.56154	France	Japan
+2021.56154	United Kingdom	France
+2021.56154	India	Bangladesh
+2021.56155	Netherlands	France
+2021.56156	France	Belgium
+2021.56157	India	Rwanda
+2021.56189	United Kingdom	Ireland
+2021.5625	USA	Canada
+2021.56275	Turkey	Israel
+2021.5628	Spain	Brazil
+2021.56317	Mexico	Brazil
+2021.56353	Russia	Lithuania
+2021.5637199999999	Spain	Belgium
+2021.56425	USA	Nepal
+2021.56427	United Kingdom	France
+2021.56427	Turkey	Portugal
+2021.56428	France	South Korea
+2021.56428	Malaysia	Singapore
+2021.56429	Indonesia	Iraq
+2021.56429	Bangladesh	South Korea
+2021.5643	India	Nepal
+2021.56432	Netherlands	Italy
+2021.56497	Spain	Croatia
+2021.56505	Russia	Israel
+2021.56562	USA	Switzerland
+2021.56565	Netherlands	Croatia
+2021.56607	Mexico	Brazil
+2021.5664199999999	Russia	Czech Republic
+2021.567	India	Nepal
+2021.567	Germany	Italy
+2021.567	Russia	Turkey
+2021.56701	Germany	Japan
+2021.56702	India	Bangladesh
+2021.56702	India	USA
+2021.56702	France	Italy
+2021.56702	Turkey	Jordan
+2021.56702	Mexico	USA
+2021.56703	Netherlands	Israel
+2021.56703	India	Mexico
+2021.56703	India	USA
+2021.56703	Turkey	Rwanda
+2021.56703	India	France
+2021.56703	France	USA
+2021.56703	Spain	Portugal
+2021.56703	Russia	South Korea
+2021.56703	Russia	Colombia
+2021.56703	India	South Korea
+2021.5670499999999	India	Mozambique
+2021.5670499999999	India	Malaysia
+2021.5670499999999	Russia	Finland
+2021.56706	Brazil	Spain
+2021.56726	Brazil	Romania
+2021.56807	France	Germany
+2021.56817	United Kingdom	Austria
+2021.56825	France	Spain
+2021.56834	India	Nepal
+2021.56853	Russia	Israel
+2021.56972	Russia	Japan
+2021.56973	France	Netherlands
+2021.56974	Turkey	Russia
+2021.56974	Russia	Japan
+2021.5697499999999	USA	Argentina
+2021.5697499999999	Netherlands	Greece
+2021.5697499999999	United Kingdom	Argentina
+2021.5697499999999	United Kingdom	France
+2021.56976	India	Bangladesh
+2021.56976	France	Spain
+2021.56977	Japan	USA
+2021.56977	India	Bangladesh
+2021.56977	Spain	Portugal
+2021.56977	France	Spain
+2021.56977	France	Spain
+2021.56977	Spain	Portugal
+2021.56977	Brazil	Italy
+2021.56978	Japan	Philippines
+2021.56978	France	Germany
+2021.56978	Thailand	South Korea
+2021.56978	India	USA
+2021.56978	Mexico	Argentina
+2021.56979	Mexico	USA
+2021.57012	India	Jordan
+2021.5704	Russia	USA
+2021.57043	Russia	South Korea
+2021.57083	United Kingdom	Netherlands
+2021.57145	Spain	Czech Republic
+2021.57221	Spain	France
+2021.57228	Italy	Spain
+2021.57247	USA	Brazil
+2021.57248	Turkey	Iraq
+2021.57249	Malaysia	Indonesia
+2021.57249	Spain	Denmark
+2021.5725	France	Switzerland
+2021.5725	USA	Costa Rica
+2021.57251	India	Spain
+2021.57251	Turkey	Bangladesh
+2021.57251	Bangladesh	Mozambique
+2021.57251	India	Jordan
+2021.57251	Spain	France
+2021.57251	Mexico	Greece
+2021.57252	South Africa	United Kingdom
+2021.57252	France	Spain
+2021.57252	Spain	Turkey
+2021.57252	France	Spain
+2021.57253	Mexico	USA
+2021.57253	USA	Spain
+2021.57253	Russia	Georgia
+2021.57296	Spain	Chile
+2021.57302	Mexico	USA
+2021.57406	Russia	Ukraine
+2021.57411	Colombia	Chile
+2021.5746	India	Sri Lanka
+2021.57517	Germany	Italy
+2021.5752	Turkey	Bangladesh
+2021.57521	USA	Canada
+2021.57523	France	Netherlands
+2021.57524	Indonesia	Sri Lanka
+2021.57524	France	Spain
+2021.57525	France	Italy
+2021.57525	Turkey	India
+2021.57525	Philippines	Japan
+2021.57525	Guatemala	USA
+2021.57525	USA	South Korea
+2021.57526	France	United Kingdom
+2021.57526	India	South Korea
+2021.57526	Mexico	USA
+2021.57527	Russia	South Korea
+2021.57527	Russia	Georgia
+2021.57532	France	Poland
+2021.57548	Indonesia	Malaysia
+2021.57575	Netherlands	Bulgaria
+2021.57598	France	Germany
+2021.57712	United Kingdom	Romania
+2021.57751	Portugal	France
+2021.57758	USA	Japan
+2021.5779499999999	India	USA
+2021.57797	Mexico	USA
+2021.57798	France	Belgium
+2021.57798	USA	Argentina
+2021.57799	France	United Kingdom
+2021.57799	India	Turkey
+2021.57799	India	Pakistan
+2021.57799	India	USA
+2021.57799	Spain	France
+2021.57799	India	USA
+2021.57799	France	Netherlands
+2021.57816	Netherlands	Bulgaria
+2021.5783099999999	India	Turkey
+2021.5806499999999	Spain	United Kingdom
+2021.5807	India	Pakistan
+2021.5807	USA	India
+2021.5807	USA	Ireland
+2021.58071	Netherlands	Israel
+2021.58072	India	Brazil
+2021.58072	Russia	Spain
+2021.58072	United Kingdom	Germany
+2021.58073	Spain	Israel
+2021.58073	India	USA
+2021.58073	France	Spain
+2021.58073	France	Denmark
+2021.58073	USA	Canada
+2021.5807399999999	Netherlands	Germany
+2021.5807399999999	Spain	Belgium
+2021.58075	United Kingdom	India
+2021.58076	Guatemala	USA
+2021.5808	France	Slovakia
+2021.58095	Guatemala	USA
+2021.58098	Spain	Slovenia
+2021.58178	Turkey	Germany
+2021.5819	Turkey	Germany
+2021.58194	Germany	Slovenia
+2021.58207	South Korea	Turkey
+2021.5828099999999	Germany	Poland
+2021.58294	France	Germany
+2021.58334	Spain	United Kingdom
+2021.5834399999999	United Kingdom	Portugal
+2021.58345	India	Turkey
+2021.58346	USA	Costa Rica
+2021.58347	India	Turkey
+2021.58347	India	Bangladesh
+2021.58348	India	Spain
+2021.58348	Russia	Turkey
+2021.58348	Russia	Turkey
+2021.58351	France	Italy
+2021.58383	India	Turkey
+2021.58391	India	Indonesia
+2021.58415	Mexico	Brazil
+2021.58435	USA	Brazil
+2021.58442	France	Bulgaria
+2021.5846999999999	Russia	Japan
+2021.58492	United Kingdom	Bulgaria
+2021.585	India	South Korea
+2021.58513	India	USA
+2021.58591	Mexico	USA
+2021.58598	India	USA
+2021.58607	USA	Canada
+2021.58609	France	Croatia
+2021.58616	India	Bangladesh
+2021.58618	USA	Colombia
+2021.58618	Turkey	Iran
+2021.58619	France	Japan
+2021.58619	USA	Brazil
+2021.58619	United Kingdom	Japan
+2021.58619	Turkey	Iran
+2021.58619	India	Japan
+2021.58619	India	Pakistan
+2021.58619	Spain	Brazil
+2021.5862	India	Sri Lanka
+2021.5862	India	Sweden
+2021.5862	USA	India
+2021.58621	India	Turkey
+2021.58621	Spain	Switzerland
+2021.58621	France	Belgium
+2021.58622	Spain	France
+2021.58622	Bangladesh	Sri Lanka
+2021.58623	Russia	Germany
+2021.58665	United Kingdom	Switzerland
+2021.58677	Israel	Romania
+2021.58765	Mexico	Brazil
+2021.58806	USA	Canada
+2021.58889	Spain	Denmark
+2021.58891	France	Netherlands
+2021.58892	Spain	Italy
+2021.58893	Mexico	France
+2021.58893	Mexico	Costa Rica
+2021.58893	France	Spain
+2021.58893	Brazil	France
+2021.58894	Germany	France
+2021.58894	Spain	France
+2021.58894	India	Indonesia
+2021.58894	India	Guatemala
+2021.58894	France	Italy
+2021.58894	United Kingdom	Spain
+2021.58895	France	Portugal
+2021.58895	Spain	France
+2021.58895	Russia	Japan
+2021.58896	France	Belgium
+2021.58896	France	Spain
+2021.58896	South Korea	Finland
+2021.58896	Russia	Finland
+2021.58897	India	Vietnam
+2021.58925	United Kingdom	Germany
+2021.59049	Russia	Austria
+2021.59098	Russia	Ukraine
+2021.591	Mexico	USA
+2021.59157	Spain	Italy
+2021.59165	France	Denmark
+2021.59167	Germany	Iran
+2021.59167	India	South Korea
+2021.59168	India	USA
+2021.59168	Germany	Pakistan
+2021.59169	India	Turkey
+2021.59169	Mexico	Brazil
+2021.59169	Spain	Brazil
+2021.59169	USA	Argentina
+2021.59169	Mexico	USA
+2021.5917	Russia	Greece
+2021.59171	Mexico	USA
+2021.59171	United Kingdom	Ireland
+2021.59171	Russia	Turkey
+2021.59226	Mexico	USA
+2021.59287	Spain	France
+2021.59414	Guatemala	USA
+2021.59439	India	Pakistan
+2021.5944	USA	Argentina
+2021.59441	Mexico	USA
+2021.59441	Russia	Israel
+2021.59441	USA	India
+2021.59441	India	Turkey
+2021.59442	USA	South Korea
+2021.59442	India	Italy
+2021.59442	Colombia	Guatemala
+2021.59442	India	Bangladesh
+2021.5944299999999	Malaysia	Indonesia
+2021.5944299999999	India	Indonesia
+2021.5944299999999	India	USA
+2021.59444	India	Bangladesh
+2021.59514	France	Croatia
+2021.59577	Germany	Italy
+2021.596	France	Romania
+2021.5963	Russia	Finland
+2021.59694	Spain	Belgium
+2021.59705	India	Indonesia
+2021.59715	USA	Canada
+2021.59715	Netherlands	Ireland
+2021.59716	USA	Japan
+2021.59717	Netherlands	USA
+2021.59717	USA	Colombia
+2021.59717	Spain	Italy
+2021.59717	France	Netherlands
+2021.59717	Spain	Israel
+2021.59718	Uganda	Kenya
+2021.59719	India	South Africa
+2021.59719	South Africa	Brazil
+2021.5972	Russia	France
+2021.59757	Turkey	Israel
+2021.59832	Spain	Netherlands
+2021.59874	Spain	Lithuania
+2021.59897	Germany	Netherlands
+2021.59906	United Kingdom	Germany
+2021.59975	France	Germany
+2021.59988	Turkey	Israel
+2021.59988	Spain	Italy
+2021.59989	USA	Brazil
+2021.59989	United Kingdom	Portugal
+2021.5999	France	Georgia
+2021.5999	Russia	USA
+2021.5999	USA	Japan
+2021.5999	USA	Japan
+2021.59991	Spain	France
+2021.59991	USA	Canada
+2021.59993	Russia	Georgia
+2021.60035	Spain	Portugal
+2021.60099	Spain	Greece
+2021.6025	France	United Kingdom
+2021.60262	USA	Brazil
+2021.60262	United Kingdom	Austria
+2021.60262	Turkey	Israel
+2021.60263	Malaysia	Indonesia
+2021.60263	India	Malaysia
+2021.60263	United Kingdom	Belgium
+2021.60264	India	USA
+2021.60264	India	Pakistan
+2021.60264	USA	Argentina
+2021.60265	India	Bangladesh
+2021.60267	United Kingdom	Ireland
+2021.60435	Russia	Germany
+2021.60489	India	Poland
+2021.60501	Turkey	Russia
+2021.60508	Russia	Estonia
+2021.60512	Croatia	Slovenia
+2021.60535	India	Nepal
+2021.60536	India	Bangladesh
+2021.60536	Russia	Georgia
+2021.60536	Russia	Japan
+2021.60537	United Kingdom	France
+2021.60537	France	Italy
+2021.60537	Germany	Belgium
+2021.60537	Germany	South Korea
+2021.60538	France	Switzerland
+2021.60538	India	South Africa
+2021.60538	Germany	Jordan
+2021.60538	USA	Malaysia
+2021.60538	Ireland	Switzerland
+2021.60538	Mexico	Japan
+2021.60539	France	United Kingdom
+2021.60539	India	USA
+2021.60539	France	Switzerland
+2021.60539	France	Spain
+2021.60539	Russia	Georgia
+2021.6054	India	South Africa
+2021.60541	Spain	Finland
+2021.606	USA	Argentina
+2021.60604	Russia	Poland
+2021.60608	Germany	Ukraine
+2021.60618	Spain	Netherlands
+2021.60664	South Africa	USA
+2021.60674	India	Georgia
+2021.60809	Russia	Greece
+2021.60809	India	United Kingdom
+2021.6081	United Kingdom	Spain
+2021.60811	Germany	France
+2021.60811	Russia	Canada
+2021.60811	India	South Africa
+2021.60812	South Africa	Brazil
+2021.60812	Spain	France
+2021.60812	United Kingdom	Spain
+2021.60813	Japan	Singapore
+2021.60813	India	Turkey
+2021.60813	India	South Africa
+2021.60813	Spain	France
+2021.60813	Russia	Georgia
+2021.60814	India	Japan
+2021.60814	Russia	Israel
+2021.60815	Germany	Italy
+2021.60815	Italy	Brazil
+2021.60818	Spain	Germany
+2021.60827	Mexico	USA
+2021.60882	India	Jordan
+2021.61083	France	Belgium
+2021.61085	Philippines	Japan
+2021.61085	Indonesia	Malaysia
+2021.61085	United Kingdom	Ireland
+2021.61085	Mexico	USA
+2021.61086	Russia	India
+2021.61086	Russia	Denmark
+2021.61086	India	South Africa
+2021.61087	Netherlands	Israel
+2021.61087	Netherlands	Israel
+2021.61087	France	USA
+2021.61087	Mexico	Brazil
+2021.61087	India	USA
+2021.61087	Thailand	Myanmar
+2021.61087	India	South Korea
+2021.61087	France	Germany
+2021.61088	India	Botswana
+2021.61123	Spain	Brazil
+2021.61165	Malaysia	Indonesia
+2021.61251	United Kingdom	Spain
+2021.61295	United Kingdom	Netherlands
+2021.61302	Spain	Croatia
+2021.61357	South Africa	Kenya
+2021.61358	Ireland	Netherlands
+2021.61358	Spain	Italy
+2021.61359	Mexico	USA
+2021.61359	USA	Israel
+2021.61359	United Kingdom	Pakistan
+2021.61359	Turkey	Jordan
+2021.6136	USA	Japan
+2021.6136	Germany	Italy
+2021.6136	France	Spain
+2021.6136	France	Japan
+2021.6136	Russia	Nepal
+2021.6136	Switzerland	Finland
+2021.6136099999999	Netherlands	Spain
+2021.6136099999999	Myanmar	Japan
+2021.6136099999999	France	Spain
+2021.61363	United Kingdom	South Africa
+2021.61363	United Kingdom	Italy
+2021.61363	Russia	Argentina
+2021.61399	Germany	Croatia
+2021.61421	Mexico	USA
+2021.61425	France	Italy
+2021.61457	India	Indonesia
+2021.61536	India	Romania
+2021.6159499999999	India	Japan
+2021.61633	France	Germany
+2021.61633	Germany	South Korea
+2021.61633	Spain	Argentina
+2021.61633	Mexico	Colombia
+2021.61634	France	Denmark
+2021.61634	France	Brazil
+2021.61634	France	Italy
+2021.61634	France	Greece
+2021.61634	Netherlands	Germany
+2021.61635	Germany	Austria
+2021.61635	Portugal	USA
+2021.61635	France	Germany
+2021.61636	India	Indonesia
+2021.61636	Thailand	Vietnam
+2021.61636	Thailand	Vietnam
+2021.61636	Russia	USA
+2021.61637	USA	Argentina
+2021.61665	Russia	Germany
+2021.61665	United Kingdom	Kosovo
+2021.6176	Spain	Austria
+2021.61763	France	Ireland
+2021.61904	India	Germany
+2021.61906	Turkey	Georgia
+2021.61907	Japan	Sri Lanka
+2021.61907	France	Portugal
+2021.61907	Mexico	USA
+2021.61908	India	Indonesia
+2021.61908	India	Bangladesh
+2021.61909	Sweden	Greece
+2021.61921	United Kingdom	Romania
+2021.62039	United Kingdom	Romania
+2021.62063	United Kingdom	Romania
+2021.62125	India	Sweden
+2021.62138	Germany	Romania
+2021.6214	Switzerland	Germany
+2021.62155	United Kingdom	Romania
+2021.6218	Japan	Philippines
+2021.6218	United Kingdom	Ireland
+2021.62181	India	Denmark
+2021.62182	India	Pakistan
+2021.62182	France	Switzerland
+2021.62182	USA	Japan
+2021.62183	India	Brazil
+2021.62183	USA	Japan
+2021.62186	United Kingdom	Netherlands
+2021.62258	Germany	Russia
+2021.62292	United Kingdom	Germany
+2021.62304	United Kingdom	Spain
+2021.62307	United Kingdom	Portugal
+2021.62333	France	United Kingdom
+2021.62422	Netherlands	Slovakia
+2021.62452	India	United Kingdom
+2021.62452	Malaysia	South Africa
+2021.62453	India	Brazil
+2021.62453	Germany	Portugal
+2021.62454	Spain	Sweden
+2021.62454	USA	Japan
+2021.62454	Turkey	USA
+2021.62454	Germany	Bangladesh
+2021.62454	Spain	France
+2021.62455	India	Nepal
+2021.62455	France	Belgium
+2021.62455	India	United Kingdom
+2021.62455	Netherlands	Denmark
+2021.62455	USA	Costa Rica
+2021.62456	India	Israel
+2021.62456	India	Nepal
+2021.62456	France	Spain
+2021.62456	France	Spain
+2021.62456	Russia	South Korea
+2021.62456	India	USA
+2021.62456	Georgia	Thailand
+2021.62457	Brazil	Mexico
+2021.62457	Spain	Portugal
+2021.62457	United Kingdom	USA
+2021.62459	United Kingdom	South Africa
+2021.62459	Spain	Brazil
+2021.62459	Russia	Portugal
+2021.6257	United Kingdom	Japan
+2021.62727	Iraq	USA
+2021.62727	India	Sri Lanka
+2021.62728	USA	Colombia
+2021.62728	Germany	Switzerland
+2021.62729	Netherlands	France
+2021.62729	Mexico	Brazil
+2021.62729	India	Italy
+2021.62729	Germany	Bulgaria
+2021.62729	Spain	France
+2021.62729	Spain	France
+2021.62729	USA	Colombia
+2021.62729	United Kingdom	France
+2021.6272999999999	India	Bangladesh
+2021.6272999999999	France	Germany
+2021.6272999999999	Germany	Switzerland
+2021.6272999999999	USA	Japan
+2021.6272999999999	USA	Bangladesh
+2021.6272999999999	Austria	France
+2021.62731	Portugal	United Kingdom
+2021.62744	Belgium	Germany
+2021.62835	Germany	USA
+2021.62924	Spain	France
+2021.6299999999999	India	USA
+2021.63001	France	Belgium
+2021.63001	India	Bangladesh
+2021.63003	Malaysia	Indonesia
+2021.63003	Indonesia	Philippines
+2021.63003	Germany	South Korea
+2021.63004	Mexico	USA
+2021.63004	Italy	South Africa
+2021.63004	Spain	Switzerland
+2021.63004	Germany	Israel
+2021.63004	France	USA
+2021.63005	India	USA
+2021.63005	India	USA
+2021.63005	India	South Africa
+2021.63005	Spain	Brazil
+2021.63006	Russia	Israel
+2021.63007	Russia	Kazakhstan
+2021.63052	France	Spain
+2021.63075	United Kingdom	Poland
+2021.63109	Georgia	Turkey
+2021.63254	Turkey	Germany
+2021.6326	Germany	Turkey
+2021.63275	South Africa	Kenya
+2021.63277	India	South Africa
+2021.63277	Germany	Italy
+2021.63277	Mexico	USA
+2021.6327899999999	India	Austria
+2021.6327899999999	France	Spain
+2021.6328	United Kingdom	South Africa
+2021.63281	USA	Argentina
+2021.63281	Russia	Germany
+2021.63281	Ukraine	Japan
+2021.63283	Germany	Slovenia
+2021.63321	Italy	Germany
+2021.63355	Germany	Russia
+2021.634	Germany	Poland
+2021.63414	Italy	Germany
+2021.63467	United Kingdom	Portugal
+2021.6355	Spain	Israel
+2021.63551	USA	Costa Rica
+2021.63551	India	South Africa
+2021.63551	Spain	Brazil
+2021.63552	Japan	Singapore
+2021.63552	India	Indonesia
+2021.63552	India	Indonesia
+2021.63553	India	USA
+2021.63553	India	USA
+2021.63553	Russia	France
+2021.63553	Russia	Germany
+2021.63554	India	Bangladesh
+2021.63614	Indonesia	Austria
+2021.63656	United Kingdom	Germany
+2021.63781	Germany	Jordan
+2021.63824	Germany	Japan
+2021.63825	India	Philippines
+2021.63825	Spain	Brazil
+2021.63825	India	Kenya
+2021.63825	France	Italy
+2021.63825	United Kingdom	Belgium
+2021.63826	Spain	France
+2021.63826	Spain	Germany
+2021.63826	Spain	Argentina
+2021.63827	France	Italy
+2021.63828	Guatemala	USA
+2021.6383	South Africa	Italy
+2021.63863	Croatia	Germany
+2021.63892	United Kingdom	Czech Republic
+2021.63909	France	Spain
+2021.63929	United Kingdom	Ireland
+2021.63981	Russia	Czech Republic
+2021.64025	USA	Israel
+2021.64098	France	Denmark
+2021.6409899999999	Mexico	Brazil
+2021.6409899999999	India	Nepal
+2021.6409899999999	United Kingdom	Ireland
+2021.6409899999999	Netherlands	Denmark
+2021.6409899999999	Germany	Kosovo
+2021.6409899999999	Germany	Kosovo
+2021.641	India	Nepal
+2021.641	Spain	Portugal
+2021.64101	India	Brazil
+2021.64101	India	Philippines
+2021.64205	Germany	Kosovo
+2021.64367	United Kingdom	Poland
+2021.6437	India	Japan
+2021.64372	Germany	Portugal
+2021.64372	United Kingdom	Israel
+2021.64372	Turkey	Japan
+2021.64372	Spain	Japan
+2021.64373	Germany	Switzerland
+2021.64373	Mexico	USA
+2021.64373	India	USA
+2021.64374	Spain	United Kingdom
+2021.64374	USA	Germany
+2021.64375	India	Bangladesh
+2021.64376	India	Bangladesh
+2021.64376	India	Germany
+2021.64376	Mexico	USA
+2021.64379	USA	Australia
+2021.64403	United Kingdom	Spain
+2021.64444	USA	Canada
+2021.64474	Germany	Poland
+2021.64511	Turkey	Netherlands
+2021.64529	India	Slovakia
+2021.64532	Germany	Austria
+2021.64559	France	Czech Republic
+2021.64571	France	Germany
+2021.64584	Malaysia	Turkey
+2021.64644	France	Morocco
+2021.64645	India	Russia
+2021.64646	United Kingdom	France
+2021.64646	United Kingdom	France
+2021.64646	United Kingdom	Malaysia
+2021.64646	India	United Kingdom
+2021.64646	India	Morocco
+2021.64647	Netherlands	Germany
+2021.64647	Spain	France
+2021.64647	Mexico	USA
+2021.64647	Mexico	Argentina
+2021.6464799999999	France	Spain
+2021.6464799999999	Netherlands	Austria
+2021.6464799999999	USA	Netherlands
+2021.64649	France	Romania
+2021.64649	India	Germany
+2021.64649	France	Israel
+2021.6465	Ukraine	Italy
+2021.64651	India	Bangladesh
+2021.64665	Spain	Brazil
+2021.64696	Iraq	Germany
+2021.64727	Spain	Indonesia
+2021.64741	Germany	Belgium
+2021.64839	USA	Costa Rica
+2021.64919	Brazil	Israel
+2021.64919	Spain	Israel
+2021.6492	Germany	France
+2021.64921	France	Israel
+2021.64921	United Kingdom	USA
+2021.64921	Turkey	Japan
+2021.64921	Germany	Netherlands
+2021.64921	Netherlands	Bulgaria
+2021.64921	India	Austria
+2021.64922	Malaysia	Singapore
+2021.64922	India	Malaysia
+2021.64922	Germany	Sweden
+2021.64922	Spain	Brazil
+2021.64922	Netherlands	France
+2021.64923	South Korea	Morocco
+2021.64923	France	Netherlands
+2021.64923	Russia	Botswana
+2021.64923	Mexico	USA
+2021.64924	Mexico	Israel
+2021.6504	Germany	Czech Republic
+2021.65086	Germany	Slovakia
+2021.65092	United Kingdom	Slovakia
+2021.65092	USA	Australia
+2021.65193	India	Israel
+2021.65193	Russia	USA
+2021.65194	India	Bangladesh
+2021.65194	Russia	Morocco
+2021.65194	Netherlands	Belgium
+2021.65195	USA	Costa Rica
+2021.65195	Mexico	Philippines
+2021.65195	Mexico	USA
+2021.65196	Japan	Philippines
+2021.65196	France	Spain
+2021.65196	Netherlands	United Kingdom
+2021.65196	Spain	Italy
+2021.65196	Spain	Italy
+2021.65196	USA	Colombia
+2021.65196	Turkey	USA
+2021.65196	India	Philippines
+2021.65197	Bangladesh	Philippines
+2021.65197	Spain	Sweden
+2021.65197	Georgia	Japan
+2021.65197	Russia	Nigeria
+2021.65198	India	Japan
+2021.65198	India	Philippines
+2021.65198	Mexico	Indonesia
+2021.65199	Israel	Thailand
+2021.65298	Spain	Czech Republic
+2021.65324	United Kingdom	Netherlands
+2021.65384	United Kingdom	USA
+2021.65466	Germany	United Kingdom
+2021.65467	United Kingdom	Norway
+2021.65467	Sri Lanka	Bangladesh
+2021.65469	France	Ireland
+2021.65469	India	Pakistan
+2021.65469	USA	Canada
+2021.65469	USA	Italy
+2021.65469	India	South Korea
+2021.65469	Spain	USA
+2021.6547	Russia	Turkey
+2021.6547	India	USA
+2021.6547	India	Kenya
+2021.65471	Netherlands	Belgium
+2021.65472	Guatemala	USA
+2021.65473	Brazil	Romania
+2021.65475	Japan	South Korea
+2021.65596	France	Romania
+2021.65597	United Kingdom	Poland
+2021.65634	Mexico	Peru
+2021.6564799999999	Spain	Belgium
+2021.65671	France	Netherlands
+2021.65741	Turkey	Japan
+2021.65742	USA	South Korea
+2021.65742	United Kingdom	Bulgaria
+2021.65743	USA	Argentina
+2021.65743	Germany	Switzerland
+2021.65744	Spain	Norway
+2021.65744	USA	Japan
+2021.65744	Mexico	USA
+2021.6574699999999	India	Nigeria
+2021.65781	USA	Costa Rica
+2021.6583699999999	Germany	Turkey
+2021.65854	India	Romania
+2021.65859	Romania	Germany
+2021.6592	Germany	USA
+2021.66014	Germany	Israel
+2021.66016	United Kingdom	Germany
+2021.66016	Turkey	Malaysia
+2021.6601699999999	Germany	Austria
+2021.66018	France	United Kingdom
+2021.66018	Netherlands	Lithuania
+2021.66018	Mexico	USA
+2021.66018	Spain	Israel
+2021.66018	USA	Japan
+2021.66019	France	Switzerland
+2021.66019	India	Kenya
+2021.6602	Russia	Singapore
+2021.66022	India	Israel
+2021.6617899999999	Spain	Romania
+2021.66192	Spain	Netherlands
+2021.66207	Greece	Poland
+2021.6629	USA	Brazil
+2021.6629	United Kingdom	Ireland
+2021.6629	United Kingdom	Norway
+2021.6629	Turkey	Sri Lanka
+2021.66291	Netherlands	Bulgaria
+2021.66291	France	Brazil
+2021.66291	France	Belgium
+2021.66291	India	USA
+2021.66291	Colombia	Costa Rica
+2021.66291	Mexico	USA
+2021.66292	Spain	Portugal
+2021.66292	Germany	Switzerland
+2021.66292	Germany	Sweden
+2021.66293	Russia	Japan
+2021.66294	Mexico	USA
+2021.66294	Germany	Austria
+2021.6634	Greece	Poland
+2021.66423	Spain	Italy
+2021.66441	Spain	Austria
+2021.66483	Germany	Italy
+2021.66527	USA	Chile
+2021.66562	India	Pakistan
+2021.66564	Italy	France
+2021.66564	USA	Japan
+2021.66564	United Kingdom	Sweden
+2021.66564	Germany	United Kingdom
+2021.66564	United Kingdom	Norway
+2021.66564	Turkey	Russia
+2021.66564	Turkey	Georgia
+2021.66564	Pakistan	Austria
+2021.66564	Germany	France
+2021.66565	Rwanda	Kenya
+2021.66565	France	USA
+2021.66565	Russia	Georgia
+2021.66565	Malaysia	Italy
+2021.66565	USA	Israel
+2021.66566	Spain	Portugal
+2021.66566	Brazil	France
+2021.66566	France	Israel
+2021.66566	Indonesia	Georgia
+2021.66567	Germany	France
+2021.66567	France	Croatia
+2021.66567	Turkey	Germany
+2021.66567	Russia	Indonesia
+2021.66568	USA	Japan
+2021.66601	USA	Germany
+2021.66615	Germany	Romania
+2021.66686	India	France
+2021.6672	USA	Colombia
+2021.66746	Germany	Belgium
+2021.66749	Spain	France
+2021.66771	USA	Brazil
+2021.66837	Turkey	Germany
+2021.66837	India	USA
+2021.66837	Iraq	Italy
+2021.66838	France	Israel
+2021.66838	Indonesia	Morocco
+2021.66839	India	South Africa
+2021.66839	Spain	Romania
+2021.66839	USA	Bulgaria
+2021.66839	United Kingdom	Romania
+2021.66839	India	Turkey
+2021.6684	France	Italy
+2021.6684	Spain	France
+2021.6684	France	USA
+2021.6684	Spain	Belgium
+2021.66841	USA	Guatemala
+2021.66841	Russia	Japan
+2021.66841	Greece	Switzerland
+2021.66841	Russia	Kosovo
+2021.66842	United Kingdom	Belgium
+2021.66843	United Kingdom	South Africa
+2021.66971	Turkey	Russia
+2021.66992	France	Brazil
+2021.67032	France	Belgium
+2021.67036	Russia	Germany
+2021.67109	USA	Mexico
+2021.67111	India	Bangladesh
+2021.67111	Austria	Kosovo
+2021.67111	Iraq	Norway
+2021.67112	USA	Mexico
+2021.67112	USA	Colombia
+2021.67112	Germany	France
+2021.67112	Mexico	USA
+2021.67112	Pakistan	United Kingdom
+2021.67113	France	Denmark
+2021.67113	France	Spain
+2021.67113	France	Italy
+2021.67113	Germany	Denmark
+2021.67113	Mexico	USA
+2021.67114	Russia	South Korea
+2021.67114	Russia	Italy
+2021.67114	Russia	Japan
+2021.67115	France	Netherlands
+2021.67116	Spain	Germany
+2021.67116	India	Malaysia
+2021.67186	USA	Australia
+2021.67238	India	Thailand
+2021.67349	Israel	Lithuania
+2021.67378	Germany	Romania
+2021.6738	Spain	Brazil
+2021.67384	India	Iran
+2021.67384	India	Turkey
+2021.67385	India	United Kingdom
+2021.6738599999999	France	Italy
+2021.6738599999999	Indonesia	Sri Lanka
+2021.67387	India	Sri Lanka
+2021.67387	Pakistan	Morocco
+2021.67387	Germany	Netherlands
+2021.67387	France	Germany
+2021.67389	India	South Korea
+2021.67389	India	Nepal
+2021.67389	USA	Mexico
+2021.67389	France	Spain
+2021.6739	United Kingdom	Spain
+2021.6739	Russia	Turkey
+2021.67392	Indonesia	Israel
+2021.67463	Spain	Norway
+2021.6746699999999	Netherlands	Slovakia
+2021.67478	Slovenia	Germany
+2021.67513	France	Romania
+2021.6762899999999	Colombia	Chile
+2021.67658	Belgium	Netherlands
+2021.67659	USA	Argentina
+2021.67659	India	USA
+2021.6766	United Kingdom	Ireland
+2021.67661	Mexico	Israel
+2021.67661	USA	France
+2021.67662	France	Greece
+2021.67663	Mexico	USA
+2021.67664	Spain	Brazil
+2021.6766499999999	India	Malaysia
+2021.67758	USA	Chile
+2021.67774	France	Romania
+2021.67774	United Kingdom	Poland
+2021.67867	France	Netherlands
+2021.67931	India	Croatia
+2021.67934	India	Nepal
+2021.67934	Turkey	Portugal
+2021.6793499999999	USA	Canada
+2021.6793499999999	Germany	Austria
+2021.67936	India	USA
+2021.67936	Guatemala	Canada
+2021.67936	USA	Argentina
+2021.67936	India	Pakistan
+2021.67937	France	Switzerland
+2021.67937	Russia	Kazakhstan
+2021.67937	Turkey	Indonesia
+2021.67939	Guatemala	USA
+2021.68005	United Kingdom	France
+2021.681	France	Romania
+2021.68137	France	Poland
+2021.68205	India	Malaysia
+2021.68206	Turkey	India
+2021.68207	United Kingdom	Germany
+2021.68207	Turkey	Russia
+2021.68208	United Kingdom	Lithuania
+2021.68208	United Kingdom	Germany
+2021.68208	Germany	Sweden
+2021.68209	India	Bangladesh
+2021.68209	France	Germany
+2021.68209	USA	Costa Rica
+2021.68209	Netherlands	Croatia
+2021.68209	India	USA
+2021.6821	France	Germany
+2021.6821	USA	Bangladesh
+2021.68213	Germany	Slovakia
+2021.68249	Chile	Peru
+2021.68337	United Kingdom	Ireland
+2021.68394	United Kingdom	Austria
+2021.6845	United Kingdom	Germany
+2021.6848	India	Nepal
+2021.6848	United Kingdom	France
+2021.68481	Spain	Germany
+2021.68481	India	USA
+2021.68482	Brazil	USA
+2021.68482	Germany	Spain
+2021.68482	Spain	France
+2021.68482	Germany	France
+2021.68482	France	Spain
+2021.68482	Russia	Germany
+2021.68482	USA	Brazil
+2021.68482	USA	United Kingdom
+2021.68482	Spain	Switzerland
+2021.68483	Spain	France
+2021.68483	Russia	Bulgaria
+2021.68483	Mexico	USA
+2021.68484	France	Belgium
+2021.68484	India	Thailand
+2021.68484	India	Indonesia
+2021.68485	India	USA
+2021.68649	Germany	Netherlands
+2021.68685	France	Czech Republic
+2021.6875499999999	United Kingdom	Kosovo
+2021.6875499999999	India	Turkey
+2021.68756	Spain	Israel
+2021.68756	South Korea	Italy
+2021.68756	Germany	Switzerland
+2021.68756	USA	Brazil
+2021.68757	Mexico	USA
+2021.68757	India	Brazil
+2021.68757	Colombia	USA
+2021.68757	Turkey	Germany
+2021.68757	Mexico	USA
+2021.68758	France	Belgium
+2021.68758	France	Kosovo
+2021.68758	Spain	Germany
+2021.68758	Russia	USA
+2021.68758	United Kingdom	Greece
+2021.68758	United Kingdom	Ireland
+2021.68759	India	USA
+2021.68759	India	USA
+2021.68759	United Kingdom	India
+2021.68794	Italy	United Kingdom
+2021.6879999999999	Russia	South Korea
+2021.6882699999999	Czech Republic	Slovakia
+2021.68898	Germany	Croatia
+2021.68934	Turkey	Germany
+2021.69029	Italy	Morocco
+2021.69029	Turkey	Russia
+2021.6903	United Kingdom	Italy
+2021.6903	Turkey	Jordan
+2021.6903	Germany	Norway
+2021.69031	Mexico	USA
+2021.69031	India	Malaysia
+2021.69031	United Kingdom	Austria
+2021.69031	Germany	Pakistan
+2021.69031	India	USA
+2021.69031	Mexico	Colombia
+2021.69032	France	United Kingdom
+2021.69032	France	Italy
+2021.69032	France	Switzerland
+2021.69032	Turkey	Russia
+2021.69033	India	Sri Lanka
+2021.69033	India	Bangladesh
+2021.69033	Germany	Ireland
+2021.6903399999999	Russia	Mexico
+2021.6903399999999	Russia	Japan
+2021.69035	Spain	Israel
+2021.69049	France	Belgium
+2021.6905199999999	Turkey	Ukraine
+2021.69053	Spain	Brazil
+2021.69191	United Kingdom	Czech Republic
+2021.6919599999999	United Kingdom	Poland
+2021.69206	Germany	Netherlands
+2021.69303	USA	Colombia
+2021.69303	Turkey	Germany
+2021.69303	Germany	Romania
+2021.6930399999999	Germany	Greece
+2021.69305	India	Israel
+2021.69305	Germany	Switzerland
+2021.69305	France	Spain
+2021.69306	India	South Africa
+2021.69306	Spain	Sweden
+2021.69306	India	Malaysia
+2021.69308	Russia	Lithuania
+2021.6942099999999	France	Italy
+2021.69478	Brazil	Germany
+2021.6948399999999	Netherlands	Ukraine
+2021.69576	India	Jordan
+2021.69577	United Kingdom	Italy
+2021.69579	USA	Greece
+2021.69579	Japan	Sri Lanka
+2021.6958	Portugal	Spain
+2021.69581	United Kingdom	Germany
+2021.69583	India	Indonesia
+2021.69607	United Kingdom	Czech Republic
+2021.69666	Guatemala	France
+2021.69755	France	Poland
+2021.69766	United Kingdom	Lithuania
+2021.69851	USA	United Kingdom
+2021.69852	Turkey	Netherlands
+2021.69853	Russia	Germany
+2021.69853	India	USA
+2021.69854	Japan	India
+2021.69854	India	Israel
+2021.69855	Guatemala	Costa Rica
+2021.69855	Russia	South Korea
+2021.69855	Russia	Israel
+2021.69884	Romania	Austria
+2021.69894	France	Austria
+2021.69975	Switzerland	Germany
+2021.70005	Italy	USA
+2021.70124	Germany	Switzerland
+2021.70125	Turkey	Russia
+2021.70125	Spain	France
+2021.70125	Germany	Austria
+2021.70125	Zambia	South Africa
+2021.70126	Mexico	USA
+2021.70126	Mexico	USA
+2021.70126	United Kingdom	Germany
+2021.70126	United Kingdom	Romania
+2021.70126	India	South Korea
+2021.70126	Belgium	United Kingdom
+2021.70127	USA	Brazil
+2021.70127	Russia	Austria
+2021.70127	India	Russia
+2021.70127	Mexico	USA
+2021.70128	Spain	Brazil
+2021.70128	Spain	Israel
+2021.70128	Spain	Switzerland
+2021.70128	France	Belgium
+2021.70131	Russia	Lithuania
+2021.70306	Germany	Jordan
+2021.70342	Spain	Switzerland
+2021.70383	Germany	Croatia
+2021.70399	Germany	France
+2021.704	Germany	France
+2021.704	USA	Costa Rica
+2021.704	South Korea	Netherlands
+2021.704	United Kingdom	France
+2021.704	Turkey	Israel
+2021.70401	India	France
+2021.70401	Spain	Austria
+2021.70401	France	Netherlands
+2021.70401	USA	Canada
+2021.70402	France	Israel
+2021.70402	USA	Costa Rica
+2021.70402	Romania	Ireland
+2021.7040299999999	France	Norway
+2021.70404	United Kingdom	Italy
+2021.70404	South Korea	Romania
+2021.70454	Poland	Netherlands
+2021.70465	South Africa	United Kingdom
+2021.7047499999999	Germany	Czech Republic
+2021.7060099999999	Russia	Poland
+2021.70623	Spain	Slovakia
+2021.70672	Germany	USA
+2021.70674	United Kingdom	Spain
+2021.70675	France	Germany
+2021.70675	Croatia	Slovenia
+2021.70675	Spain	Romania
+2021.70675	Germany	Romania
+2021.70675	Portugal	Israel
+2021.70676	France	Slovakia
+2021.70676	India	USA
+2021.70676	USA	Canada
+2021.70677	South Korea	USA
+2021.70677	India	Switzerland
+2021.70677	France	Brazil
+2021.70678	Brazil	Romania
+2021.7071	France	Germany
+2021.70768	Germany	Czech Republic
+2021.70841	USA	Turkey
+2021.70874	Germany	France
+2021.70918	France	Germany
+2021.70945	Russia	Italy
+2021.70946	Bulgaria	Spain
+2021.70947	Mexico	USA
+2021.70947	Italy	Romania
+2021.70947	Germany	Italy
+2021.70948	France	Italy
+2021.70948	United Kingdom	USA
+2021.70948	Germany	Russia
+2021.70948	India	Singapore
+2021.70948	Mexico	USA
+2021.70948	Germany	Sweden
+2021.70948	Netherlands	Bulgaria
+2021.70949	USA	Sweden
+2021.70949	India	Russia
+2021.7095	Germany	Belgium
+2021.7102399999999	Spain	Italy
+2021.71095	Ireland	United Kingdom
+2021.71144	Spain	Romania
+2021.71158	Spain	France
+2021.71215	Turkey	Ukraine
+2021.71222	Mexico	Israel
+2021.71222	India	USA
+2021.71222	Spain	Argentina
+2021.71222	USA	Canada
+2021.71222	France	Spain
+2021.71222	Turkey	Germany
+2021.71222	USA	Thailand
+2021.71223	France	Croatia
+2021.71224	India	Colombia
+2021.71224	France	Italy
+2021.71225	France	Italy
+2021.71227	Spain	France
+2021.71237	United Kingdom	Germany
+2021.71272	Russia	USA
+2021.71282	Russia	Georgia
+2021.71343	Russia	Lithuania
+2021.71362	United Kingdom	France
+2021.71385	Russia	Germany
+2021.71444	United Kingdom	France
+2021.71494	United Kingdom	Ireland
+2021.71495	India	Nepal
+2021.71496	Spain	Germany
+2021.71496	United Kingdom	Belgium
+2021.71497	India	Botswana
+2021.71498	Netherlands	Belgium
+2021.71498	Israel	Lithuania
+2021.71498	France	Switzerland
+2021.71498	USA	Costa Rica
+2021.71499	India	Botswana
+2021.71517	France	Ireland
+2021.71625	Germany	Thailand
+2021.71667	Spain	United Kingdom
+2021.71683	Russia	Ukraine
+2021.71729	Germany	Slovenia
+2021.71749	France	Spain
+2021.71769	USA	Austria
+2021.71769	Italy	Germany
+2021.71771	Russia	Spain
+2021.71771	India	Nepal
+2021.71772	United Kingdom	Ireland
+2021.71799	Russia	Slovakia
+2021.71807	Turkey	Germany
+2021.71848	United Kingdom	Poland
+2021.71865	Germany	Poland
+2021.71946	Brazil	Israel
+2021.7196	Russia	Poland
+2021.72	France	Netherlands
+2021.7204199999999	Turkey	Switzerland
+2021.72043	Mexico	USA
+2021.72043	USA	Italy
+2021.72043	India	Jordan
+2021.72043	United Kingdom	Greece
+2021.72043	France	Italy
+2021.72044	France	Switzerland
+2021.72044	Turkey	Russia
+2021.72044	Turkey	Germany
+2021.72044	Turkey	Greece
+2021.72045	India	Turkey
+2021.72045	France	Ukraine
+2021.72045	France	Italy
+2021.72045	Germany	Italy
+2021.72045	India	Nepal
+2021.72045	United Kingdom	Germany
+2021.72046	United Kingdom	Ukraine
+2021.72046	Japan	Brazil
+2021.72046	USA	Brazil
+2021.72047	Mexico	USA
+2021.7205	USA	Mexico
+2021.72065	Poland	Croatia
+2021.7209	Russia	Germany
+2021.72152	India	Lithuania
+2021.7215899999999	Russia	Germany
+2021.72167	Spain	Belgium
+2021.72181	Netherlands	Germany
+2021.72252	Russia	South Korea
+2021.72253	Czech Republic	Slovakia
+2021.7229399999999	Russia	Greece
+2021.72298	Russia	Ukraine
+2021.72316	India	USA
+2021.72316	France	Colombia
+2021.72317	Spain	Slovakia
+2021.72317	Turkey	Poland
+2021.72317	Turkey	Ukraine
+2021.72318	Mexico	USA
+2021.72318	Germany	Bulgaria
+2021.72318	Turkey	Belgium
+2021.72318	India	Nepal
+2021.72319	France	Brazil
+2021.72319	Spain	Israel
+2021.72319	Russia	Germany
+2021.72319	USA	Colombia
+2021.72319	Mexico	Guatemala
+2021.7232	USA	Costa Rica
+2021.7232	France	Spain
+2021.7232	India	Japan
+2021.7232	Spain	United Kingdom
+2021.7232	United Kingdom	Italy
+2021.7232	Russia	Germany
+2021.72322	India	Brazil
+2021.72322	Brazil	Germany
+2021.7246	Germany	Romania
+2021.72481	France	Germany
+2021.72524	Germany	Brazil
+2021.7257299999999	India	Malaysia
+2021.72589	Turkey	Austria
+2021.7259	India	Russia
+2021.7259099999999	Germany	Romania
+2021.7259099999999	United Kingdom	Norway
+2021.7259099999999	Turkey	Spain
+2021.7259099999999	Spain	Norway
+2021.72592	Malaysia	India
+2021.72592	United Kingdom	Romania
+2021.72593	Mexico	Brazil
+2021.72593	Spain	Brazil
+2021.72593	France	Austria
+2021.72593	France	Romania
+2021.72594	France	Germany
+2021.72594	France	Spain
+2021.72594	USA	Mexico
+2021.7264499999999	United Kingdom	Poland
+2021.72699	France	Belgium
+2021.72785	France	Belgium
+2021.72865	Germany	Italy
+2021.72866	Chile	South Korea
+2021.72866	India	Sweden
+2021.72867	Spain	Brazil
+2021.72867	Russia	Netherlands
+2021.72867	Mexico	USA
+2021.72868	France	Romania
+2021.72868	Germany	Romania
+2021.72868	France	Brazil
+2021.72869	South Korea	Mongolia
+2021.7287	USA	Germany
+2021.72914	United Kingdom	Croatia
+2021.72938	France	Netherlands
+2021.72978	France	Italy
+2021.72982	Spain	United Kingdom
+2021.73047	Indonesia	Singapore
+2021.73047	Germany	Poland
+2021.73079	Germany	Czech Republic
+2021.73122	United Kingdom	Belgium
+2021.73138	Germany	Greece
+2021.73139	Spain	Brazil
+2021.73139	Spain	Germany
+2021.7314	Malaysia	Singapore
+2021.7314	Germany	Japan
+2021.7314	United Kingdom	Romania
+2021.7314	United Kingdom	Thailand
+2021.7314	USA	India
+2021.73141	India	Pakistan
+2021.73141	India	USA
+2021.73141	France	Thailand
+2021.73142	France	Argentina
+2021.73142	India	USA
+2021.73143	Russia	USA
+2021.73144	Germany	Israel
+2021.7315	USA	Canada
+2021.73348	France	Belgium
+2021.73408	Spain	Czech Republic
+2021.7341	India	USA
+2021.73412	United Kingdom	Lithuania
+2021.73414	Mexico	USA
+2021.73416	Germany	Netherlands
+2021.73416	Spain	Greece
+2021.73416	India	Thailand
+2021.73417	Russia	Canada
+2021.73472	Brazil	Romania
+2021.73472	USA	Turkey
+2021.73688	USA	Argentina
+2021.73688	Netherlands	Romania
+2021.73689	India	USA
+2021.73689	France	Austria
+2021.73689	Turkey	Germany
+2021.7368999999999	Russia	Georgia
+2021.73692	South Africa	Romania
+2021.73858	France	Netherlands
+2021.73917	United Kingdom	Germany
+2021.7395999999999	United Kingdom	Japan
+2021.73962	USA	Chile
+2021.73962	Turkey	Indonesia
+2021.73962	Germany	Romania
+2021.73963	USA	Mexico
+2021.73963	Italy	Greece
+2021.73963	Israel	Bulgaria
+2021.73963	Russia	Israel
+2021.73963	Netherlands	Greece
+2021.73964	USA	Malaysia
+2021.73964	Germany	Romania
+2021.73965	India	Turkey
+2021.73965	Canada	USA
+2021.74141	United Kingdom	Kosovo
+2021.74177	Slovakia	Czech Republic
+2021.74181	Russia	Netherlands
+2021.74205	United Kingdom	Romania
+2021.74234	India	Turkey
+2021.74234	India	United Kingdom
+2021.74235	USA	Spain
+2021.74235	France	Italy
+2021.74235	Romania	Italy
+2021.74236	Spain	Netherlands
+2021.74236	France	Georgia
+2021.74236	Greece	Kosovo
+2021.74237	United Kingdom	Germany
+2021.74237	South Korea	Russia
+2021.74238	Netherlands	Germany
+2021.74238	France	Portugal
+2021.74238	Brazil	France
+2021.74238	France	Slovakia
+2021.74238	Russia	Singapore
+2021.74239	Mexico	Costa Rica
+2021.7427	Germany	Croatia
+2021.74274	United Kingdom	Ireland
+2021.74302	Germany	Italy
+2021.74398	Germany	Slovenia
+2021.7445	France	Germany
+2021.74508	United Kingdom	Romania
+2021.74508	India	USA
+2021.74509	United Kingdom	Lithuania
+2021.7451	Spain	Belgium
+2021.7451	Spain	United Kingdom
+2021.74511	Russia	Turkey
+2021.74511	Germany	Slovenia
+2021.74511	Germany	Croatia
+2021.74512	France	United Kingdom
+2021.74642	France	Belgium
+2021.74653	United Kingdom	Ireland
+2021.74728	Russia	India
+2021.74773	Germany	Norway
+2021.74782	Germany	Romania
+2021.74783	United Kingdom	Bulgaria
+2021.74783	Germany	Kosovo
+2021.74783	Turkey	Germany
+2021.74783	Spain	Slovakia
+2021.74783	Spain	Colombia
+2021.74784	Spain	Italy
+2021.74784	India	Indonesia
+2021.74784	France	Germany
+2021.74784	United Kingdom	Ireland
+2021.74784	Mexico	Indonesia
+2021.74785	India	Russia
+2021.74785	France	Italy
+2021.74786	USA	Belgium
+2021.74786	Russia	Turkey
+2021.74787	USA	Mexico
+2021.74878	USA	Germany
+2021.74915	Turkey	France
+2021.74916	Russia	Poland
+2021.74918	United Kingdom	Romania
+2021.7492	Germany	Romania
+2021.74949	Brazil	France
+2021.75007	Spain	Germany
+2021.75018	Russia	Thailand
+2021.75044	France	Germany
+2021.75056	United Kingdom	Poland
+2021.75056	India	Turkey
+2021.75057	Spain	United Kingdom
+2021.75057	United Kingdom	Romania
+2021.75057	United Kingdom	Kosovo
+2021.75057	Germany	Pakistan
+2021.75057	India	Thailand
+2021.75058	Mexico	Costa Rica
+2021.75058	Germany	Spain
+2021.7505899999999	USA	South Africa
+2021.7506	India	Brazil
+2021.7506	Guatemala	USA
+2021.75061	Philippines	Japan
+2021.75061	Brazil	Spain
+2021.75061	Germany	South Africa
+2021.75063	India	United Kingdom
+2021.75099	United Kingdom	Italy
+2021.75126	United Kingdom	Germany
+2021.75193	USA	Poland
+2021.75238	Spain	Estonia
+2021.75243	Romania	Germany
+2021.75331	Georgia	Israel
+2021.75332	Japan	South Korea
+2021.75332	Germany	Austria
+2021.75334	Spain	Lithuania
+2021.75334	Spain	United Kingdom
+2021.75334	Russia	South Korea
+2021.75335	Russia	Singapore
+2021.75343	Turkey	Germany
+2021.7548199999999	India	Jordan
+2021.75495	USA	United Kingdom
+2021.7551	Russia	USA
+2021.7558	Germany	Italy
+2021.75604	India	Jordan
+2021.75606	India	USA
+2021.75607	Germany	Bulgaria
+2021.75607	India	Brazil
+2021.75607	Mexico	USA
+2021.7561	Germany	Kosovo
+2021.75656	United Kingdom	Poland
+2021.75663	Germany	Italy
+2021.75738	Germany	Belgium
+2021.75821	Germany	Netherlands
+2021.75877	United Kingdom	Romania
+2021.75877	India	Vietnam
+2021.75878	Germany	Belgium
+2021.75879	USA	Singapore
+2021.75879	Germany	United Kingdom
+2021.7588	France	Kosovo
+2021.75881	Spain	Italy
+2021.75881	Russia	Japan
+2021.75881	Russia	Germany
+2021.75881	Germany	Romania
+2021.75881	USA	Turkey
+2021.75882	France	United Kingdom
+2021.75882	United Kingdom	Turkey
+2021.75882	USA	Mexico
+2021.75883	India	Turkey
+2021.75883	Mexico	USA
+2021.75883	Canada	USA
+2021.75884	India	Malaysia
+2021.75884	India	Japan
+2021.75884	Russia	Turkey
+2021.75884	Romania	Italy
+2021.75885	Spain	Brazil
+2021.75901	Germany	Czech Republic
+2021.76142	Austria	Netherlands
+2021.76152	Germany	Switzerland
+2021.76152	Spain	France
+2021.76153	Italy	Germany
+2021.76153	India	Malaysia
+2021.76153	United Kingdom	Ireland
+2021.76153	United Kingdom	France
+2021.76153	United Kingdom	Romania
+2021.76153	Turkey	USA
+2021.76154	Netherlands	Romania
+2021.76154	India	Israel
+2021.76154	Russia	Georgia
+2021.76154	Germany	Austria
+2021.76155	Spain	Romania
+2021.76155	Italy	Romania
+2021.76155	USA	Canada
+2021.76156	Romania	Italy
+2021.76157	Germany	Jordan
+2021.76157	Russia	France
+2021.76193	Poland	Ukraine
+2021.7626	Germany	United Kingdom
+2021.76317	Russia	Ukraine
+2021.76376	South Africa	Jordan
+2021.76404	France	Belgium
+2021.76426	USA	Colombia
+2021.76426	USA	Thailand
+2021.76427	Spain	Slovakia
+2021.76427	France	USA
+2021.76427	Colombia	Germany
+2021.76427	Germany	South Korea
+2021.76427	India	USA
+2021.76427	India	Turkey
+2021.76428	France	United Kingdom
+2021.76428	Spain	Bulgaria
+2021.76428	Turkey	Germany
+2021.76429	Philippines	Japan
+2021.7643	Russia	Israel
+2021.76431	South Africa	United Kingdom
+2021.76431	Russia	Romania
+2021.76432	India	Pakistan
+2021.76451	Italy	France
+2021.76468	Spain	Czech Republic
+2021.76492	Italy	Denmark
+2021.76684	Iraq	Norway
+2021.76691	Germany	Switzerland
+2021.76701	Mexico	USA
+2021.76702	Netherlands	Bulgaria
+2021.76702	Spain	Romania
+2021.76702	Colombia	USA
+2021.76702	Netherlands	Austria
+2021.76702	India	Japan
+2021.76702	United Kingdom	Germany
+2021.76702	United Kingdom	Israel
+2021.76703	France	United Kingdom
+2021.76704	Philippines	South Korea
+2021.76704	India	Pakistan
+2021.76704	India	USA
+2021.76705	Mexico	Costa Rica
+2021.76776	Pakistan	Norway
+2021.76855	France	Greece
+2021.76858	France	Germany
+2021.7687799999999	United Kingdom	Germany
+2021.76882	United Kingdom	Romania
+2021.7692	United Kingdom	Denmark
+2021.76936	Spain	Belgium
+2021.76975	Germany	United Kingdom
+2021.76975	Germany	Romania
+2021.76975	Russia	Lithuania
+2021.76975	United Kingdom	Romania
+2021.76975	India	Bangladesh
+2021.76976	India	Russia
+2021.76976	Germany	Romania
+2021.76978	Slovenia	Bosnia and Herzegovina
+2021.76978	Russia	Israel
+2021.76979	United Kingdom	Poland
+2021.76979	Romania	Netherlands
+2021.7699	United Kingdom	Portugal
+2021.77005	Israel	South Korea
+2021.77007	United Kingdom	Netherlands
+2021.7719	Austria	Turkey
+2021.77223	Belgium	Netherlands
+2021.77231	United Kingdom	Czech Republic
+2021.77249	India	United Kingdom
+2021.77252	India	Belgium
+2021.77254	South Africa	Romania
+2021.77339	Belgium	Netherlands
+2021.77365	Turkey	Germany
+2021.77521	India	United Kingdom
+2021.77522	USA	Singapore
+2021.77523	Ireland	United Kingdom
+2021.77524	Germany	Denmark
+2021.77524	Malaysia	Sri Lanka
+2021.77526	India	Russia
+2021.77526	Russia	Austria
+2021.77528	South Africa	United Kingdom
+2021.77601	Netherlands	Belgium
+2021.77647	USA	Singapore
+2021.77652	Russia	Ukraine
+2021.7773	Germany	France
+2021.77747	Romania	Italy
+2021.77794	Iraq	Germany
+2021.77795	United Kingdom	Poland
+2021.77797	Philippines	Japan
+2021.77797	United Kingdom	Slovakia
+2021.77797	United Kingdom	Germany
+2021.77797	Germany	Netherlands
+2021.77798	India	Russia
+2021.77798	Turkey	India
+2021.77798	Germany	Netherlands
+2021.77798	France	Belgium
+2021.77798	Germany	Turkey
+2021.77798	Mexico	USA
+2021.77798	USA	Costa Rica
+2021.77799	India	United Kingdom
+2021.77799	France	Chile
+2021.77799	Netherlands	Belgium
+2021.778	United Kingdom	Germany
+2021.77801	India	USA
+2021.77879	Italy	Romania
+2021.7794	Israel	Netherlands
+2021.7796	Russia	South Korea
+2021.78022	Spain	Austria
+2021.7807	USA	Peru
+2021.7807	United Kingdom	Romania
+2021.78071	United Kingdom	Romania
+2021.78071	Germany	Turkey
+2021.78071	India	Belgium
+2021.78072	Germany	Romania
+2021.78072	France	Bulgaria
+2021.78072	Germany	Turkey
+2021.78072	Netherlands	Switzerland
+2021.78075	Germany	Romania
+2021.78076	Brazil	United Kingdom
+2021.78077	USA	United Kingdom
+2021.78146	Germany	Netherlands
+2021.78168	Russia	Czech Republic
+2021.78344	Turkey	Russia
+2021.78345	Slovakia	Germany
+2021.78345	India	Jordan
+2021.78345	United Kingdom	Ireland
+2021.78345	Germany	Kosovo
+2021.7834599999999	India	Brazil
+2021.7834599999999	India	Turkey
+2021.7834599999999	Malaysia	Indonesia
+2021.7834599999999	India	Slovenia
+2021.78347	India	Thailand
+2021.78347	USA	Chile
+2021.7836399999999	Russia	Georgia
+2021.78477	France	Croatia
+2021.78502	United Kingdom	France
+2021.78581	United Kingdom	Italy
+2021.78618	United Kingdom	Ireland
+2021.78618	Romania	Japan
+2021.78619	France	Italy
+2021.78619	Netherlands	Bulgaria
+2021.7862	Spain	Germany
+2021.7862	USA	Colombia
+2021.78621	USA	Dominican Republic
+2021.78621	France	Indonesia
+2021.78621	Italy	Costa Rica
+2021.78621	Spain	USA
+2021.78622	India	Turkey
+2021.78891	South Africa	Pakistan
+2021.78892	Italy	Spain
+2021.78892	Spain	Germany
+2021.78893	Philippines	Japan
+2021.78893	Spain	Romania
+2021.78893	United Kingdom	Bulgaria
+2021.78893	Italy	Romania
+2021.78893	United Kingdom	Spain
+2021.78893	United Kingdom	Romania
+2021.78893	India	Thailand
+2021.78893	India	Romania
+2021.78894	United Kingdom	Japan
+2021.7889499999999	USA	Mexico
+2021.7889499999999	Russia	Estonia
+2021.78896	Germany	Romania
+2021.78896	Russia	South Korea
+2021.78897	Russia	Georgia
+2021.78898	USA	Guatemala
+2021.78908	Turkey	Austria
+2021.79024	Germany	Belgium
+2021.7916	France	Netherlands
+2021.79166	USA	Mexico
+2021.79166	USA	Colombia
+2021.79167	Germany	Switzerland
+2021.79167	Turkey	Austria
+2021.79168	Spain	Romania
+2021.79171	United Kingdom	Germany
+2021.79172	South Korea	Japan
+2021.79314	India	Germany
+2021.79322	Croatia	Poland
+2021.79374	United Kingdom	Switzerland
+2021.794	United Kingdom	France
+2021.7944	Pakistan	Portugal
+2021.79441	Italy	Slovakia
+2021.79441	Netherlands	Poland
+2021.79442	Netherlands	Estonia
+2021.79442	India	United Kingdom
+2021.79443	France	Spain
+2021.79443	Ukraine	South Korea
+2021.79445	Romania	Netherlands
+2021.79447	India	Jordan
+2021.79476	Germany	Slovenia
+2021.79496	Poland	Singapore
+2021.79576	Germany	Turkey
+2021.79669	Germany	United Kingdom
+2021.79713	United Kingdom	Romania
+2021.7971499999999	Germany	Slovakia
+2021.7971499999999	Mexico	Portugal
+2021.7971499999999	Germany	Romania
+2021.7971499999999	Netherlands	Bulgaria
+2021.7971499999999	Russia	Ukraine
+2021.7971499999999	Russia	Ukraine
+2021.7971499999999	Turkey	Ukraine
+2021.7971499999999	Germany	Italy
+2021.7971499999999	Georgia	Belgium
+2021.79716	Netherlands	Singapore
+2021.79716	Russia	Ukraine
+2021.79716	USA	Singapore
+2021.79716	Turkey	USA
+2021.79716	India	USA
+2021.79716	India	Israel
+2021.79716	United Kingdom	Germany
+2021.79717	Turkey	United Kingdom
+2021.79717	Russia	South Korea
+2021.79719	Mexico	USA
+2021.79719	Russia	Ukraine
+2021.79719	Ukraine	Lithuania
+2021.79719	USA	United Kingdom
+2021.79811	Russia	Czech Republic
+2021.79819	Germany	Italy
+2021.79883	USA	Brazil
+2021.79959	Germany	Austria
+2021.79987	Germany	France
+2021.79987	United Kingdom	Singapore
+2021.79987	France	Spain
+2021.79988	United Kingdom	Malaysia
+2021.79988	Germany	Austria
+2021.79988	Turkey	Russia
+2021.79988	Germany	Bulgaria
+2021.79988	Germany	Italy
+2021.79989	Malaysia	Italy
+2021.79989	France	Ireland
+2021.7999	United Kingdom	Belgium
+2021.7999	Spain	Brazil
+2021.7999	USA	Singapore
+2021.7999	USA	Russia
+2021.7999	Germany	Ukraine
+2021.79991	France	United Kingdom
+2021.79991	Romania	France
+2021.79991	Russia	Lithuania
+2021.79992	India	France
+2021.80007	Germany	Italy
+2021.80041	United Kingdom	Germany
+2021.80069	Spain	Germany
+2021.80098	Turkey	Germany
+2021.80128	United Kingdom	Poland
+2021.80143	Spain	Peru
+2021.80243	India	Germany
+2021.80262	Turkey	Netherlands
+2021.80263	Slovakia	Poland
+2021.80263	Russia	Ukraine
+2021.80263	USA	Canada
+2021.80263	United Kingdom	Poland
+2021.80263	Netherlands	Germany
+2021.8026399999999	Spain	Germany
+2021.8026399999999	France	Romania
+2021.8026399999999	Spain	Brazil
+2021.8026399999999	Russia	Ukraine
+2021.8026399999999	Russia	Ukraine
+2021.80265	Germany	Croatia
+2021.80265	France	Brazil
+2021.80265	Germany	Romania
+2021.80265	Spain	Belgium
+2021.80265	Spain	Romania
+2021.80266	France	Austria
+2021.80266	Russia	Bulgaria
+2021.80266	Spain	Ukraine
+2021.80266	Russia	Ukraine
+2021.80427	France	Belgium
+2021.80509	France	Russia
+2021.80536	Germany	Switzerland
+2021.80536	Turkey	Russia
+2021.80536	Spain	Italy
+2021.80536	Germany	Bulgaria
+2021.80536	India	Lithuania
+2021.80537	Russia	Ukraine
+2021.80537	India	Belgium
+2021.80537	United Kingdom	Czech Republic
+2021.80537	Germany	Romania
+2021.80537	Mexico	USA
+2021.80537	India	Indonesia
+2021.80538	Netherlands	Ukraine
+2021.80538	Germany	Turkey
+2021.80538	USA	Colombia
+2021.80538	Germany	Greece
+2021.80539	Netherlands	Slovakia
+2021.80539	Chile	Peru
+2021.80539	Italy	Germany
+2021.80539	Russia	India
+2021.8054	Germany	United Kingdom
+2021.8054	Russia	France
+2021.8054	Lithuania	Georgia
+2021.80569	France	Slovakia
+2021.80578	France	Poland
+2021.80581	United Kingdom	Austria
+2021.80582	Spain	Poland
+2021.80707	Germany	Italy
+2021.8073	Germany	Austria
+2021.80748	France	United Kingdom
+2021.8081	Spain	Germany
+2021.80811	Russia	France
+2021.80811	United Kingdom	Spain
+2021.80811	Norway	United Kingdom
+2021.80811	Colombia	Costa Rica
+2021.80811	Mexico	Argentina
+2021.80812	France	Germany
+2021.80812	Mexico	Brazil
+2021.80812	Croatia	Austria
+2021.80812	Spain	Israel
+2021.80812	Spain	Ukraine
+2021.80812	USA	Chile
+2021.80812	Turkey	Germany
+2021.80812	Turkey	Switzerland
+2021.80813	Germany	Belgium
+2021.80813	Russia	Georgia
+2021.80816	Brazil	Germany
+2021.80869	Germany	France
+2021.80883	United Kingdom	USA
+2021.80987	Netherlands	Denmark
+2021.80996	Russia	South Korea
+2021.81084	United Kingdom	Singapore
+2021.81084	Thailand	India
+2021.81085	Germany	Croatia
+2021.81086	United Kingdom	Greece
+2021.81086	Russia	Ukraine
+2021.81087	Indonesia	Germany
+2021.81087	Russia	Netherlands
+2021.81088	Turkey	Ukraine
+2021.81088	Germany	Greece
+2021.81088	Germany	Austria
+2021.81299	Russia	Switzerland
+2021.8131	USA	Belgium
+2021.8131	United Kingdom	Ireland
+2021.8131	Turkey	Germany
+2021.81356	France	Austria
+2021.81358	Croatia	Slovenia
+2021.81358	United Kingdom	Russia
+2021.81358	Australia	India
+2021.81359	Chile	Brazil
+2021.81359	Germany	Italy
+2021.8136	Russia	Czech Republic
+2021.8136	Russia	Ukraine
+2021.8136	United Kingdom	Singapore
+2021.81362	Russia	Poland
+2021.81362	Russia	Japan
+2021.81568	USA	Turkey
+2021.81632	Romania	Germany
+2021.81632	Germany	Slovenia
+2021.81632	Germany	Romania
+2021.81632	Germany	Bulgaria
+2021.8163299999999	Germany	Croatia
+2021.8163299999999	Croatia	Bosnia and Herzegovina
+2021.8163299999999	Slovenia	Bosnia and Herzegovina
+2021.8163299999999	Ukraine	Poland
+2021.8163299999999	Russia	Ukraine
+2021.8163299999999	USA	Malaysia
+2021.8163299999999	India	Ukraine
+2021.8163299999999	Germany	Bulgaria
+2021.8163299999999	Netherlands	Ukraine
+2021.81634	Bulgaria	Lithuania
+2021.81634	France	Portugal
+2021.81634	Czech Republic	Slovakia
+2021.81634	United Kingdom	Singapore
+2021.81634	Russia	Bulgaria
+2021.81634	Russia	Ukraine
+2021.81634	India	Jordan
+2021.81635	France	Ukraine
+2021.81635	France	Germany
+2021.81635	France	Netherlands
+2021.81635	Russia	Ukraine
+2021.81636	USA	Mexico
+2021.81636	Russia	Croatia
+2021.81636	Russia	Ukraine
+2021.81636	Russia	Ukraine
+2021.81905	United Kingdom	Ireland
+2021.81906	United Kingdom	Singapore
+2021.81906	United Kingdom	Ireland
+2021.81906	United Kingdom	Italy
+2021.81906	Poland	Sweden
+2021.81907	Spain	Brazil
+2021.81907	USA	Russia
+2021.81907	Romania	Germany
+2021.81907	United Kingdom	Poland
+2021.81907	United Kingdom	Romania
+2021.81907	Germany	Denmark
+2021.81907	Belgium	Germany
+2021.81908	France	Lithuania
+2021.81908	France	Germany
+2021.81908	Germany	United Kingdom
+2021.81908	India	Russia
+2021.81908	United Kingdom	Germany
+2021.81909	Germany	Italy
+2021.81909	Germany	Ukraine
+2021.81909	Spain	United Kingdom
+2021.81909	Turkey	Ukraine
+2021.81909	Poland	Singapore
+2021.81909	Russia	Germany
+2021.8191	Spain	Romania
+2021.8191	Russia	Ukraine
+2021.81911	Guatemala	Mexico
+2021.82138	Germany	Poland
+2021.82178	Russia	Ukraine
+2021.82178	Japan	India
+2021.82179	India	Austria
+2021.8218	Turkey	Slovakia
+2021.8218	Croatia	Belgium
+2021.8218	Greece	Austria
+2021.8218	India	Turkey
+2021.8218	Israel	Ukraine
+2021.8218	Turkey	Slovakia
+2021.8218	Russia	Ukraine
+2021.82181	Germany	USA
+2021.82181	USA	Guatemala
+2021.82181	France	Brazil
+2021.82181	France	Ukraine
+2021.82181	United Kingdom	Netherlands
+2021.82181	Germany	Greece
+2021.82181	Germany	Czech Republic
+2021.82182	France	Ukraine
+2021.82182	Russia	Belarus
+2021.82182	Italy	Romania
+2021.82183	Turkey	Jordan
+2021.82184	Russia	Ukraine
+2021.82184	Russia	Bulgaria
+2021.82184	Russia	Singapore
+2021.82185	India	Turkey
+2021.82185	USA	Mexico
+2021.8222	Ukraine	Croatia
+2021.82315	Germany	Belgium
+2021.82425	Belgium	Spain
+2021.82454	Colombia	Brazil
+2021.82454	Turkey	Germany
+2021.82455	Russia	Ukraine
+2021.82455	India	Malaysia
+2021.82455	United Kingdom	Romania
+2021.82455	Germany	Romania
+2021.82455	United Kingdom	Germany
+2021.82455	United Kingdom	Ireland
+2021.82455	United Kingdom	Denmark
+2021.82456	Bulgaria	Estonia
+2021.82456	India	Thailand
+2021.82456	Czech Republic	Lithuania
+2021.82456	Slovakia	Austria
+2021.82456	Russia	Germany
+2021.82456	India	Austria
+2021.82456	India	France
+2021.82456	Poland	Ukraine
+2021.82457	France	Belgium
+2021.82457	Croatia	Slovenia
+2021.82457	India	USA
+2021.82457	Sweden	Netherlands
+2021.82457	France	Indonesia
+2021.82457	Russia	Ukraine
+2021.82457	Poland	Ukraine
+2021.82458	South Korea	Poland
+2021.82459	United Kingdom	Romania
+2021.8248	Spain	Germany
+2021.82596	France	Denmark
+2021.82729	Czech Republic	Poland
+2021.82729	Poland	Romania
+2021.82729	Germany	Russia
+2021.8273	France	Switzerland
+2021.8273	Germany	Greece
+2021.82731	Netherlands	United Kingdom
+2021.82731	France	Switzerland
+2021.82732	Russia	Ukraine
+2021.82732	Germany	South Korea
+2021.82733	Mexico	USA
+2021.82746	Czech Republic	Slovakia
+2021.82775	Germany	Switzerland
+2021.82799	France	Netherlands
+2021.82864	France	Spain
+2021.82879	Russia	Czech Republic
+2021.82893	France	Netherlands
+2021.82968	Austria	Czech Republic
+2021.8300199999999	United Kingdom	India
+2021.8300199999999	United Kingdom	Portugal
+2021.83003	Turkey	Bulgaria
+2021.83003	Georgia	Greece
+2021.83004	Czech Republic	Estonia
+2021.83005	France	United Kingdom
+2021.83007	Germany	Romania
+2021.83008	United Kingdom	Poland
+2021.83021	Germany	Netherlands
+2021.83273	Romania	Germany
+2021.83277	Germany	Slovenia
+2021.83277	France	United Kingdom
+2021.83277	Russia	Ukraine
+2021.83277	India	Russia
+2021.83277	United Kingdom	Slovakia
+2021.83278	France	Czech Republic
+2021.8328	Russia	Ukraine
+2021.8328	Russia	Ukraine
+2021.8328	Russia	Ukraine
+2021.8332	India	France
+2021.83336	Netherlands	Bulgaria
+2021.83399	Russia	Ukraine
+2021.83419	Germany	Italy
+2021.83466	United Kingdom	India
+2021.83549	Germany	Bulgaria
+2021.83549	Poland	Japan
+2021.8355	Germany	Netherlands
+2021.8355099999999	Mexico	USA
+2021.8355099999999	Poland	Austria
+2021.8355099999999	Germany	Switzerland
+2021.8355099999999	Germany	Sweden
+2021.8355099999999	Germany	Greece
+2021.83552	Netherlands	Poland
+2021.83552	India	Israel
+2021.83553	Belgium	Netherlands
+2021.83553	USA	Canada
+2021.83553	Poland	Sweden
+2021.83553	Germany	Switzerland
+2021.83554	United Kingdom	Russia
+2021.83555	India	Israel
+2021.83807	Czech Republic	Slovakia
+2021.83808	Malaysia	Jordan
+2021.83823	United Kingdom	Ireland
+2021.83823	India	Switzerland
+2021.83824	Croatia	Poland
+2021.83824	United Kingdom	Ireland
+2021.83824	United Kingdom	Ireland
+2021.83824	United Kingdom	Netherlands
+2021.83824	France	Czech Republic
+2021.83824	Poland	Czech Republic
+2021.83824	Germany	Portugal
+2021.83825	India	Thailand
+2021.83825	Croatia	Bosnia and Herzegovina
+2021.83825	France	Netherlands
+2021.83825	France	Austria
+2021.83825	United Kingdom	USA
+2021.83825	Japan	South Korea
+2021.83826	Czech Republic	Estonia
+2021.83826	Germany	Norway
+2021.83827	Germany	Bulgaria
+2021.83827	Russia	Georgia
+2021.83828	Spain	Ireland
+2021.839	Germany	Spain
+2021.83945	Spain	Czech Republic
+2021.84015	Russia	Netherlands
+2021.84096	Turkey	Germany
+2021.84098	Germany	Switzerland
+2021.84098	United Kingdom	Greece
+2021.84099	USA	Chile
+2021.84099	Spain	Belgium
+2021.84099	Spain	USA
+2021.84099	Colombia	Brazil
+2021.84099	United Kingdom	Czech Republic
+2021.84099	Poland	Estonia
+2021.841	Germany	Turkey
+2021.841	Russia	South Korea
+2021.84101	South Africa	Georgia
+2021.84101	Germany	Slovakia
+2021.84101	Netherlands	Slovakia
+2021.84101	Estonia	United Kingdom
+2021.84102	Romania	Germany
+2021.8437099999999	Poland	Australia
+2021.8437099999999	Russia	Turkey
+2021.84372	United Kingdom	Poland
+2021.84372	United Kingdom	Denmark
+2021.84373	India	Turkey
+2021.84373	Germany	Netherlands
+2021.84373	Germany	Romania
+2021.84373	Malaysia	Singapore
+2021.84373	Germany	Belgium
+2021.84374	Colombia	Germany
+2021.84374	Spain	Austria
+2021.84374	Germany	Austria
+2021.84374	Colombia	Brazil
+2021.84374	India	South Korea
+2021.84374	India	Poland
+2021.84375	Germany	Austria
+2021.84375	France	Romania
+2021.84376	United Kingdom	India
+2021.84376	Mexico	USA
+2021.84376	Germany	Turkey
+2021.84376	Russia	Bulgaria
+2021.84376	Russia	Italy
+2021.84378	Brazil	Thailand
+2021.84412	Ukraine	Czech Republic
+2021.84467	United Kingdom	Czech Republic
+2021.84645	India	Germany
+2021.84646	Slovakia	Poland
+2021.84646	Germany	Romania
+2021.84646	Spain	Netherlands
+2021.84646	South Korea	Germany
+2021.84647	Spain	Italy
+2021.84647	Netherlands	Greece
+2021.84647	Belgium	Netherlands
+2021.84647	India	Poland
+2021.84647	United Kingdom	Greece
+2021.84648	Netherlands	Argentina
+2021.84648	India	Germany
+2021.84648	Germany	Belgium
+2021.84648	Spain	Austria
+2021.84648	Spain	Austria
+2021.84648	Poland	Germany
+2021.84649	Netherlands	Slovakia
+2021.84649	Slovenia	Slovakia
+2021.84649	Spain	France
+2021.84649	Lithuania	Spain
+2021.84649	France	Italy
+2021.84649	Germany	Denmark
+2021.8464999999999	Russia	South Korea
+2021.84651	Italy	Kosovo
+2021.8467	Turkey	Austria
+2021.84703	Germany	United Kingdom
+2021.84764	Turkey	Germany
+2021.84772	Mexico	USA
+2021.84792	Romania	Germany
+2021.84918	United Kingdom	Estonia
+2021.84919	Bulgaria	Germany
+2021.8491999999999	Russia	Germany
+2021.8491999999999	United Kingdom	Ukraine
+2021.84921	Spain	Thailand
+2021.84921	United Kingdom	Belgium
+2021.84921	Turkey	Czech Republic
+2021.84921	Mexico	Peru
+2021.84923	France	Thailand
+2021.84923	Russia	Ukraine
+2021.84924	Germany	Kosovo
+2021.84924	United Kingdom	Poland
+2021.85185	France	Belgium
+2021.85194	France	Ireland
+2021.85194	Russia	Norway
+2021.85194	Colombia	Chile
+2021.85194	Czech Republic	Slovakia
+2021.85195	Russia	Ukraine
+2021.85195	Turkey	Russia
+2021.85195	Turkey	Russia
+2021.85195	Poland	Switzerland
+2021.85196	France	Spain
+2021.85197	Spain	Netherlands
+2021.85197	Belgium	Netherlands
+2021.85197	Spain	Belgium
+2021.85197	Russia	Thailand
+2021.85197	Russia	Ukraine
+2021.85198	Russia	Poland
+2021.85198	Russia	Ukraine
+2021.85248	United Kingdom	Germany
+2021.85394	Russia	Portugal
+2021.85442	France	Germany
+2021.85467	United Kingdom	Ireland
+2021.85467	Russia	Bosnia and Herzegovina
+2021.85468	United Kingdom	Ireland
+2021.85468	Colombia	Malaysia
+2021.85468	Germany	United Kingdom
+2021.85468	United Kingdom	France
+2021.85468	Turkey	Finland
+2021.85468	Spain	Ukraine
+2021.85468	Germany	Czech Republic
+2021.85468	India	Kosovo
+2021.85469	Germany	France
+2021.85469	France	Germany
+2021.85469	Brazil	Austria
+2021.85469	Malaysia	Jordan
+2021.85469	India	Poland
+2021.85469	USA	Singapore
+2021.85469	USA	Germany
+2021.85469	United Kingdom	Poland
+2021.85469	United Kingdom	Poland
+2021.85469	Romania	Spain
+2021.85469	United Kingdom	Singapore
+2021.8547	Denmark	Germany
+2021.8547	France	Poland
+2021.8547	France	Germany
+2021.8547	Germany	South Korea
+2021.8547	Russia	Germany
+2021.8547	Germany	Slovenia
+2021.8547	India	Belgium
+2021.8547	Russia	Estonia
+2021.85471	France	Austria
+2021.85471	Germany	Italy
+2021.85471	Germany	USA
+2021.85471	Russia	Germany
+2021.85472	United Kingdom	Bulgaria
+2021.85472	Slovenia	Czech Republic
+2021.85472	Austria	Croatia
+2021.85472	Germany	Lithuania
+2021.85472	Russia	Germany
+2021.85472	Germany	Czech Republic
+2021.8556	Russia	Spain
+2021.8561	Pakistan	India
+2021.8574	Turkey	Slovakia
+2021.85741	United Kingdom	Austria
+2021.85741	South Africa	Brazil
+2021.85742	Austria	Croatia
+2021.85742	Switzerland	Austria
+2021.85742	Poland	Denmark
+2021.85742	United Kingdom	Germany
+2021.85742	Germany	Poland
+2021.85742	Turkey	Bosnia and Herzegovina
+2021.85742	Turkey	Greece
+2021.85742	India	Turkey
+2021.85743	Japan	Denmark
+2021.85743	India	Brazil
+2021.85743	Germany	Austria
+2021.85743	United Kingdom	Italy
+2021.85743	France	Spain
+2021.85743	United Kingdom	India
+2021.85743	United Kingdom	Singapore
+2021.85743	United Kingdom	Austria
+2021.85743	United Kingdom	Denmark
+2021.85744	Spain	Greece
+2021.85744	India	Turkey
+2021.85744	India	Malaysia
+2021.85744	India	USA
+2021.85744	Poland	Norway
+2021.85745	United Kingdom	Denmark
+2021.85745	France	Slovakia
+2021.85745	France	Singapore
+2021.85746	Czech Republic	Austria
+2021.85746	Russia	Austria
+2021.85746	Russia	France
+2021.85747	Guatemala	USA
+2021.86	Turkey	Netherlands
+2021.86014	India	USA
+2021.86015	Turkey	Germany
+2021.86016	Germany	Sweden
+2021.86016	United Kingdom	Ireland
+2021.86016	United Kingdom	Lithuania
+2021.86016	Romania	Germany
+2021.86016	Germany	Italy
+2021.86017	Slovakia	United Kingdom
+2021.86017	Russia	Czech Republic
+2021.86017	United Kingdom	Romania
+2021.86017	Germany	France
+2021.86017	Netherlands	Belgium
+2021.86017	Slovenia	Croatia
+2021.86017	Germany	Turkey
+2021.86017	France	Switzerland
+2021.8601899999999	United Kingdom	Poland
+2021.8601899999999	Germany	Netherlands
+2021.8601899999999	France	Germany
+2021.8601899999999	Turkey	Slovakia
+2021.8601899999999	Russia	Lithuania
+2021.8602	Germany	Switzerland
+2021.8602	Austria	Germany
+2021.86021	Russia	South Korea
+2021.86022	USA	Singapore
+2021.86247	France	Belgium
+2021.8629	Romania	United Kingdom
+2021.8629	Russia	Poland
+2021.8629	Turkey	Austria
+2021.8629	Turkey	Spain
+2021.86291	India	Ukraine
+2021.86291	France	Poland
+2021.86291	Germany	Austria
+2021.86291	Russia	USA
+2021.86291	Russia	Ukraine
+2021.86291	United Kingdom	Italy
+2021.86291	United Kingdom	Austria
+2021.86292	France	Slovakia
+2021.86292	Spain	Romania
+2021.86292	Slovakia	Czech Republic
+2021.86292	Russia	Georgia
+2021.86292	USA	Canada
+2021.86292	USA	Mexico
+2021.86292	Russia	Turkey
+2021.86293	South Africa	Brazil
+2021.86293	Russia	Germany
+2021.86293	Russia	Ukraine
+2021.86294	Japan	Lithuania
+2021.86332	Germany	Switzerland
+2021.86555	France	Belgium
+2021.86558	Germany	Georgia
+2021.86561	Belgium	Spain
+2021.86563	Germany	Greece
+2021.86563	Germany	Slovenia
+2021.86564	Switzerland	Kosovo
+2021.86564	Germany	Romania
+2021.86564	United Kingdom	Poland
+2021.86565	Germany	United Kingdom
+2021.86565	France	Portugal
+2021.86565	Colombia	Peru
+2021.86565	Austria	Poland
+2021.86566	Netherlands	United Kingdom
+2021.86566	Netherlands	Belgium
+2021.86566	France	Germany
+2021.86566	Spain	Belgium
+2021.86566	Spain	United Kingdom
+2021.86566	Portugal	Germany
+2021.86567	France	Switzerland
+2021.86833	USA	Brazil
+2021.86837	United Kingdom	Italy
+2021.86837	Spain	Bulgaria
+2021.86838	United Kingdom	Estonia
+2021.86838	Germany	Italy
+2021.86839	Austria	Norway
+2021.8684	United Kingdom	Germany
+2021.8684	Netherlands	Thailand
+2021.8684	France	Greece
+2021.86841	Russia	Netherlands
+2021.86841	United Kingdom	Poland
+2021.86855	Germany	France
+2021.87039	France	Belgium
+2021.87109	Germany	Switzerland
+2021.87112	Germany	Czech Republic
+2021.87112	Slovenia	Austria
+2021.87112	Georgia	Romania
+2021.87113	France	Belgium
+2021.87113	United Kingdom	Ireland
+2021.87113	Denmark	Norway
+2021.87113	Poland	Lithuania
+2021.87114	Italy	Belgium
+2021.87114	India	Poland
+2021.87115	France	Netherlands
+2021.87115	France	Malaysia
+2021.87115	Romania	Greece
+2021.87115	France	Singapore
+2021.87115	Russia	United Kingdom
+2021.87117	Germany	Sweden
+2021.87159	Germany	Spain
+2021.87383	USA	Colombia
+2021.87384	Belgium	Portugal
+2021.87384	India	Greece
+2021.87386	Slovakia	Czech Republic
+2021.87386	Russia	Germany
+2021.87386	USA	Norway
+2021.87386	Indonesia	Italy
+2021.87386	United Kingdom	Germany
+2021.87386	United Kingdom	Spain
+2021.87386	United Kingdom	Spain
+2021.87386	United Kingdom	Denmark
+2021.87386	United Kingdom	France
+2021.87386	Turkey	France
+2021.87386	Germany	Russia
+2021.87386	Turkey	Russia
+2021.87386	India	Turkey
+2021.87387	Spain	Chile
+2021.87387	Netherlands	Germany
+2021.87387	Poland	Slovakia
+2021.87387	Russia	Czech Republic
+2021.87387	Russia	Ukraine
+2021.87387	Poland	Slovakia
+2021.87388	India	USA
+2021.87388	Spain	Greece
+2021.87388	India	Slovakia
+2021.87388	Sweden	Finland
+2021.87388	Belgium	Germany
+2021.87388	Russia	France
+2021.87388	India	Ukraine
+2021.87388	Netherlands	Croatia
+2021.87389	Netherlands	Sweden
+2021.87389	Greece	Switzerland
+2021.87389	France	Germany
+2021.87389	France	Slovakia
+2021.87389	France	Germany
+2021.8739	Thailand	Germany
+2021.87659	Turkey	Germany
+2021.87659	France	Germany
+2021.87659	Turkey	Malaysia
+2021.87659	Turkey	Austria
+2021.8766	Germany	Italy
+2021.8766	USA	Germany
+2021.8766	United Kingdom	Italy
+2021.8766	United Kingdom	Bulgaria
+2021.8766	United Kingdom	Czech Republic
+2021.8766	Turkey	Belgium
+2021.8766	Turkey	Germany
+2021.8766	Spain	Greece
+2021.87661	Croatia	Bosnia and Herzegovina
+2021.87661	Russia	Poland
+2021.87661	France	Belgium
+2021.87661	Germany	Slovenia
+2021.87661	United Kingdom	Singapore
+2021.87661	Turkey	Poland
+2021.87662	Netherlands	Denmark
+2021.87662	Spain	USA
+2021.87662	Germany	United Kingdom
+2021.87663	USA	Ireland
+2021.87663	France	Switzerland
+2021.87663	Czech Republic	Slovakia
+2021.87664	Germany	Austria
+2021.87747	United Kingdom	Germany
+2021.87773	United Kingdom	Italy
+2021.87932	United Kingdom	Ukraine
+2021.87933	Germany	Netherlands
+2021.87934	Germany	Belgium
+2021.87934	Ireland	USA
+2021.87934	United Kingdom	Czech Republic
+2021.87934	Turkey	Switzerland
+2021.87934	Germany	Italy
+2021.87935	Czech Republic	Netherlands
+2021.87935	South Korea	Poland
+2021.87935	South Africa	Jordan
+2021.87935	Germany	Jordan
+2021.87935	Turkey	Jordan
+2021.87936	Netherlands	Bulgaria
+2021.87936	India	Germany
+2021.87936	Austria	Slovenia
+2021.87936	Spain	Netherlands
+2021.87936	Germany	United Kingdom
+2021.87936	Germany	Italy
+2021.8793699999999	India	Spain
+2021.8793699999999	Poland	Ireland
+2021.87938	India	Thailand
+2021.87938	Guatemala	USA
+2021.87938	United Kingdom	Belgium
+2021.87938	Russia	Czech Republic
+2021.87938	Russia	Germany
+2021.87939	Russia	Czech Republic
+2021.87941	USA	Canada
+2021.88051	USA	Trinidad and Tobago
+2021.88205	France	Germany
+2021.88206	Spain	Italy
+2021.8820699999999	Czech Republic	Slovakia
+2021.8820699999999	United Kingdom	Poland
+2021.8820699999999	United Kingdom	Germany
+2021.8820699999999	Turkey	Germany
+2021.8820699999999	Russia	Italy
+2021.88208	Russia	Ukraine
+2021.88208	Germany	Italy
+2021.88208	Turkey	Spain
+2021.88209	Czech Republic	Belgium
+2021.88209	Germany	Denmark
+2021.88209	United Kingdom	Ireland
+2021.88209	Turkey	Germany
+2021.88209	Germany	Bosnia and Herzegovina
+2021.88209	Germany	Malaysia
+2021.88209	Spain	Germany
+2021.8821	Czech Republic	Poland
+2021.8821	France	Switzerland
+2021.8821	Poland	Slovakia
+2021.8821	Turkey	Austria
+2021.88211	France	Turkey
+2021.88211	France	Colombia
+2021.88211	France	Belgium
+2021.88211	Turkey	Netherlands
+2021.88211	Germany	Austria
+2021.88211	Russia	Germany
+2021.88211	Russia	Ukraine
+2021.88211	Germany	Czech Republic
+2021.88212	USA	Greece
+2021.88212	Germany	Netherlands
+2021.88212	South Korea	Thailand
+2021.88213	India	Japan
+2021.88402	United Kingdom	France
+2021.88481	Colombia	Chile
+2021.88481	United Kingdom	Netherlands
+2021.88481	Germany	Turkey
+2021.88482	Russia	Ukraine
+2021.88482	France	Ukraine
+2021.88482	United Kingdom	Poland
+2021.88482	Germany	Austria
+2021.88482	India	Turkey
+2021.88483	Netherlands	Poland
+2021.88483	USA	Peru
+2021.88483	France	Belgium
+2021.88483	Germany	Italy
+2021.88483	Germany	Croatia
+2021.88483	United Kingdom	Germany
+2021.88483	Germany	South Korea
+2021.88484	Germany	Switzerland
+2021.88484	Russia	Germany
+2021.88484	Turkey	Poland
+2021.88485	India	Slovakia
+2021.88485	France	Germany
+2021.88485	Russia	Ukraine
+2021.88485	Germany	Poland
+2021.88485	Russia	Turkey
+2021.88486	USA	Mexico
+2021.88532	Turkey	France
+2021.88616	Netherlands	Italy
+2021.88753	United Kingdom	Ireland
+2021.88754	Germany	France
+2021.88754	France	Poland
+2021.88754	Pakistan	Poland
+2021.88755	Belgium	Netherlands
+2021.88755	Italy	Romania
+2021.88755	Pakistan	Poland
+2021.88756	Germany	Netherlands
+2021.88756	Netherlands	Slovenia
+2021.88756	Germany	Belgium
+2021.88756	Spain	Chile
+2021.88757	Germany	Austria
+2021.88757	Russia	Ukraine
+2021.88757	United Kingdom	Ireland
+2021.88758	France	Portugal
+2021.88759	Finland	Estonia
+2021.88759	Ukraine	Japan
+2021.8876	Russia	Poland
+2021.8876	Russia	Ukraine
+2021.88761	South Africa	Germany
+2021.88761	USA	Canada
+2021.88791	India	USA
+2021.88796	Germany	France
+2021.88881	Bulgaria	Netherlands
+2021.89027	India	Austria
+2021.89029	United Kingdom	Netherlands
+2021.89029	Germany	Spain
+2021.89029	India	Sri Lanka
+2021.8903	Mexico	USA
+2021.8903	Germany	Switzerland
+2021.8903	United Kingdom	Poland
+2021.8903	Romania	Netherlands
+2021.8903	Switzerland	Jordan
+2021.89031	United Kingdom	Russia
+2021.89031	Germany	Singapore
+2021.89031	USA	Malaysia
+2021.89032	Bangladesh	Austria
+2021.89032	France	Malaysia
+2021.89033	India	Romania
+2021.89033	Germany	Poland
+2021.89034	Russia	Germany
+2021.89037	Indonesia	Slovakia
+2021.89172	Germany	United Kingdom
+2021.89302	United Kingdom	Germany
+2021.89302	Spain	France
+2021.89302	Spain	Norway
+2021.89302	Poland	Portugal
+2021.89303	United Kingdom	Germany
+2021.89303	India	Czech Republic
+2021.89303	India	Thailand
+2021.89304	Germany	Thailand
+2021.89304	Germany	Belgium
+2021.89304	United Kingdom	Netherlands
+2021.89304	United Kingdom	Poland
+2021.89304	United Kingdom	Germany
+2021.89304	United Kingdom	Czech Republic
+2021.89304	Germany	Netherlands
+2021.89304	Turkey	Russia
+2021.89304	Germany	Denmark
+2021.89304	Pakistan	Spain
+2021.89305	Czech Republic	Netherlands
+2021.89305	Croatia	Slovenia
+2021.89305	Czech Republic	Slovakia
+2021.89305	France	Belgium
+2021.89305	Spain	Germany
+2021.89305	Russia	Italy
+2021.89305	Russia	Ukraine
+2021.89305	Belgium	Germany
+2021.89305	Colombia	Chile
+2021.89305	United Kingdom	France
+2021.89305	Germany	Slovenia
+2021.8930599999999	France	Belgium
+2021.8930599999999	Slovakia	Czech Republic
+2021.8930599999999	Germany	Italy
+2021.8930599999999	Russia	Turkey
+2021.8930599999999	Russia	France
+2021.8930599999999	Russia	Germany
+2021.89307	Belgium	France
+2021.89307	USA	Ukraine
+2021.89307	Russia	Lithuania
+2021.89307	Russia	Netherlands
+2021.89307	Russia	Ukraine
+2021.89307	Estonia	Netherlands
+2021.89307	Russia	Ukraine
+2021.89307	Ukraine	Poland
+2021.89307	Germany	Romania
+2021.89308	Russia	Ukraine
+2021.89523	USA	South Korea
+2021.89557	Malaysia	Singapore
+2021.89575	Turkey	Germany
+2021.89577	United Kingdom	Italy
+2021.89577	Romania	Denmark
+2021.89578	USA	Malaysia
+2021.89578	France	Germany
+2021.89578	Turkey	Slovakia
+2021.89578	Netherlands	Germany
+2021.89579	USA	Mexico
+2021.89579	Spain	France
+2021.89579	Netherlands	Germany
+2021.89579	Russia	Germany
+2021.89579	Germany	Slovenia
+2021.89579	Germany	Portugal
+2021.89579	India	Lithuania
+2021.89579	United Kingdom	Denmark
+2021.89579	India	USA
+2021.89579	United Kingdom	Ireland
+2021.89579	Germany	Italy
+2021.89579	Mexico	USA
+2021.8958	Germany	Czech Republic
+2021.89581	France	Germany
+2021.89581	Germany	Belgium
+2021.89582	Chile	Peru
+2021.89584	India	Slovakia
+2021.8978299999999	USA	Peru
+2021.89784	Poland	Portugal
+2021.89822	United Kingdom	Czech Republic
+2021.8985	Turkey	Germany
+2021.89851	Netherlands	Slovakia
+2021.89851	United Kingdom	Belgium
+2021.89851	United Kingdom	Spain
+2021.89851	Romania	Canada
+2021.89851	United Kingdom	Lithuania
+2021.89852	Russia	Germany
+2021.89852	France	United Kingdom
+2021.89852	Belgium	Italy
+2021.89852	India	Malaysia
+2021.89853	Czech Republic	Slovakia
+2021.89853	Belgium	Greece
+2021.89853	France	Brazil
+2021.89853	United Kingdom	Bulgaria
+2021.89853	United Kingdom	Germany
+2021.89853	United Kingdom	Ireland
+2021.89853	Georgia	Germany
+2021.89854	France	Poland
+2021.89854	France	Poland
+2021.89854	Romania	Spain
+2021.89854	Russia	Georgia
+2021.89854	Israel	Colombia
+2021.89854	Russia	Czech Republic
+2021.89855	Russia	Greece
+2021.89855	United Kingdom	Ireland
+2021.89855	United Kingdom	Netherlands
+2021.89855	Germany	Czech Republic
+2021.89856	United Kingdom	Denmark
+2021.89856	Italy	Russia
+2021.89857	Brazil	Germany
+2021.90123	India	Turkey
+2021.90123	Italy	Austria
+2021.90123	Netherlands	Thailand
+2021.90125	United Kingdom	Czech Republic
+2021.90125	United Kingdom	Ireland
+2021.90125	United Kingdom	Belgium
+2021.90125	United Kingdom	Poland
+2021.90125	Israel	Greece
+2021.90126	Croatia	Germany
+2021.90126	Germany	Switzerland
+2021.90126	Russia	Germany
+2021.90126	India	Turkey
+2021.90126	Romania	Germany
+2021.90126	Switzerland	Germany
+2021.90126	Germany	France
+2021.90126	Netherlands	Poland
+2021.90127	Netherlands	Greece
+2021.90127	France	Germany
+2021.90127	Spain	Sweden
+2021.90127	France	Germany
+2021.90127	Germany	Turkey
+2021.90128	Spain	Germany
+2021.90128	Germany	Belgium
+2021.90128	Russia	Belgium
+2021.90128	Russia	Austria
+2021.90129	Russia	Malaysia
+2021.90129	Ukraine	Sweden
+2021.9013	Russia	Thailand
+2021.90398	United Kingdom	Netherlands
+2021.90398	Spain	Switzerland
+2021.90399	Germany	Greece
+2021.90399	Poland	Germany
+2021.90399	United Kingdom	USA
+2021.90399	United Kingdom	Poland
+2021.90399	Ireland	Poland
+2021.904	France	Belgium
+2021.904	Brazil	Chile
+2021.904	Italy	United Kingdom
+2021.904	United Kingdom	Thailand
+2021.904	Turkey	India
+2021.904	Spain	Belgium
+2021.90401	Netherlands	Ireland
+2021.90401	Belgium	Netherlands
+2021.90401	United Kingdom	Poland
+2021.90401	Spain	Germany
+2021.90401	Russia	Netherlands
+2021.90401	Turkey	Germany
+2021.90402	Guatemala	Sweden
+2021.90402	France	Germany
+2021.90402	France	Belgium
+2021.90402	Russia	Poland
+2021.90402	Russia	Germany
+2021.90402	Russia	Thailand
+2021.90402	Russia	Germany
+2021.90403	France	Portugal
+2021.90403	France	Belgium
+2021.90403	Russia	Poland
+2021.90403	Russia	Greece
+2021.9042	Turkey	Germany
+2021.90671	USA	Thailand
+2021.90671	France	Belgium
+2021.90673	Germany	South Korea
+2021.90673	Japan	South Korea
+2021.90674	France	Italy
+2021.90674	Ireland	Switzerland
+2021.90674	Germany	Croatia
+2021.9067499999999	Netherlands	Germany
+2021.9067499999999	Russia	Poland
+2021.90676	Spain	Germany
+2021.90676	Belgium	Finland
+2021.90676	Ukraine	Poland
+2021.90678	Russia	Thailand
+2021.90851	Turkey	Austria
+2021.90946	Israel	Italy
+2021.90946	France	Italy
+2021.90947	Italy	USA
+2021.90948	USA	Malaysia
+2021.90948	United Kingdom	Italy
+2021.90948	United Kingdom	Sri Lanka
+2021.90948	Georgia	Thailand
+2021.90949	Spain	Switzerland
+2021.90949	Romania	Austria
+2021.90949	Poland	Germany
+2021.9095	Croatia	Czech Republic
+2021.9095	United Kingdom	Belgium
+2021.90951	India	Jordan
+2021.90951	Russia	Japan
+2021.90951	Russia	Germany
+2021.90951	Germany	Netherlands
+2021.90951	USA	Mexico
+2021.91144	Germany	Spain
+2021.9122	United Kingdom	Portugal
+2021.9122	Italy	Belgium
+2021.9122	USA	Trinidad and Tobago
+2021.9122	Spain	Germany
+2021.9122	Germany	Thailand
+2021.91221	United Kingdom	France
+2021.91221	United Kingdom	France
+2021.91221	United Kingdom	France
+2021.91221	United Kingdom	Germany
+2021.91221	Poland	South Korea
+2021.91221	United Kingdom	Poland
+2021.91221	Germany	Czech Republic
+2021.91221	Turkey	France
+2021.91221	Poland	Slovakia
+2021.91221	India	France
+2021.91222	France	Belgium
+2021.91222	Germany	Thailand
+2021.91222	Belgium	France
+2021.91222	Germany	Norway
+2021.91223	France	Croatia
+2021.91223	Belgium	France
+2021.91223	Belgium	France
+2021.91223	Germany	France
+2021.91223	Russia	Georgia
+2021.9122399999999	India	Chile
+2021.9122399999999	France	Italy
+2021.9122399999999	Netherlands	Brazil
+2021.9122399999999	Russia	Thailand
+2021.9122399999999	Ukraine	France
+2021.9122399999999	Russia	Greece
+2021.9122399999999	United Kingdom	Poland
+2021.9122399999999	Poland	Norway
+2021.91225	United Kingdom	Germany
+2021.91225	Russia	Colombia
+2021.91226	Spain	France
+2021.91226	Russia	Poland
+2021.91226	Russia	France
+2021.91227	India	Thailand
+2021.91495	Netherlands	Thailand
+2021.91495	United Kingdom	Belgium
+2021.91495	Germany	Poland
+2021.91495	India	Denmark
+2021.91495	USA	Trinidad and Tobago
+2021.91496	Netherlands	Greece
+2021.91496	Austria	Georgia
+2021.91496	United Kingdom	Ireland
+2021.91496	United Kingdom	Poland
+2021.91496	United Kingdom	Ireland
+2021.91496	Netherlands	Belgium
+2021.91496	India	Germany
+2021.91496	Spain	Switzerland
+2021.91497	Czech Republic	Slovakia
+2021.91497	Thailand	Spain
+2021.91497	Sweden	Germany
+2021.91497	France	Portugal
+2021.91497	France	Greece
+2021.91497	France	Germany
+2021.91498	France	Slovakia
+2021.91498	Netherlands	Germany
+2021.91498	France	Slovakia
+2021.91498	Russia	Germany
+2021.91499	India	Belgium
+2021.91499	Guatemala	USA
+2021.91499	Italy	Switzerland
+2021.91499	France	Belgium
+2021.91499	Denmark	Sweden
+2021.91499	Russia	Germany
+2021.91499	Russia	Germany
+2021.91499	Russia	Ireland
+2021.91499	Russia	Switzerland
+2021.915	Netherlands	United Kingdom
+2021.915	Russia	Germany
+2021.91501	United Kingdom	Ireland
+2021.91768	Turkey	Germany
+2021.91768	France	Belgium
+2021.91769	Turkey	Netherlands
+2021.91769	Israel	USA
+2021.91769	Israel	Jordan
+2021.9177	Spain	Germany
+2021.9177	Spain	Germany
+2021.9177	Germany	Spain
+2021.9177	USA	Canada
+2021.9177	France	Germany
+2021.9177	India	Jordan
+2021.9177	Germany	Austria
+2021.91771	France	Switzerland
+2021.91771	Spain	Germany
+2021.91771	Russia	Germany
+2021.91771	Germany	Czech Republic
+2021.91771	Croatia	Germany
+2021.91771	United Kingdom	Poland
+2021.91771	Mexico	USA
+2021.91772	Guatemala	Spain
+2021.91772	Romania	Switzerland
+2021.91772	Belgium	Germany
+2021.91772	Russia	Netherlands
+2021.91772	Poland	Lithuania
+2021.91773	South Korea	Germany
+2021.91773	Russia	Slovakia
+2021.91773	Ukraine	Germany
+2021.91774	Mexico	USA
+2021.91776	Indonesia	Germany
+2021.92041	Poland	Denmark
+2021.92043	Germany	Netherlands
+2021.92043	Turkey	Italy
+2021.92043	Poland	Germany
+2021.92043	Germany	Netherlands
+2021.92044	Netherlands	Germany
+2021.92044	Russia	Germany
+2021.92044	United Kingdom	Poland
+2021.92044	Germany	Poland
+2021.92044	Germany	Italy
+2021.92044	India	Turkey
+2021.92045	Germany	Slovenia
+2021.92045	Czech Republic	Austria
+2021.92045	France	United Kingdom
+2021.92045	Romania	Brazil
+2021.92045	Germany	Ukraine
+2021.92045	Netherlands	Germany
+2021.92045	Netherlands	Lithuania
+2021.92046	Guatemala	USA
+2021.92046	Germany	Romania
+2021.92046	Russia	Turkey
+2021.92046	Netherlands	Germany
+2021.92047	India	USA
+2021.92047	Russia	Austria
+2021.92047	Russia	Germany
+2021.92047	Russia	United Kingdom
+2021.92047	Germany	Italy
+2021.92048	United Kingdom	Germany
+2021.92048	USA	Canada
+2021.92316	Turkey	Spain
+2021.92317	USA	Singapore
+2021.92317	India	Thailand
+2021.92317	United Kingdom	Poland
+2021.92317	United Kingdom	Italy
+2021.92317	United Kingdom	Germany
+2021.92317	United Kingdom	Spain
+2021.92317	Germany	Poland
+2021.92317	United Kingdom	Denmark
+2021.92317	Italy	Poland
+2021.92317	Jordan	Austria
+2021.92317	Poland	Czech Republic
+2021.92318	France	Germany
+2021.92318	Germany	Spain
+2021.92318	France	Germany
+2021.92318	Austria	Netherlands
+2021.92318	France	Belgium
+2021.92318	France	United Kingdom
+2021.92318	United Kingdom	Italy
+2021.92319	Netherlands	Norway
+2021.92319	Czech Republic	Slovakia
+2021.92319	Switzerland	Germany
+2021.92319	Belgium	Netherlands
+2021.92319	Netherlands	Germany
+2021.92319	Poland	Slovenia
+2021.92319	Netherlands	Slovakia
+2021.92319	France	Netherlands
+2021.92319	United Kingdom	France
+2021.92319	United Kingdom	Italy
+2021.9232	France	Spain
+2021.9232	Germany	Romania
+2021.9232	France	Italy
+2021.9232	France	Singapore
+2021.9232	Russia	Spain
+2021.9232	Russia	Georgia
+2021.92321	Austria	Italy
+2021.92321	Czech Republic	Poland
+2021.92448	Turkey	Germany
+2021.9255699999999	India	Singapore
+2021.92591	Germany	Italy
+2021.92591	Poland	Sweden
+2021.92591	United Kingdom	Spain
+2021.92591	United Kingdom	Poland
+2021.92592	United Kingdom	Lithuania
+2021.92592	Turkey	Germany
+2021.92592	Germany	Italy
+2021.92592	Germany	Switzerland
+2021.92592	India	Poland
+2021.9259299999999	Germany	Poland
+2021.9259299999999	Spain	Germany
+2021.9259299999999	Czech Republic	Singapore
+2021.9259299999999	USA	Chile
+2021.92594	Belgium	Germany
+2021.92594	France	Belgium
+2021.92594	Belgium	Netherlands
+2021.92594	Singapore	Portugal
+2021.92594	France	Italy
+2021.92594	United Kingdom	Portugal
+2021.92595	United Kingdom	Netherlands
+2021.92595	France	Belgium
+2021.92596	Guatemala	USA
+2021.92864	India	Jordan
+2021.92864	India	Singapore
+2021.92865	Germany	Slovakia
+2021.92865	USA	Canada
+2021.92865	Austria	Slovakia
+2021.92865	United Kingdom	Norway
+2021.92865	United Kingdom	Ireland
+2021.92865	Turkey	Poland
+2021.92866	Germany	Portugal
+2021.92866	Czech Republic	Netherlands
+2021.92866	Croatia	Slovakia
+2021.92866	Belgium	Thailand
+2021.92866	Turkey	Ukraine
+2021.92867	France	Czech Republic
+2021.92867	USA	Canada
+2021.92867	USA	Spain
+2021.92867	Germany	Italy
+2021.92868	Germany	Netherlands
+2021.92868	France	Slovakia
+2021.92869	France	Netherlands
+2021.9287	Germany	Austria
+2021.92909	Austria	USA
+2021.92961	Germany	Italy
+2021.93136	India	Jordan
+2021.93137	United Kingdom	Poland
+2021.93137	USA	Germany
+2021.93137	Italy	Norway
+2021.93138	United Kingdom	Netherlands
+2021.93138	Turkey	Poland
+2021.93138	Colombia	USA
+2021.93139	Czech Republic	Slovenia
+2021.93139	France	Germany
+2021.93139	India	France
+2021.93139	United Kingdom	France
+2021.93139	United Kingdom	Germany
+2021.93139	United Kingdom	Denmark
+2021.93139	Germany	Switzerland
+2021.93139	Romania	Denmark
+2021.93139	United Kingdom	Italy
+2021.93139	Germany	Denmark
+2021.93139	Turkey	France
+2021.93139	Turkey	Italy
+2021.93139	Germany	Switzerland
+2021.93139	Germany	France
+2021.93139	Romania	Italy
+2021.9314	Germany	Poland
+2021.9314	United Kingdom	France
+2021.9314	Switzerland	France
+2021.9314	Malaysia	Jordan
+2021.9314	Germany	France
+2021.9314	India	Germany
+2021.9314	United Kingdom	Germany
+2021.9314	United Kingdom	Switzerland
+2021.9314	Germany	Thailand
+2021.9314	Germany	Netherlands
+2021.9314	Turkey	France
+2021.9314	Germany	United Kingdom
+2021.9314	Germany	United Kingdom
+2021.9314	Georgia	Japan
+2021.93141	Belgium	France
+2021.93141	Switzerland	France
+2021.93141	Netherlands	Belgium
+2021.93141	France	Belgium
+2021.93141	Croatia	Chile
+2021.93141	Germany	Spain
+2021.93141	France	Spain
+2021.93141	Germany	Italy
+2021.93141	Russia	France
+2021.93141	United Kingdom	France
+2021.93141	United Kingdom	France
+2021.93142	France	Italy
+2021.93142	France	Germany
+2021.93143	France	Denmark
+2021.93143	Russia	Poland
+2021.93143	Russia	USA
+2021.93143	Ukraine	Poland
+2021.93144	United Kingdom	Poland
+2021.93144	United Kingdom	Romania
+2021.93411	United Kingdom	Belgium
+2021.93412	Czech Republic	Germany
+2021.93412	India	Russia
+2021.93413	Spain	France
+2021.93413	United Kingdom	Ireland
+2021.93413	Turkey	Germany
+2021.93413	USA	United Kingdom
+2021.93414	Spain	Germany
+2021.93414	Spain	Germany
+2021.93414	Poland	Brazil
+2021.93414	United Kingdom	Sweden
+2021.93414	United Kingdom	Ireland
+2021.93414	Germany	Italy
+2021.93414	Turkey	Poland
+2021.93414	Germany	Canada
+2021.93415	United Kingdom	Belgium
+2021.93415	France	Belgium
+2021.93415	Belgium	Netherlands
+2021.93415	Russia	Switzerland
+2021.93415	Austria	Belgium
+2021.93415	United Kingdom	Brazil
+2021.93416	France	Switzerland
+2021.93416	Germany	United Kingdom
+2021.93417	France	Belgium
+2021.93417	Malaysia	Brazil
+2021.93417	India	Thailand
+2021.93686	Italy	Czech Republic
+2021.93686	Spain	Poland
+2021.93686	Belgium	United Kingdom
+2021.93686	Russia	Turkey
+2021.93687	USA	Mexico
+2021.93687	United Kingdom	Poland
+2021.93687	United Kingdom	Poland
+2021.93687	Netherlands	India
+2021.93687	Germany	Turkey
+2021.93687	Poland	Portugal
+2021.93688	Poland	Czech Republic
+2021.93688	Turkey	Germany
+2021.93688	Georgia	Poland
+2021.93689	Sweden	Belgium
+2021.93689	France	Spain
+2021.93689	Spain	Portugal
+2021.93689	Malaysia	Singapore
+2021.9369	Belgium	Spain
+2021.9369	Russia	Ukraine
+2021.93691	Russia	Czech Republic
+2021.93692	Brazil	Italy
+2021.93692	Russia	Ukraine
+2021.93961	Romania	Italy
+2021.93961	Germany	Spain
+2021.93961	Romania	Germany
+2021.9396199999999	Germany	Netherlands
+2021.9396199999999	France	Sweden
+2021.9396199999999	India	Poland
+2021.9396199999999	United Kingdom	Lithuania
+2021.9396199999999	France	Switzerland
+2021.9396199999999	Mexico	USA
+2021.9396199999999	Poland	Germany
+2021.9396199999999	Lithuania	Belgium
+2021.93963	Germany	Poland
+2021.93963	Netherlands	Italy
+2021.93963	Netherlands	United Kingdom
+2021.93963	United Kingdom	Germany
+2021.93963	India	USA
+2021.93963	United Kingdom	Germany
+2021.93964	India	Poland
+2021.93964	Malaysia	Singapore
+2021.93965	Denmark	Norway
+2021.93966	United Kingdom	USA
+2021.93966	Russia	South Korea
+2021.94233	India	Turkey
+2021.94234	Spain	Germany
+2021.94235	United Kingdom	Spain
+2021.94235	United Kingdom	Poland
+2021.94235	Lithuania	USA
+2021.94235	Israel	Turkey
+2021.94236	Germany	Switzerland
+2021.94236	Spain	France
+2021.94236	Germany	India
+2021.94236	Mexico	USA
+2021.94237	France	Italy
+2021.94238	France	Poland
+2021.94508	India	Russia
+2021.94508	Colombia	Chile
+2021.94509	USA	Japan
+2021.94509	United Kingdom	Poland
+2021.94509	Germany	Spain
+2021.9451	India	Croatia
+2021.9451	Croatia	Sweden
+2021.9451	Netherlands	Spain
+2021.9451	France	Romania
+2021.9451	United Kingdom	Poland
+2021.9451	United Kingdom	Poland
+2021.9451	United Kingdom	Lithuania
+2021.9451	Germany	Poland
+2021.9451	USA	Czech Republic
+2021.9451099999999	Germany	Italy
+2021.94512	France	Switzerland
+2021.94512	France	United Kingdom
+2021.94512	Germany	Vietnam
+2021.94512	Spain	Russia
+2021.94513	Germany	Switzerland
+2021.94513	Russia	Poland
+2021.94781	France	United Kingdom
+2021.94782	India	Jordan
+2021.94783	Germany	Slovenia
+2021.94783	Slovakia	United Kingdom
+2021.94783	Colombia	Chile
+2021.94783	United Kingdom	Germany
+2021.94783	Denmark	Germany
+2021.94783	Turkey	Portugal
+2021.94783	Germany	France
+2021.94783	India	Jordan
+2021.94783	India	Germany
+2021.94784	Costa Rica	Mexico
+2021.94784	Spain	Italy
+2021.94784	Croatia	Slovenia
+2021.94784	Poland	Switzerland
+2021.94784	Russia	Poland
+2021.94784	Russia	Georgia
+2021.94784	Italy	Switzerland
+2021.94784	India	Singapore
+2021.94784	United Kingdom	Poland
+2021.94784	United Kingdom	Denmark
+2021.94784	India	USA
+2021.94784	USA	France
+2021.94785	Netherlands	Spain
+2021.94785	France	Netherlands
+2021.94785	Netherlands	Germany
+2021.94785	Germany	Poland
+2021.94785	United Kingdom	Denmark
+2021.94785	Belgium	France
+2021.94785	Belgium	Netherlands
+2021.94786	Netherlands	Germany
+2021.94786	Italy	France
+2021.94786	Belgium	Netherlands
+2021.94786	Russia	Georgia
+2021.94786	Ukraine	Poland
+2021.94786	United Kingdom	Spain
+2021.94787	France	Spain
+2021.95055	Italy	Norway
+2021.95056	India	USA
+2021.95056	Germany	United Kingdom
+2021.95056	Germany	Switzerland
+2021.95056	United Kingdom	Germany
+2021.95057	Spain	Denmark
+2021.95057	Germany	Italy
+2021.95057	Germany	Turkey
+2021.95057	Germany	United Kingdom
+2021.95057	Germany	Turkey
+2021.95057	Spain	France
+2021.95057	Spain	Switzerland
+2021.95057	India	Spain
+2021.95057	India	Turkey
+2021.95058	United Kingdom	France
+2021.95058	France	Sri Lanka
+2021.95058	Spain	Belgium
+2021.95058	Russia	Germany
+2021.95058	United Kingdom	France
+2021.95058	United Kingdom	France
+2021.95058	United Kingdom	Belgium
+2021.95058	United Kingdom	Denmark
+2021.95058	United Kingdom	Portugal
+2021.95058	Belgium	Sweden
+2021.95058	Germany	United Kingdom
+2021.95058	India	Turkey
+2021.95058	Spain	Turkey
+2021.95059	Netherlands	United Kingdom
+2021.95059	France	Germany
+2021.95059	Spain	Poland
+2021.95059	Poland	Czech Republic
+2021.95059	Belgium	Netherlands
+2021.95059	Belgium	USA
+2021.95059	France	Italy
+2021.95059	India	USA
+2021.95059	Germany	India
+2021.95059	France	Italy
+2021.95059	Germany	France
+2021.95059	Netherlands	France
+2021.95059	Mexico	USA
+2021.9506	United Kingdom	Poland
+2021.9506	Russia	France
+2021.95061	Poland	Sweden
+2021.95062	Czech Republic	Denmark
+2021.95063	India	Netherlands
+2021.9533	Netherlands	Germany
+2021.9533	United Kingdom	Portugal
+2021.9533	Jordan	Sweden
+2021.9533	India	Italy
+2021.9533099999999	Italy	Belgium
+2021.9533099999999	South Korea	Italy
+2021.9533099999999	United Kingdom	Italy
+2021.9533099999999	Netherlands	Germany
+2021.9533099999999	France	Belgium
+2021.9533099999999	Georgia	Belgium
+2021.95332	Spain	Germany
+2021.95332	Germany	USA
+2021.95332	Germany	Italy
+2021.95332	Italy	Switzerland
+2021.95332	Mexico	Spain
+2021.95333	Netherlands	Belgium
+2021.95333	France	Switzerland
+2021.95333	Austria	Italy
+2021.95333	Belgium	USA
+2021.95333	Poland	United Kingdom
+2021.95333	Germany	Italy
+2021.95333	Ukraine	Poland
+2021.95333	Ukraine	Italy
+2021.95334	Netherlands	Czech Republic
+2021.95334	Belgium	Netherlands
+2021.95334	USA	Italy
+2021.95335	Mexico	USA
+2021.95336	Brazil	Italy
+2021.95606	United Kingdom	Spain
+2021.95606	France	Netherlands
+2021.95606	USA	Mexico
+2021.95606	USA	Canada
+2021.95606	India	Spain
+2021.95606	Georgia	Poland
+2021.95607	France	Poland
+2021.95607	Germany	Poland
+2021.95607	Germany	Poland
+2021.95607	India	Poland
+2021.95608	Germany	Spain
+2021.95608	France	Poland
+2021.95608	Russia	Sweden
+2021.95609	Germany	Netherlands
+2021.95879	Turkey	Germany
+2021.95879	United Kingdom	Germany
+2021.95879	Turkey	Germany
+2021.95879	Turkey	Germany
+2021.9587999999999	India	Germany
+2021.9587999999999	Netherlands	Germany
+2021.9587999999999	Poland	Germany
+2021.9587999999999	United Kingdom	Germany
+2021.95881	Spain	Germany
+2021.95882	France	Italy
+2021.96152	United Kingdom	Spain
+2021.96155	Russia	Switzerland
+2021.96155	Russia	Germany
+2021.96156	Portugal	Spain
+2021.96428	Bulgaria	Poland
+2021.96429	France	Poland
+2021.96698	Russia	Netherlands
+2021.96701	Germany	Netherlands
+2021.96701	Germany	Italy
+2021.96702	Spain	Italy
+2021.96702	Poland	Italy
+2021.96703	France	United Kingdom
+2021.96703	Belgium	Netherlands
+2021.96974	Russia	Poland
+2021.96975	United Kingdom	Poland
+2021.96975	Turkey	Switzerland
+2021.96975	Turkey	Poland
+2021.96976	Singapore	United Kingdom
+2021.96976	United Kingdom	Poland
+2021.96977	Spain	France
+2021.96977	Germany	Switzerland
+2021.96978	Russia	Poland
+2021.97798	Netherlands	Poland
+2021.97799	France	Poland
+2021.978	Russia	Poland

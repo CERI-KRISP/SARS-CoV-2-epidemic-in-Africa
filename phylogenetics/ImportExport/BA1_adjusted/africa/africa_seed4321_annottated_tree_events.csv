@@ -1,0 +1,6261 @@
+EventTime	Origin	Destination
+2021.8761	UNKNOWN	South Africa
+2021.87612	South Africa	United Kingdom
+2021.87623	South Africa	Spain
+2021.87623	South Africa	USA
+2021.87645	South Africa	Italy
+2021.87659	South Africa	Germany
+2021.87701	United Kingdom	Italy
+2021.87731	United Kingdom	Ireland
+2021.87753	USA	France
+2021.87756	USA	France
+2021.87816	USA	Turkey
+2021.87836	Italy	United Kingdom
+2021.87988	Germany	Poland
+2021.88048	Germany	Turkey
+2021.88099	USA	Greece
+2021.88106	USA	Canada
+2021.88143	USA	United Kingdom
+2021.88224	Turkey	Germany
+2021.88248	USA	Germany
+2021.88255	Spain	Netherlands
+2021.88267	USA	Brazil
+2021.88332	Spain	Portugal
+2021.88401	USA	Sweden
+2021.88442	Brazil	Belgium
+2021.88451	USA	Germany
+2021.88455	USA	United Kingdom
+2021.88464	Spain	Australia
+2021.88525	USA	Turkey
+2021.88543	Denmark	Italy
+2021.88602	USA	Mexico
+2021.88611	USA	South Africa
+2021.88762	USA	United Kingdom
+2021.8878	USA	Germany
+2021.88847	United Kingdom	Lithuania
+2021.88861	Brazil	United Kingdom
+2021.88876	Spain	Peru
+2021.88915	United Kingdom	Germany
+2021.88967	USA	Germany
+2021.89002	Turkey	USA
+2021.8901	Germany	USA
+2021.89011	United Kingdom	Iran
+2021.89049	USA	Germany
+2021.89068	USA	Poland
+2021.891	USA	Canada
+2021.89122	Germany	Switzerland
+2021.89148	Germany	Russia
+2021.892	USA	Brazil
+2021.89253	South Africa	USA
+2021.89265	United Kingdom	USA
+2021.89273	USA	Mexico
+2021.89364	United Kingdom	Italy
+2021.89417	USA	Indonesia
+2021.89526	USA	Israel
+2021.89537	United Kingdom	Spain
+2021.89584	France	United Kingdom
+2021.89598	USA	Spain
+2021.89626	USA	Mexico
+2021.89632	Poland	Botswana
+2021.89679	France	Brazil
+2021.89764	United Kingdom	Italy
+2021.89776	France	Greece
+2021.89802	USA	South Africa
+2021.89804	USA	South Africa
+2021.89933	United Kingdom	France
+2021.89957	USA	Poland
+2021.89971	Australia	South Africa
+2021.90102	USA	Indonesia
+2021.9013	Portugal	France
+2021.90139	United Kingdom	Italy
+2021.90188	Italy	Norway
+2021.90236	Switzerland	France
+2021.90288	Spain	France
+2021.90305	Germany	USA
+2021.90313	Germany	Netherlands
+2021.90348	Portugal	Netherlands
+2021.90349	USA	Iran
+2021.9035	USA	South Africa
+2021.90353	Italy	Netherlands
+2021.9038	Australia	South Africa
+2021.90382	Italy	Norway
+2021.90424	USA	United Kingdom
+2021.90482	USA	Peru
+2021.9053	USA	Turkey
+2021.90531	France	Germany
+2021.90566	USA	Colombia
+2021.90603	United Kingdom	Italy
+2021.90628	USA	Germany
+2021.90629	Spain	Portugal
+2021.90646	USA	Argentina
+2021.90716	France	Estonia
+2021.90726	France	Italy
+2021.90814	USA	United Kingdom
+2021.90828	Belgium	Thailand
+2021.90837	France	Portugal
+2021.90843	Italy	Israel
+2021.90853	France	Spain
+2021.90897	USA	United Kingdom
+2021.90898	Germany	Austria
+2021.90902	USA	South Africa
+2021.90988	USA	Chile
+2021.91027	USA	Peru
+2021.91038	United Kingdom	USA
+2021.91043	USA	Chile
+2021.91066	USA	Austria
+2021.91074	Turkey	Italy
+2021.9109	United Kingdom	Slovenia
+2021.91091	United Kingdom	Italy
+2021.91095	United Kingdom	Italy
+2021.91142	United Kingdom	France
+2021.91174	USA	South Africa
+2021.91174	Australia	South Africa
+2021.91188	USA	United Kingdom
+2021.9119	USA	Austria
+2021.91196	United Kingdom	Poland
+2021.91265	USA	Brazil
+2021.91284	United Kingdom	Italy
+2021.91347	United Kingdom	Italy
+2021.91371	USA	Italy
+2021.91414	United Kingdom	Italy
+2021.91446	USA	Ireland
+2021.91446	Brazil	Germany
+2021.91448	France	South Africa
+2021.91448	USA	South Africa
+2021.91448	France	USA
+2021.9145	Denmark	Netherlands
+2021.91456	Brazil	Romania
+2021.9148500000001	United Kingdom	Portugal
+2021.9151	USA	Russia
+2021.9155700000001	Italy	France
+2021.9156600000001	France	Italy
+2021.91581	United Kingdom	Germany
+2021.91658	United Kingdom	Italy
+2021.91722	USA	South Africa
+2021.91723	USA	Germany
+2021.91726	United Kingdom	Germany
+2021.91726	United Kingdom	France
+2021.91767	USA	United Kingdom
+2021.91809	United Kingdom	Norway
+2021.91873	France	Germany
+2021.91929	France	Germany
+2021.91954	France	Ireland
+2021.92001	South Africa	France
+2021.92022	United Kingdom	Italy
+2021.92131	Germany	Slovakia
+2021.92139	USA	Israel
+2021.92256	USA	Peru
+2021.92266	France	Belgium
+2021.92268	USA	Russia
+2021.92269	United Kingdom	Netherlands
+2021.92269	United Kingdom	Lebanon
+2021.9227	Norway	Netherlands
+2021.9227	USA	South Africa
+2021.92274	USA	South Africa
+2021.924	United Kingdom	Portugal
+2021.92439	USA	France
+2021.92478	USA	Colombia
+2021.92535	Germany	Greece
+2021.92538	USA	Germany
+2021.92539	USA	Ireland
+2021.92543	United Kingdom	Lebanon
+2021.92543	USA	Netherlands
+2021.92543	United Kingdom	Belgium
+2021.92581	Germany	Austria
+2021.92591	USA	France
+2021.92594	Australia	Italy
+2021.92613	USA	Canada
+2021.92641	USA	Germany
+2021.92645	United Kingdom	Norway
+2021.9265	South Africa	United Kingdom
+2021.92698	USA	Austria
+2021.92742	Brazil	USA
+2021.92749	USA	Netherlands
+2021.92781	Turkey	United Kingdom
+2021.92816	USA	Ireland
+2021.92817	United Kingdom	South Africa
+2021.92818	Italy	South Africa
+2021.92821	USA	Canada
+2021.92822	France	Belgium
+2021.92823	France	Switzerland
+2021.92907	USA	Argentina
+2021.9291	Germany	France
+2021.92945	Germany	Japan
+2021.92969	Spain	Italy
+2021.92974	Germany	Turkey
+2021.9299	France	Peru
+2021.93003	France	Netherlands
+2021.93017	Brazil	Portugal
+2021.93087	United Kingdom	South Africa
+2021.9309	USA	South Africa
+2021.9309	USA	Austria
+2021.93091	USA	South Africa
+2021.93091	United Kingdom	Netherlands
+2021.93091	France	United Kingdom
+2021.93091	USA	South Africa
+2021.93092	Canada	France
+2021.93092	USA	South Africa
+2021.93092	Turkey	USA
+2021.93092	USA	South Africa
+2021.93092	Italy	South Africa
+2021.93092	Belgium	South Africa
+2021.93093	USA	France
+2021.93095	United Kingdom	South Africa
+2021.93095	Poland	South Africa
+2021.93096	USA	South Africa
+2021.931	Italy	Netherlands
+2021.93161	Belgium	France
+2021.93232	Sweden	Norway
+2021.93258	United Kingdom	Lithuania
+2021.93267	USA	Argentina
+2021.93361	United Kingdom	Ireland
+2021.93362	Portugal	South Africa
+2021.93364	USA	South Africa
+2021.93365	United Kingdom	South Africa
+2021.93365	Italy	South Africa
+2021.93365	Australia	Zimbabwe
+2021.93365	France	South Africa
+2021.93365	France	Germany
+2021.93365	United Kingdom	Austria
+2021.93365	USA	Denmark
+2021.93365	Denmark	Jordan
+2021.93366	USA	Netherlands
+2021.93366	USA	Jordan
+2021.93366	USA	Zimbabwe
+2021.93367	USA	South Africa
+2021.93369	United Kingdom	Norway
+2021.93369	United Kingdom	South Africa
+2021.93369	South Africa	Eswatini
+2021.93464	Spain	Slovenia
+2021.9353	United Kingdom	Iran
+2021.93569	USA	Italy
+2021.9357	USA	United Kingdom
+2021.93584	Germany	Italy
+2021.93586	United Kingdom	France
+2021.93597	United Kingdom	USA
+2021.93638	United Kingdom	Zimbabwe
+2021.93639	South Africa	Zimbabwe
+2021.93642	Germany	USA
+2021.93643	USA	Netherlands
+2021.93663	USA	Czech Republic
+2021.93785	Germany	Israel
+2021.93824	Spain	Romania
+2021.93911	United Kingdom	Portugal
+2021.93912	USA	South Africa
+2021.93912	Brazil	South Africa
+2021.93914	United Kingdom	France
+2021.93914	USA	South Africa
+2021.93915	USA	United Kingdom
+2021.93917	United Kingdom	France
+2021.93955	Spain	Germany
+2021.93996	USA	France
+2021.94003	Argentina	Colombia
+2021.94029	Germany	India
+2021.94077	Turkey	Italy
+2021.94079	United Kingdom	Switzerland
+2021.94087	France	Switzerland
+2021.9411	Italy	Denmark
+2021.94116	Iran	France
+2021.9415	United Kingdom	Israel
+2021.9418	USA	Spain
+2021.94183	United Kingdom	Norway
+2021.94184	United Kingdom	Ireland
+2021.94184	USA	South Africa
+2021.94185	Italy	Belgium
+2021.94186	USA	South Africa
+2021.94187	USA	Germany
+2021.94187	Brazil	South Africa
+2021.94187	Brazil	South Africa
+2021.94188	Australia	South Africa
+2021.94192	South Africa	USA
+2021.94202	Croatia	United Kingdom
+2021.94206	USA	Argentina
+2021.94287	United Kingdom	Italy
+2021.94302	Spain	France
+2021.94312	Germany	France
+2021.94358	Brazil	Denmark
+2021.94359	USA	United Kingdom
+2021.94456	USA	United Kingdom
+2021.94456	France	Switzerland
+2021.94461	France	United Kingdom
+2021.94461	Spain	France
+2021.94461	USA	France
+2021.94462	Italy	France
+2021.94463	USA	Canada
+2021.9447	USA	France
+2021.94485	USA	Argentina
+2021.94524	Denmark	Poland
+2021.94528	USA	Brazil
+2021.9457	United Kingdom	Italy
+2021.94624	Spain	Switzerland
+2021.94734	USA	South Africa
+2021.94734	USA	France
+2021.94734	Spain	Ireland
+2021.94734	Australia	USA
+2021.94735	France	South Africa
+2021.94737	USA	South Africa
+2021.94738	United Kingdom	Argentina
+2021.9474	South Africa	Zimbabwe
+2021.9474	South Africa	United Kingdom
+2021.94745	Argentina	Brazil
+2021.94774	United Kingdom	Croatia
+2021.94818	France	Germany
+2021.94819	France	Germany
+2021.94842	USA	Peru
+2021.94853	France	United Kingdom
+2021.94863	Portugal	United Kingdom
+2021.94968	United Kingdom	Spain
+2021.9497	Spain	Germany
+2021.95002	Spain	Portugal
+2021.95005	USA	Canada
+2021.95007	United Kingdom	Lithuania
+2021.95008	Spain	Austria
+2021.95008	USA	South Africa
+2021.95008	Brazil	South Africa
+2021.95008	Turkey	South Africa
+2021.95008	Brazil	South Africa
+2021.95008	United Kingdom	South Africa
+2021.95009	USA	South Africa
+2021.95009	USA	South Africa
+2021.95009	USA	France
+2021.95009	USA	South Africa
+2021.9501	Brazil	USA
+2021.9501	United Kingdom	South Africa
+2021.9501	USA	Canada
+2021.9501	France	South Africa
+2021.95011	USA	South Africa
+2021.95011	United Kingdom	South Africa
+2021.95014	United Kingdom	Czech Republic
+2021.95054	United Kingdom	Portugal
+2021.95072	United Kingdom	Bulgaria
+2021.95099	USA	United Kingdom
+2021.9511	South Africa	Belgium
+2021.95137	France	USA
+2021.95154	USA	Italy
+2021.95223	USA	France
+2021.95268	USA	Chile
+2021.9528	United Kingdom	Portugal
+2021.9528	France	Netherlands
+2021.95281	USA	United Kingdom
+2021.95282	USA	South Africa
+2021.95282	USA	Zimbabwe
+2021.95282	Turkey	Botswana
+2021.95282	United Kingdom	France
+2021.95282	United Kingdom	South Africa
+2021.95283	USA	Germany
+2021.95283	Zimbabwe	United Kingdom
+2021.95283	Australia	South Africa
+2021.95283	South Africa	USA
+2021.95284	Italy	Eswatini
+2021.95284	Brazil	Belgium
+2021.95285	USA	South Africa
+2021.95285	USA	South Africa
+2021.95285	USA	South Africa
+2021.95285	USA	South Africa
+2021.95287	United Kingdom	South Africa
+2021.95287	South Africa	Zimbabwe
+2021.95288	United Kingdom	Netherlands
+2021.95289	United Kingdom	Norway
+2021.9529	United Kingdom	Chile
+2021.95333	USA	Chile
+2021.95458	Portugal	Poland
+2021.95458	United Kingdom	Italy
+2021.95502	Brazil	Germany
+2021.95502	Germany	Colombia
+2021.95553	United Kingdom	Spain
+2021.95554	France	Ireland
+2021.95554	USA	South Africa
+2021.95555	USA	France
+2021.95555	USA	South Africa
+2021.95555	Austria	Namibia
+2021.95555	USA	Germany
+2021.95556	United Kingdom	Portugal
+2021.95556	USA	South Africa
+2021.95556	USA	Namibia
+2021.95557	France	Belgium
+2021.95557	United Kingdom	Greece
+2021.95558	USA	South Africa
+2021.95558	USA	South Africa
+2021.95558	United Kingdom	Sweden
+2021.95558	Turkey	Zimbabwe
+2021.95558	Norway	Switzerland
+2021.95558	Switzerland	Thailand
+2021.95558	United Kingdom	South Africa
+2021.95558	Germany	India
+2021.95558	France	Democratic Republic of the Congo
+2021.95558	Canada	Belgium
+2021.95558	Denmark	Germany
+2021.9556	USA	Spain
+2021.95561	USA	Czech Republic
+2021.95562	United Kingdom	Austria
+2021.95568	USA	Brazil
+2021.95584	United Kingdom	Poland
+2021.95598	India	USA
+2021.95629	France	USA
+2021.95719	United Kingdom	Italy
+2021.95735	Brazil	Peru
+2021.95776	United Kingdom	Italy
+2021.95821	France	Belgium
+2021.95826	USA	United Kingdom
+2021.95826	Spain	France
+2021.95829	USA	Canada
+2021.95829	Spain	France
+2021.9583	United Kingdom	France
+2021.9583	United Kingdom	Belgium
+2021.95831	USA	United Kingdom
+2021.95831	Australia	Canada
+2021.95831	Turkey	Botswana
+2021.95906	Brazil	Peru
+2021.95934	Australia	USA
+2021.95976	Australia	United Kingdom
+2021.95979	Norway	Germany
+2021.96025	Spain	Finland
+2021.96102	United Kingdom	Netherlands
+2021.96103	USA	Argentina
+2021.96103	USA	South Africa
+2021.96103	USA	South Africa
+2021.96104	Peru	South Africa
+2021.96104	France	South Africa
+2021.96104	United Kingdom	Portugal
+2021.96104	Spain	Italy
+2021.96104	Germany	Jordan
+2021.96104	Australia	South Africa
+2021.9610500000001	USA	Russia
+2021.9610500000001	USA	South Africa
+2021.9610500000001	Australia	South Africa
+2021.9610500000001	France	India
+2021.9610500000001	United Kingdom	Russia
+2021.96106	Italy	Russia
+2021.96106	France	USA
+2021.96106	USA	Colombia
+2021.96106	Italy	South Africa
+2021.96107	USA	Netherlands
+2021.96107	USA	France
+2021.96108	USA	South Africa
+2021.96108	USA	France
+2021.96109	USA	United Kingdom
+2021.9618600000001	Turkey	France
+2021.96229	USA	Spain
+2021.96244	USA	Brazil
+2021.96246	Germany	USA
+2021.96268	USA	Ukraine
+2021.96308	USA	Mexico
+2021.96331	USA	Turkey
+2021.96356	France	Italy
+2021.96378	USA	Jordan
+2021.96378	United Kingdom	Italy
+2021.96378	Turkey	Eswatini
+2021.96379	USA	Switzerland
+2021.9638	United Kingdom	South Africa
+2021.9638	Spain	Italy
+2021.9638	France	Thailand
+2021.96381	United Kingdom	France
+2021.96381	Germany	Democratic Republic of the Congo
+2021.96383	United Kingdom	Jordan
+2021.96383	United Kingdom	Spain
+2021.96455	Czech Republic	Slovakia
+2021.96455	United Kingdom	Italy
+2021.96497	United Kingdom	Romania
+2021.96564	France	USA
+2021.96613	United Kingdom	Italy
+2021.9665	Spain	France
+2021.96651	USA	United Kingdom
+2021.96651	USA	United Kingdom
+2021.96651	United Kingdom	Portugal
+2021.96651	USA	France
+2021.96651	Turkey	Netherlands
+2021.96652	USA	United Kingdom
+2021.96652	USA	Israel
+2021.96652	United Kingdom	Germany
+2021.96652	Spain	China
+2021.96652	USA	United Kingdom
+2021.96652	United Kingdom	USA
+2021.96652	Germany	Greece
+2021.96652	Turkey	United Kingdom
+2021.96653	United Kingdom	Ireland
+2021.96653	Australia	Czech Republic
+2021.96654	United Kingdom	Ireland
+2021.96654	France	Georgia
+2021.96656	USA	South Africa
+2021.96656	USA	United Kingdom
+2021.96657	USA	South Africa
+2021.96658	USA	France
+2021.96658	France	Botswana
+2021.96658	United Kingdom	Spain
+2021.96684	Spain	Israel
+2021.96829	USA	Peru
+2021.96847	United Kingdom	Portugal
+2021.96876	Germany	France
+2021.96889	USA	Brazil
+2021.96923	Spain	Netherlands
+2021.96924	Italy	Russia
+2021.96924	Turkey	Greece
+2021.96925	United Kingdom	Poland
+2021.96925	Spain	Italy
+2021.96925	Spain	Portugal
+2021.96925	Spain	Netherlands
+2021.96926	USA	United Kingdom
+2021.96926	USA	Canada
+2021.96926	United Kingdom	Netherlands
+2021.96926	United Kingdom	Portugal
+2021.96926	Australia	USA
+2021.96926	Australia	South Africa
+2021.96926	United Kingdom	France
+2021.96926	United Kingdom	France
+2021.96926	USA	Nigeria
+2021.96926	Brazil	Germany
+2021.96926	Brazil	France
+2021.96926	South Africa	Malawi
+2021.96927	USA	Argentina
+2021.96927	United Kingdom	Canada
+2021.96927	Germany	Colombia
+2021.96927	South Africa	United Kingdom
+2021.96927	France	United Kingdom
+2021.96927	South Africa	Netherlands
+2021.96927	France	Czech Republic
+2021.96927	Italy	Spain
+2021.96928	Germany	Switzerland
+2021.96928	USA	United Kingdom
+2021.96928	Australia	South Africa
+2021.96928	United Kingdom	Zimbabwe
+2021.9693	United Kingdom	Portugal
+2021.9693	United Kingdom	France
+2021.96931	USA	Italy
+2021.96931	United Kingdom	Spain
+2021.96932	United Kingdom	Ireland
+2021.96933	United Kingdom	France
+2021.96998	United Kingdom	Israel
+2021.9701	France	Brazil
+2021.97074	USA	Israel
+2021.9708	Mexico	USA
+2021.97083	United Kingdom	Italy
+2021.97108	USA	Israel
+2021.97134	USA	Czech Republic
+2021.97172	Spain	Argentina
+2021.97195	Germany	Greece
+2021.97196	France	Ireland
+2021.97196	France	Thailand
+2021.97197	USA	United Kingdom
+2021.97197	Spain	Ireland
+2021.97198	France	Georgia
+2021.97199	United Kingdom	Portugal
+2021.97199	Australia	South Africa
+2021.97199	Italy	Nigeria
+2021.97199	Germany	India
+2021.97199	United Kingdom	Ireland
+2021.972	USA	Canada
+2021.972	USA	Colombia
+2021.972	France	USA
+2021.972	USA	Zimbabwe
+2021.972	USA	South Africa
+2021.972	France	Zambia
+2021.972	USA	Zimbabwe
+2021.972	USA	Botswana
+2021.972	Turkey	Netherlands
+2021.972	United Kingdom	USA
+2021.97201	USA	Peru
+2021.97201	France	Ireland
+2021.97201	United Kingdom	Ireland
+2021.97201	Brazil	Kenya
+2021.97201	Brazil	South Africa
+2021.97201	USA	South Africa
+2021.97201	United Kingdom	Belgium
+2021.97202	United Kingdom	USA
+2021.97204	USA	United Kingdom
+2021.97204	USA	South Africa
+2021.97204	USA	Canada
+2021.97204	Italy	Mozambique
+2021.97205	South Africa	Zambia
+2021.97205	United Kingdom	USA
+2021.97205	USA	France
+2021.97262	Brazil	USA
+2021.97273	USA	Germany
+2021.97281	United Kingdom	Iran
+2021.97295	USA	South Korea
+2021.97299	United Kingdom	France
+2021.97327	USA	Argentina
+2021.97335	United Kingdom	Italy
+2021.9734	Canada	USA
+2021.9738	USA	France
+2021.97388	Italy	Belgium
+2021.97434	Spain	Portugal
+2021.97452	Spain	Belgium
+2021.9747	USA	United Kingdom
+2021.97472	Spain	Germany
+2021.97472	Australia	United Kingdom
+2021.97472	United Kingdom	USA
+2021.97474	Turkey	South Africa
+2021.97474	Portugal	France
+2021.97474	United Kingdom	Spain
+2021.97474	United Kingdom	Ireland
+2021.97474	France	Israel
+2021.97474	Brazil	USA
+2021.97474	USA	Japan
+2021.97475	USA	Canada
+2021.97475	Italy	Norway
+2021.97475	France	Malawi
+2021.97475	USA	Canada
+2021.97476	USA	Spain
+2021.97476	Germany	Hungary
+2021.97476	USA	South Africa
+2021.97477	USA	Canada
+2021.97477	USA	United Kingdom
+2021.97477	USA	France
+2021.97477	United Kingdom	Italy
+2021.97477	USA	Kenya
+2021.97479	United Kingdom	France
+2021.97506	Brazil	Argentina
+2021.97519	United Kingdom	Germany
+2021.97525	Belgium	Brazil
+2021.97546	Spain	Germany
+2021.97583	United Kingdom	France
+2021.97627	United Kingdom	Italy
+2021.9764	USA	Canada
+2021.97689	France	Germany
+2021.97712	Germany	Netherlands
+2021.97725	Chile	Brazil
+2021.9774400000001	USA	Switzerland
+2021.97745	USA	Vietnam
+2021.97746	USA	United Kingdom
+2021.97746	Spain	Germany
+2021.97746	France	Russia
+2021.97746	Mexico	Chile
+2021.97746	United Kingdom	USA
+2021.97747	USA	United Kingdom
+2021.97747	Italy	USA
+2021.97748	United Kingdom	Italy
+2021.97748	Germany	USA
+2021.97748	Australia	United Kingdom
+2021.97748	Australia	United Kingdom
+2021.97748	Germany	Denmark
+2021.97749	USA	Argentina
+2021.97749	USA	United Kingdom
+2021.97749	Italy	Greece
+2021.97749	Australia	South Africa
+2021.97749	United Kingdom	Italy
+2021.97749	Germany	Australia
+2021.97749	USA	Canada
+2021.9775	USA	Argentina
+2021.9775	Australia	Mozambique
+2021.9775	Australia	South Africa
+2021.9775	Norway	United Kingdom
+2021.9775	Norway	South Africa
+2021.9775	Brazil	Belgium
+2021.9775	United Kingdom	Greece
+2021.97751	USA	Greece
+2021.97751	USA	Russia
+2021.97751	Brazil	Greece
+2021.97752	USA	South Africa
+2021.97752	United Kingdom	Greece
+2021.97752	USA	Canada
+2021.97783	United Kingdom	Italy
+2021.9783400000001	USA	Colombia
+2021.97893	USA	Colombia
+2021.97912	Germany	Israel
+2021.97928	Colombia	USA
+2021.97959	United Kingdom	Portugal
+2021.97984	Brazil	Czech Republic
+2021.98017	USA	France
+2021.98018	France	Germany
+2021.98019	Spain	Ireland
+2021.98021	United Kingdom	France
+2021.98022	United Kingdom	Italy
+2021.98022	India	Georgia
+2021.98022	United Kingdom	Switzerland
+2021.98022	Turkey	South Africa
+2021.98022	United Kingdom	France
+2021.98022	United Kingdom	Belgium
+2021.98023	USA	Canada
+2021.98023	USA	Greece
+2021.98023	United Kingdom	Sweden
+2021.98023	Germany	Austria
+2021.98023	Italy	South Africa
+2021.98023	France	Switzerland
+2021.98024	USA	Sweden
+2021.98024	USA	Mexico
+2021.98024	France	South Africa
+2021.98024	USA	India
+2021.98024	Norway	Sweden
+2021.98024	Italy	Sweden
+2021.98025	USA	Canada
+2021.98025	USA	Canada
+2021.98026	Denmark	Switzerland
+2021.98027	United Kingdom	Spain
+2021.98028	USA	South Africa
+2021.98029	United Kingdom	South Africa
+2021.98153	United Kingdom	Brazil
+2021.98183	United Kingdom	Italy
+2021.98248	Spain	Argentina
+2021.98291	France	Vietnam
+2021.98291	Germany	Italy
+2021.98294	Spain	Czech Republic
+2021.98295	Turkey	Vietnam
+2021.98295	USA	Argentina
+2021.98295	USA	Canada
+2021.98295	USA	Vietnam
+2021.98295	United Kingdom	Italy
+2021.98296	USA	Canada
+2021.98296	United Kingdom	Italy
+2021.98296	USA	Denmark
+2021.98297	USA	United Kingdom
+2021.98297	United Kingdom	Spain
+2021.98297	Germany	Austria
+2021.98297	United Kingdom	India
+2021.98297	USA	Japan
+2021.98297	USA	Vietnam
+2021.98297	United Kingdom	Greece
+2021.98299	Poland	Czech Republic
+2021.983	United Kingdom	Norway
+2021.98302	South Africa	Iran
+2021.98302	South Africa	USA
+2021.98302	USA	Iran
+2021.98303	Italy	Spain
+2021.98366	Brazil	USA
+2021.98382	United Kingdom	Italy
+2021.9841	United Kingdom	Romania
+2021.9847	Jordan	Romania
+2021.98476	Turkey	Portugal
+2021.98487	Brazil	Germany
+2021.98508	Portugal	USA
+2021.98534	Denmark	Italy
+2021.98559	Brazil	Israel
+2021.98567	United Kingdom	Switzerland
+2021.98567	Spain	Belgium
+2021.98567	Germany	Botswana
+2021.98568	Brazil	USA
+2021.98568	USA	Netherlands
+2021.98568	Portugal	Denmark
+2021.98568	United Kingdom	Portugal
+2021.98569	USA	United Kingdom
+2021.98569	USA	Portugal
+2021.98569	Italy	Spain
+2021.9857	USA	South Africa
+2021.9857	USA	United Kingdom
+2021.9857	USA	Ireland
+2021.9857	United Kingdom	Portugal
+2021.9857	United Kingdom	Austria
+2021.9857	United Kingdom	Austria
+2021.9857	France	Ecuador
+2021.9857	USA	Canada
+2021.9857	Turkey	Netherlands
+2021.9857	United Kingdom	Poland
+2021.9857	United Kingdom	USA
+2021.9857	Germany	Portugal
+2021.9857	United Kingdom	USA
+2021.98571	USA	Ireland
+2021.98571	USA	Brazil
+2021.98571	United Kingdom	France
+2021.98571	USA	United Kingdom
+2021.98571	United Kingdom	Portugal
+2021.98571	Italy	United Kingdom
+2021.98571	Portugal	Finland
+2021.98572	USA	Canada
+2021.98572	United Kingdom	France
+2021.98572	USA	Canada
+2021.98575	United Kingdom	Rwanda
+2021.98617	Italy	United Kingdom
+2021.98643	France	Netherlands
+2021.98666	USA	United Kingdom
+2021.98668	USA	Poland
+2021.98798	USA	Russia
+2021.98826	Brazil	Lithuania
+2021.98837	United Kingdom	USA
+2021.98839	USA	France
+2021.98839	Spain	France
+2021.98839	France	Portugal
+2021.98839	Portugal	Netherlands
+2021.98839	France	Spain
+2021.98841	Italy	Portugal
+2021.98841	Spain	France
+2021.98841	United Kingdom	Greece
+2021.98842	Spain	Peru
+2021.98842	Spain	France
+2021.98842	Spain	United Kingdom
+2021.98842	Spain	France
+2021.98842	France	Austria
+2021.98842	Spain	Portugal
+2021.98842	Spain	Germany
+2021.98842	Spain	Portugal
+2021.98842	USA	Italy
+2021.98842	Israel	Nigeria
+2021.98843	United Kingdom	Greece
+2021.98843	USA	Colombia
+2021.98843	USA	Greece
+2021.98843	United Kingdom	Portugal
+2021.98843	Spain	France
+2021.98843	Spain	Portugal
+2021.98843	Australia	USA
+2021.98843	USA	France
+2021.98843	USA	Colombia
+2021.98843	South Africa	Spain
+2021.98844	Poland	Czech Republic
+2021.98844	United Kingdom	Germany
+2021.98844	USA	United Kingdom
+2021.98844	USA	Italy
+2021.98844	USA	Spain
+2021.98844	United Kingdom	Germany
+2021.98844	United Kingdom	Sweden
+2021.98844	United Kingdom	France
+2021.98844	United Kingdom	Italy
+2021.98844	Italy	United Kingdom
+2021.98844	United Kingdom	Greece
+2021.98844	France	Denmark
+2021.98844	Spain	Italy
+2021.98844	Spain	Italy
+2021.98844	Australia	USA
+2021.98844	Australia	Greece
+2021.98844	United Kingdom	Argentina
+2021.98844	Turkey	France
+2021.98844	United Kingdom	Israel
+2021.98844	United Kingdom	Italy
+2021.98844	United Kingdom	USA
+2021.98845	USA	Argentina
+2021.98845	USA	Greece
+2021.98845	United Kingdom	France
+2021.98845	USA	Poland
+2021.98845	South Africa	Australia
+2021.98845	USA	France
+2021.98845	Spain	Greece
+2021.98845	USA	France
+2021.98845	Brazil	France
+2021.98845	France	Belgium
+2021.98845	United Kingdom	Sweden
+2021.98845	USA	Mozambique
+2021.98845	Turkey	Iran
+2021.98845	United Kingdom	Italy
+2021.98846	USA	Brazil
+2021.98846	USA	Ireland
+2021.98846	United Kingdom	Australia
+2021.98846	USA	Mexico
+2021.98846	USA	France
+2021.98846	USA	France
+2021.98846	USA	France
+2021.98846	USA	Canada
+2021.98846	USA	Mozambique
+2021.98846	Brazil	USA
+2021.98846	USA	Portugal
+2021.98846	USA	France
+2021.98846	USA	Canada
+2021.98846	USA	France
+2021.98846	Denmark	France
+2021.98846	Denmark	Germany
+2021.98847	USA	United Kingdom
+2021.98847	United Kingdom	Portugal
+2021.98847	United Kingdom	France
+2021.98847	United Kingdom	USA
+2021.98847	United Kingdom	Greece
+2021.98848	Belgium	France
+2021.98848	United Kingdom	France
+2021.98848	USA	France
+2021.98849	USA	Greece
+2021.98849	United Kingdom	France
+2021.98849	United Kingdom	France
+2021.98849	USA	France
+2021.9885	United Kingdom	France
+2021.9885	United Kingdom	Greece
+2021.9885	United Kingdom	Greece
+2021.9885	United Kingdom	France
+2021.98925	France	United Kingdom
+2021.99053	Turkey	Japan
+2021.99063	Argentina	Brazil
+2021.99077	Denmark	Germany
+2021.99114	France	Canada
+2021.99114	Spain	Portugal
+2021.99114	France	Georgia
+2021.99114	France	Switzerland
+2021.99115	United Kingdom	Ireland
+2021.99115	Spain	Ireland
+2021.99115	Spain	Ireland
+2021.99115	France	Ireland
+2021.99116	Brazil	United Kingdom
+2021.99116	United Kingdom	USA
+2021.99116	Spain	Ireland
+2021.99116	USA	India
+2021.99116	USA	Denmark
+2021.99116	United Kingdom	USA
+2021.99117	USA	United Kingdom
+2021.99117	USA	Peru
+2021.99117	USA	Canada
+2021.99117	Spain	Switzerland
+2021.99117	Australia	Sweden
+2021.99117	Australia	Spain
+2021.99117	Germany	Uganda
+2021.99117	USA	Botswana
+2021.99117	United Kingdom	Morocco
+2021.99118	Norway	Sweden
+2021.99118	USA	Japan
+2021.99118	Brazil	Mexico
+2021.99118	United Kingdom	Thailand
+2021.99118	France	Ireland
+2021.99118	United Kingdom	Ireland
+2021.99118	Italy	United Kingdom
+2021.99118	Spain	Italy
+2021.99118	United Kingdom	Portugal
+2021.99118	Turkey	Ireland
+2021.99118	USA	Canada
+2021.99118	France	Portugal
+2021.99118	USA	Sweden
+2021.99118	Spain	Uganda
+2021.99119	USA	United Kingdom
+2021.99119	France	USA
+2021.99119	Peru	Canada
+2021.99119	United Kingdom	USA
+2021.99119	United Kingdom	Italy
+2021.99119	United Kingdom	Slovenia
+2021.99119	Spain	Czech Republic
+2021.99119	Germany	India
+2021.99119	Italy	United Kingdom
+2021.99119	Australia	USA
+2021.99119	USA	Colombia
+2021.99119	France	Italy
+2021.99119	United Kingdom	South Africa
+2021.99119	Turkey	Spain
+2021.99119	USA	Canada
+2021.99119	USA	France
+2021.99119	Portugal	Spain
+2021.9912	USA	Argentina
+2021.9912	USA	Argentina
+2021.9912	United Kingdom	France
+2021.9912	USA	Italy
+2021.9912	USA	Brazil
+2021.9912	USA	Canada
+2021.9912	France	Spain
+2021.99121	United Kingdom	Italy
+2021.99121	Brazil	Argentina
+2021.99121	USA	Colombia
+2021.99121	Brazil	Italy
+2021.99122	USA	Argentina
+2021.99122	USA	Greece
+2021.99122	United Kingdom	USA
+2021.99122	USA	India
+2021.99122	USA	United Kingdom
+2021.99123	United Kingdom	USA
+2021.99123	USA	Canada
+2021.99124	United Kingdom	Spain
+2021.99124	United Kingdom	Sweden
+2021.99124	United Kingdom	Ireland
+2021.99131	United Kingdom	France
+2021.99131	Brazil	Indonesia
+2021.99142	USA	Poland
+2021.99157	Belgium	Moldova
+2021.99207	USA	Argentina
+2021.9922100000001	United Kingdom	Portugal
+2021.99261	USA	Indonesia
+2021.99333	United Kingdom	France
+2021.99355	United Kingdom	Portugal
+2021.99383	USA	Peru
+2021.99388	USA	United Kingdom
+2021.99388	France	Russia
+2021.99389	Turkey	Israel
+2021.9939	USA	United Kingdom
+2021.9939	Spain	France
+2021.9939	Portugal	USA
+2021.99391	United Kingdom	France
+2021.99391	USA	United Kingdom
+2021.99391	USA	Argentina
+2021.99391	United Kingdom	Italy
+2021.99391	Spain	Poland
+2021.99391	Spain	Italy
+2021.99391	Spain	Romania
+2021.99391	France	Switzerland
+2021.99391	USA	Israel
+2021.99391	France	Belgium
+2021.99392	USA	Netherlands
+2021.99392	United Kingdom	Italy
+2021.99392	USA	Bulgaria
+2021.99392	United Kingdom	Belgium
+2021.99392	USA	South Africa
+2021.99392	Germany	Italy
+2021.99392	Brazil	United Kingdom
+2021.99392	France	Italy
+2021.99392	Italy	South Africa
+2021.9939200000001	United Kingdom	France
+2021.9939200000001	United Kingdom	France
+2021.99393	United Kingdom	France
+2021.99393	USA	Spain
+2021.99393	United Kingdom	Spain
+2021.99393	United Kingdom	Spain
+2021.99393	USA	Canada
+2021.99393	Germany	Spain
+2021.99393	USA	Colombia
+2021.99393	France	Belgium
+2021.99393	United Kingdom	Netherlands
+2021.99393	United Kingdom	Switzerland
+2021.99393	United Kingdom	Germany
+2021.99394	USA	Argentina
+2021.99394	USA	Argentina
+2021.99394	USA	Argentina
+2021.99394	USA	Canada
+2021.99394	USA	Spain
+2021.99394	United Kingdom	Italy
+2021.99394	USA	Ireland
+2021.99394	USA	Ireland
+2021.99395	USA	Czech Republic
+2021.99395	USA	Mozambique
+2021.99395	USA	Ecuador
+2021.99395	USA	Colombia
+2021.99395	USA	Argentina
+2021.99396	United Kingdom	France
+2021.99396	United Kingdom	Spain
+2021.99396	France	Germany
+2021.99396	USA	Canada
+2021.99396	USA	Canada
+2021.99396	Denmark	Spain
+2021.99397	USA	South Africa
+2021.99398	United Kingdom	France
+2021.99398	United Kingdom	Italy
+2021.99398	United Kingdom	Netherlands
+2021.99399	United Kingdom	USA
+2021.99551	USA	Turkey
+2021.99553	France	Germany
+2021.99581	Italy	Bulgaria
+2021.99584	USA	Turkey
+2021.99617	Italy	Turkey
+2021.99661	France	Germany
+2021.99662	France	Switzerland
+2021.99664	Brazil	USA
+2021.99664	USA	Canada
+2021.99664	United Kingdom	Italy
+2021.99665	United Kingdom	Czech Republic
+2021.99665	United Kingdom	Germany
+2021.99665	USA	Canada
+2021.99665	USA	United Kingdom
+2021.99665	Spain	Italy
+2021.99665	Spain	USA
+2021.99665	USA	United Kingdom
+2021.99665	USA	France
+2021.99666	USA	Mexico
+2021.99666	Brazil	Mexico
+2021.99666	Norway	United Kingdom
+2021.99666	USA	Canada
+2021.99666	USA	Canada
+2021.99666	United Kingdom	Italy
+2021.99666	United Kingdom	Italy
+2021.99666	United Kingdom	Belgium
+2021.99666	USA	United Kingdom
+2021.99666	France	USA
+2021.99666	India	South Africa
+2021.99666	Germany	Nigeria
+2021.99666	Germany	Switzerland
+2021.99666	Italy	Sweden
+2021.99666	South Africa	Botswana
+2021.99666	USA	United Kingdom
+2021.99666	United Kingdom	Slovakia
+2021.99667	USA	South Africa
+2021.99667	USA	Brazil
+2021.99667	Italy	Turkey
+2021.99667	United Kingdom	USA
+2021.99667	France	Italy
+2021.99667	USA	Netherlands
+2021.99667	USA	Turkey
+2021.99667	France	Luxembourg
+2021.99667	Brazil	Denmark
+2021.99667	Denmark	Croatia
+2021.99668	United Kingdom	Italy
+2021.99668	USA	Spain
+2021.99668	Brazil	United Kingdom
+2021.99668	United Kingdom	South Africa
+2021.99668	Denmark	Switzerland
+2021.99669	USA	Switzerland
+2021.99669	United Kingdom	Spain
+2021.99669	United Kingdom	Italy
+2021.9967	Italy	Germany
+2021.9967	USA	France
+2021.9967	USA	Germany
+2021.99671	Italy	Spain
+2021.99672	United Kingdom	Rwanda
+2021.99672	United Kingdom	Italy
+2021.99693	United Kingdom	Italy
+2021.99695	United Kingdom	USA
+2021.99695	Germany	Austria
+2021.99758	France	USA
+2021.99908	France	Netherlands
+2021.99935	USA	Thailand
+2021.99935	Germany	Netherlands
+2021.99937	France	Ireland
+2021.99938	USA	France
+2021.99938	USA	Belgium
+2021.99938	USA	Colombia
+2021.99939	Mexico	Vietnam
+2021.99939	USA	Spain
+2021.99939	USA	Vietnam
+2021.99939	USA	Canada
+2021.9994	Canada	USA
+2021.9994	USA	Thailand
+2021.9994	United Kingdom	USA
+2021.9994	United Kingdom	Italy
+2021.9994	United Kingdom	Spain
+2021.9994	Spain	Czech Republic
+2021.9994	Italy	Netherlands
+2021.9994	Australia	USA
+2021.9994	France	Switzerland
+2021.9994	USA	Germany
+2021.99941	France	South Africa
+2021.99941	USA	United Kingdom
+2021.99941	Italy	France
+2021.99941	Norway	South Africa
+2021.99941	France	USA
+2021.99942	USA	Bulgaria
+2021.99942	USA	Lithuania
+2021.99942	United Kingdom	Germany
+2021.99942	USA	United Kingdom
+2021.99942	Denmark	Italy
+2021.99944	Denmark	Italy
+2021.99945	United Kingdom	Spain
+2021.99945	United Kingdom	France
+2021.99946	USA	Germany
+2021.99946	United Kingdom	Spain
+2021.99946	United Kingdom	Italy
+2021.99958	United Kingdom	France
+2021.99987	USA	Slovakia
+2022.00048	Australia	Germany
+2022.00195	France	USA
+2022.00209	France	Belgium
+2022.00211	USA	United Kingdom
+2022.00212	USA	Canada
+2022.00212	United Kingdom	Italy
+2022.00213	USA	United Kingdom
+2022.00213	United Kingdom	Singapore
+2022.00213	Australia	Singapore
+2022.00214	USA	Italy
+2022.00214	Peru	Russia
+2022.00214	Spain	Singapore
+2022.00214	Belgium	Luxembourg
+2022.00214	USA	Denmark
+2022.00215	France	USA
+2022.00215	USA	United Kingdom
+2022.00215	United Kingdom	Belgium
+2022.00215	United Kingdom	Italy
+2022.00215	USA	Israel
+2022.00215	USA	United Kingdom
+2022.00215	USA	United Kingdom
+2022.00215	United Kingdom	USA
+2022.00215	Spain	Chile
+2022.00215	USA	Russia
+2022.00215	Turkey	Spain
+2022.00216	Brazil	India
+2022.00216	Brazil	France
+2022.00217	USA	Colombia
+2022.00217	USA	Ireland
+2022.00217	Denmark	Finland
+2022.00218	United Kingdom	Switzerland
+2022.00219	United Kingdom	Switzerland
+2022.00219	Brazil	Czech Republic
+2022.0022	United Kingdom	Spain
+2022.00233	Brazil	Romania
+2022.003	USA	Peru
+2022.00349	USA	Brazil
+2022.00358	United Kingdom	Italy
+2022.00411	Brazil	Japan
+2022.00423	USA	Israel
+2022.00458	USA	India
+2022.00484	USA	France
+2022.00486	USA	Israel
+2022.00486	Spain	Portugal
+2022.00486	Brazil	Denmark
+2022.00486	Australia	Portugal
+2022.00486	USA	Portugal
+2022.00486	France	Finland
+2022.00486	United Kingdom	Italy
+2022.00487	USA	Canada
+2022.00487	United Kingdom	Netherlands
+2022.00487	USA	United Kingdom
+2022.00487	Spain	Portugal
+2022.00487	Australia	Colombia
+2022.00487	France	United Kingdom
+2022.00488	USA	United Kingdom
+2022.00488	USA	United Kingdom
+2022.00488	United Kingdom	Switzerland
+2022.00488	USA	Mexico
+2022.00488	United Kingdom	Italy
+2022.00488	Spain	Denmark
+2022.00488	Spain	Switzerland
+2022.00488	Germany	Israel
+2022.00488	Germany	Netherlands
+2022.00488	Australia	Japan
+2022.00488	Denmark	Sweden
+2022.00489	USA	Italy
+2022.00489	USA	Botswana
+2022.00489	Israel	United Kingdom
+2022.00489	USA	South Africa
+2022.00489	Italy	United Kingdom
+2022.00489	Norway	Denmark
+2022.00489	France	Spain
+2022.00489	Brazil	USA
+2022.00489	USA	India
+2022.0049	USA	Argentina
+2022.0049	United Kingdom	USA
+2022.0049	USA	Italy
+2022.0049	USA	Chile
+2022.0049	United Kingdom	Portugal
+2022.0049	Spain	Italy
+2022.0049	USA	United Kingdom
+2022.00491	Italy	Portugal
+2022.00491	USA	Israel
+2022.00491	USA	Colombia
+2022.00492	United Kingdom	Colombia
+2022.00492	United Kingdom	Italy
+2022.00493	United Kingdom	USA
+2022.00493	United Kingdom	Italy
+2022.00494	United Kingdom	USA
+2022.00542	France	Italy
+2022.00581	United Kingdom	France
+2022.00597	Spain	Germany
+2022.00697	Turkey	Italy
+2022.00758	Spain	Luxembourg
+2022.00758	France	Portugal
+2022.00759	United Kingdom	Switzerland
+2022.00759	USA	Canada
+2022.00759	USA	United Kingdom
+2022.00759	USA	Brazil
+2022.00759	France	USA
+2022.00759	USA	Vietnam
+2022.00759	USA	Vietnam
+2022.00759	United Kingdom	Portugal
+2022.00759	USA	South Africa
+2022.00759	France	Portugal
+2022.00759	France	Peru
+2022.00759	USA	Italy
+2022.0076	USA	Vietnam
+2022.0076	United Kingdom	Italy
+2022.0076	Spain	France
+2022.0076	Spain	Italy
+2022.0076	USA	Germany
+2022.0076	USA	Colombia
+2022.00761	United Kingdom	Portugal
+2022.00761	USA	United Kingdom
+2022.00761	USA	France
+2022.00761	United Kingdom	Italy
+2022.00761	United Kingdom	Portugal
+2022.00761	United Kingdom	Portugal
+2022.00761	United Kingdom	Italy
+2022.00761	Spain	France
+2022.00761	Spain	Argentina
+2022.00761	Spain	Portugal
+2022.00761	Spain	Italy
+2022.00761	Spain	Ireland
+2022.00761	Spain	France
+2022.00761	Spain	France
+2022.00761	Spain	France
+2022.00761	France	Portugal
+2022.00761	Australia	Poland
+2022.00761	USA	Australia
+2022.00761	France	Norway
+2022.00761	USA	Italy
+2022.00761	Germany	France
+2022.00761	Germany	Colombia
+2022.00761	USA	France
+2022.00761	USA	Germany
+2022.00761	USA	Thailand
+2022.00761	USA	Sweden
+2022.00761	USA	Italy
+2022.00761	Italy	Vietnam
+2022.00761	United Kingdom	Israel
+2022.00761	USA	France
+2022.00761	France	Netherlands
+2022.00761	United Kingdom	Denmark
+2022.00762	USA	Germany
+2022.00762	United Kingdom	Argentina
+2022.00762	USA	Italy
+2022.00762	United Kingdom	France
+2022.00762	USA	Canada
+2022.00762	USA	France
+2022.00762	USA	Colombia
+2022.00762	USA	Spain
+2022.00762	USA	Belgium
+2022.00762	USA	Portugal
+2022.00762	United Kingdom	Italy
+2022.00762	United Kingdom	Italy
+2022.00762	United Kingdom	Portugal
+2022.00762	United Kingdom	Italy
+2022.00762	United Kingdom	Italy
+2022.00762	United Kingdom	Portugal
+2022.00762	United Kingdom	France
+2022.00762	United Kingdom	France
+2022.00762	Spain	United Kingdom
+2022.00762	United Kingdom	Italy
+2022.00762	United Kingdom	Italy
+2022.00762	Italy	France
+2022.00762	Italy	United Kingdom
+2022.00762	Italy	Belgium
+2022.00762	Italy	France
+2022.00762	United Kingdom	Portugal
+2022.00762	France	Italy
+2022.00762	United Kingdom	Germany
+2022.00762	Spain	Slovakia
+2022.00762	Spain	Portugal
+2022.00762	USA	Italy
+2022.00762	USA	Spain
+2022.00762	Italy	Belgium
+2022.00762	Germany	Belgium
+2022.00762	United Kingdom	Italy
+2022.00762	USA	Spain
+2022.00762	India	Ecuador
+2022.00762	Germany	Italy
+2022.00762	United Kingdom	Sweden
+2022.00762	United Kingdom	USA
+2022.00762	Turkey	Switzerland
+2022.00762	Turkey	Portugal
+2022.00762	Portugal	France
+2022.00762	USA	India
+2022.00762	United Kingdom	USA
+2022.00762	United Kingdom	USA
+2022.00763	Peru	USA
+2022.00763	USA	Italy
+2022.00763	United Kingdom	France
+2022.00763	USA	Mexico
+2022.00763	USA	France
+2022.00763	USA	Italy
+2022.00763	USA	South Africa
+2022.00763	USA	France
+2022.00763	United Kingdom	Italy
+2022.00763	Spain	United Kingdom
+2022.00763	United Kingdom	France
+2022.00763	United Kingdom	Italy
+2022.00763	United Kingdom	Australia
+2022.00763	USA	Italy
+2022.00763	Spain	Portugal
+2022.00763	United Kingdom	Netherlands
+2022.00763	USA	Australia
+2022.00763	Norway	Italy
+2022.00763	Italy	South Africa
+2022.00763	Norway	Italy
+2022.00763	United Kingdom	France
+2022.00763	USA	France
+2022.00763	Denmark	Italy
+2022.00763	Denmark	Spain
+2022.00763	United Kingdom	France
+2022.00764	USA	Canada
+2022.00764	USA	Brazil
+2022.00764	USA	France
+2022.00764	United Kingdom	France
+2022.00764	USA	Argentina
+2022.00764	United Kingdom	Italy
+2022.00764	United Kingdom	Spain
+2022.00764	Spain	Costa Rica
+2022.00764	United Kingdom	USA
+2022.00764	United Kingdom	Austria
+2022.00764	United Kingdom	Italy
+2022.00764	United Kingdom	Italy
+2022.00764	United Kingdom	France
+2022.00764	United Kingdom	Italy
+2022.00764	United Kingdom	France
+2022.00764	Australia	Spain
+2022.00764	France	Portugal
+2022.00764	France	USA
+2022.00764	France	Spain
+2022.00764	USA	Brazil
+2022.00764	USA	Germany
+2022.00764	USA	France
+2022.00764	Brazil	Vietnam
+2022.00764	Denmark	Sweden
+2022.00765	USA	Chile
+2022.00765	United Kingdom	France
+2022.00765	United Kingdom	France
+2022.00765	United Kingdom	Norway
+2022.00765	United Kingdom	Netherlands
+2022.00765	United Kingdom	France
+2022.00765	United Kingdom	France
+2022.00765	Brazil	India
+2022.00766	United Kingdom	Netherlands
+2022.00766	United Kingdom	Italy
+2022.00766	United Kingdom	France
+2022.00766	United Kingdom	France
+2022.00766	USA	Czech Republic
+2022.00766	USA	Colombia
+2022.00767	United Kingdom	USA
+2022.00767	USA	France
+2022.00768	USA	South Africa
+2022.00768	United Kingdom	USA
+2022.00768	United Kingdom	Italy
+2022.00768	USA	Portugal
+2022.00769	United Kingdom	France
+2022.00769	United Kingdom	Italy
+2022.00769	Slovakia	Romania
+2022.00769	United Kingdom	Sweden
+2022.00774	USA	Indonesia
+2022.00818	USA	Belgium
+2022.00983	Brazil	India
+2022.01023	United Kingdom	Germany
+2022.01031	USA	Ireland
+2022.01031	France	United Kingdom
+2022.01031	France	Lithuania
+2022.01031	France	Spain
+2022.01032	United Kingdom	Italy
+2022.01032	Spain	France
+2022.01032	Germany	Poland
+2022.01032	France	Switzerland
+2022.01033	USA	Spain
+2022.01033	USA	United Kingdom
+2022.01033	USA	Argentina
+2022.01033	Australia	USA
+2022.01033	United Kingdom	Italy
+2022.01033	Brazil	USA
+2022.01033	Italy	Argentina
+2022.01034	United Kingdom	Ireland
+2022.01034	United Kingdom	Italy
+2022.01034	USA	United Kingdom
+2022.01034	USA	United Kingdom
+2022.01034	USA	Colombia
+2022.01034	USA	Brazil
+2022.01034	Italy	Switzerland
+2022.01034	United Kingdom	France
+2022.01034	United Kingdom	Ireland
+2022.01034	USA	Peru
+2022.01034	France	Czech Republic
+2022.01034	Turkey	Croatia
+2022.01034	United Kingdom	Germany
+2022.01034	Germany	Ireland
+2022.01035	USA	Israel
+2022.01035	Brazil	USA
+2022.01035	USA	Netherlands
+2022.01035	USA	Argentina
+2022.01035	USA	Colombia
+2022.01035	United Kingdom	Spain
+2022.01035	Canada	Japan
+2022.01035	United Kingdom	Italy
+2022.01035	Spain	Israel
+2022.01035	Spain	Ireland
+2022.01035	Germany	Netherlands
+2022.01035	Spain	Brazil
+2022.01035	Spain	United Kingdom
+2022.01035	Spain	Poland
+2022.01035	USA	Czech Republic
+2022.01035	USA	South Korea
+2022.01035	France	Ireland
+2022.01035	USA	Ireland
+2022.01035	USA	Israel
+2022.01035	USA	Netherlands
+2022.01035	Portugal	Estonia
+2022.01035	Belgium	USA
+2022.01035	USA	Argentina
+2022.01036	Canada	USA
+2022.01036	Turkey	USA
+2022.01036	USA	United Kingdom
+2022.01036	USA	Switzerland
+2022.01036	Belgium	Ireland
+2022.01036	USA	Spain
+2022.01036	United Kingdom	Ireland
+2022.01036	United Kingdom	Romania
+2022.01036	United Kingdom	Italy
+2022.01036	Spain	Italy
+2022.01036	France	Italy
+2022.01036	USA	Spain
+2022.01036	Germany	Brazil
+2022.01036	Germany	Italy
+2022.01036	United Kingdom	India
+2022.01036	Turkey	France
+2022.01036	Brazil	Ecuador
+2022.01036	United Kingdom	Israel
+2022.01036	United Kingdom	USA
+2022.01036	USA	Portugal
+2022.01036	Turkey	USA
+2022.01036	Portugal	USA
+2022.01036	USA	Sweden
+2022.01036	France	Netherlands
+2022.01036	United Kingdom	USA
+2022.01037	USA	Argentina
+2022.01037	USA	Argentina
+2022.01037	USA	Austria
+2022.01037	Brazil	Germany
+2022.01037	France	United Kingdom
+2022.01037	USA	Canada
+2022.01037	USA	Argentina
+2022.01037	USA	France
+2022.01037	United Kingdom	Poland
+2022.01037	United Kingdom	Ireland
+2022.01037	Spain	Argentina
+2022.01037	France	Australia
+2022.01037	United Kingdom	Belgium
+2022.01037	Australia	South Africa
+2022.01037	USA	Israel
+2022.01037	Germany	Italy
+2022.01037	France	Poland
+2022.01037	Italy	Croatia
+2022.01037	Norway	Bosnia and Herzegovina
+2022.01037	Brazil	Argentina
+2022.01037	Turkey	Switzerland
+2022.01037	France	Italy
+2022.01037	Switzerland	Spain
+2022.01037	USA	Mexico
+2022.01037	USA	South Africa
+2022.01037	Belgium	Portugal
+2022.01037	Sweden	Denmark
+2022.01037	United Kingdom	Germany
+2022.01037	Germany	Croatia
+2022.01037	USA	Spain
+2022.01038	USA	United Kingdom
+2022.01038	USA	Argentina
+2022.01038	USA	Ireland
+2022.01038	USA	Argentina
+2022.01038	United Kingdom	USA
+2022.01038	Australia	Switzerland
+2022.01038	Norway	Switzerland
+2022.01038	Brazil	Argentina
+2022.01038	USA	Italy
+2022.01038	France	Sweden
+2022.01038	USA	Israel
+2022.01038	Sweden	Germany
+2022.01039	USA	Spain
+2022.01039	France	Spain
+2022.01039	USA	United Kingdom
+2022.01039	United Kingdom	Spain
+2022.01039	United Kingdom	Netherlands
+2022.01039	USA	India
+2022.0104	United Kingdom	Argentina
+2022.0104	United Kingdom	France
+2022.0104	United Kingdom	Ireland
+2022.0104	United Kingdom	Belgium
+2022.0104	United Kingdom	Israel
+2022.0104	USA	Spain
+2022.01041	United Kingdom	USA
+2022.01041	United Kingdom	Italy
+2022.01041	Spain	Netherlands
+2022.01041	Germany	United Kingdom
+2022.01042	United Kingdom	France
+2022.01042	United Kingdom	Italy
+2022.01101	United Kingdom	Ecuador
+2022.01105	USA	Austria
+2022.01145	Netherlands	Germany
+2022.01171	USA	Chile
+2022.01215	Germany	India
+2022.01306	USA	Ireland
+2022.01306	Spain	United Kingdom
+2022.01306	France	United Kingdom
+2022.01307	Australia	Thailand
+2022.01307	Australia	Turkey
+2022.01307	Australia	Turkey
+2022.01307	Germany	Bulgaria
+2022.01308	United Kingdom	Canada
+2022.01308	USA	Mexico
+2022.01308	United Kingdom	Bosnia and Herzegovina
+2022.01308	France	USA
+2022.01308	Brazil	Spain
+2022.01308	France	Switzerland
+2022.01308	France	Belgium
+2022.01308	Germany	Sweden
+2022.01308	Switzerland	Sweden
+2022.01308	USA	Peru
+2022.01308	USA	Turkey
+2022.01308	USA	Argentina
+2022.01308	Japan	Croatia
+2022.01309	France	Spain
+2022.01309	USA	Finland
+2022.01309	United Kingdom	USA
+2022.01309	USA	Mexico
+2022.01309	Spain	Belgium
+2022.01309	Spain	Austria
+2022.01309	Brazil	Turkey
+2022.01309	USA	Denmark
+2022.01309	United Kingdom	France
+2022.0131	USA	Dominican Republic
+2022.0131	USA	Turkey
+2022.0131	USA	Austria
+2022.0131	Spain	Denmark
+2022.0131	USA	Brazil
+2022.0131	USA	Netherlands
+2022.0131	USA	United Kingdom
+2022.0131	United Kingdom	Switzerland
+2022.0131	United Kingdom	Italy
+2022.0131	United Kingdom	Germany
+2022.0131	United Kingdom	Bulgaria
+2022.0131	United Kingdom	Romania
+2022.0131	Italy	Netherlands
+2022.0131	France	Germany
+2022.0131	France	United Kingdom
+2022.0131	France	Spain
+2022.0131	Germany	Switzerland
+2022.0131	Germany	USA
+2022.0131	United Kingdom	Sweden
+2022.0131	France	Slovenia
+2022.0131	Germany	United Kingdom
+2022.0131	USA	Czech Republic
+2022.0131	Netherlands	South Africa
+2022.0131	France	India
+2022.0131	France	Norway
+2022.0131	Netherlands	Sweden
+2022.0131	France	Belgium
+2022.01311	USA	United Kingdom
+2022.01311	USA	India
+2022.01311	USA	United Kingdom
+2022.01311	USA	Costa Rica
+2022.01311	United Kingdom	Spain
+2022.01311	Australia	United Kingdom
+2022.01311	USA	Colombia
+2022.01311	Brazil	United Kingdom
+2022.01311	France	Spain
+2022.01311	USA	Canada
+2022.01311	Denmark	Czech Republic
+2022.01311	USA	Mexico
+2022.01312	USA	Argentina
+2022.01312	USA	Netherlands
+2022.01312	USA	United Kingdom
+2022.01312	United Kingdom	Brazil
+2022.01312	Germany	Belgium
+2022.01312	Spain	Poland
+2022.01312	USA	Mexico
+2022.01313	USA	United Kingdom
+2022.01313	Brazil	Greece
+2022.01313	USA	Peru
+2022.01314	United Kingdom	France
+2022.01315	USA	United Kingdom
+2022.01315	USA	Argentina
+2022.01315	United Kingdom	Germany
+2022.01315	United Kingdom	Spain
+2022.01315	United Kingdom	Romania
+2022.01316	USA	Turkey
+2022.01578	USA	United Kingdom
+2022.01579	Spain	Lithuania
+2022.01581	USA	Canada
+2022.01581	Spain	Austria
+2022.01581	Australia	Netherlands
+2022.01582	USA	Germany
+2022.01582	USA	Mexico
+2022.01582	Italy	USA
+2022.01582	Australia	Austria
+2022.01582	Turkey	Netherlands
+2022.01583	USA	Germany
+2022.01583	USA	United Kingdom
+2022.01583	USA	Colombia
+2022.01583	United Kingdom	Australia
+2022.01583	Belgium	Finland
+2022.01583	Brazil	Mexico
+2022.01583	Brazil	Mexico
+2022.01583	USA	United Kingdom
+2022.01583	United Kingdom	Spain
+2022.01583	USA	South Africa
+2022.01584	USA	United Kingdom
+2022.01584	Japan	USA
+2022.01584	USA	Germany
+2022.01584	USA	United Kingdom
+2022.01584	USA	Brazil
+2022.01584	Spain	Ireland
+2022.01584	USA	South Africa
+2022.01584	USA	Spain
+2022.01584	USA	Argentina
+2022.01584	United Kingdom	Germany
+2022.01584	United Kingdom	Germany
+2022.01584	South Africa	United Kingdom
+2022.01584	Switzerland	South Korea
+2022.01584	Germany	India
+2022.01584	Brazil	Belgium
+2022.01584	Turkey	Germany
+2022.01584	United Kingdom	Botswana
+2022.01584	United Kingdom	USA
+2022.01585	USA	Canada
+2022.01585	USA	Brazil
+2022.01585	Brazil	United Kingdom
+2022.01585	USA	Greece
+2022.01585	United Kingdom	Germany
+2022.01585	Italy	Luxembourg
+2022.01585	Denmark	Estonia
+2022.01585	USA	Ireland
+2022.01585	Germany	Colombia
+2022.01585	Germany	Israel
+2022.01585	United Kingdom	USA
+2022.01585	Germany	Israel
+2022.01585	United Kingdom	Turkey
+2022.01585	France	Belgium
+2022.01586	USA	Argentina
+2022.01586	USA	Brazil
+2022.01586	United Kingdom	Norway
+2022.01586	USA	Argentina
+2022.01586	USA	Ireland
+2022.01586	USA	Austria
+2022.01586	USA	Argentina
+2022.01587	USA	Canada
+2022.01587	USA	Italy
+2022.01587	USA	Colombia
+2022.01587	USA	Colombia
+2022.01588	USA	Israel
+2022.01588	Poland	United Kingdom
+2022.01589	United Kingdom	Germany
+2022.01589	Brazil	Austria
+2022.01589	United Kingdom	Netherlands
+2022.0159	United Kingdom	Czech Republic
+2022.01633	France	Italy
+2022.01688	United Kingdom	Netherlands
+2022.01854	France	Spain
+2022.01855	USA	Romania
+2022.01855	Italy	Netherlands
+2022.01855	Switzerland	Germany
+2022.01855	Brazil	USA
+2022.01855	USA	Brazil
+2022.01855	Canada	USA
+2022.01856	United Kingdom	Ireland
+2022.01856	USA	Argentina
+2022.01856	South Africa	Germany
+2022.01856	Turkey	United Kingdom
+2022.01856	United Kingdom	Spain
+2022.01857	USA	Netherlands
+2022.01857	Ireland	Argentina
+2022.01857	USA	Germany
+2022.01857	United Kingdom	France
+2022.01857	Austria	Greece
+2022.01858	Turkey	Vietnam
+2022.01858	USA	Peru
+2022.01858	USA	Argentina
+2022.01858	United Kingdom	Switzerland
+2022.01858	Italy	United Kingdom
+2022.01858	Spain	Germany
+2022.01858	Portugal	Spain
+2022.01858	United Kingdom	Netherlands
+2022.01858	Australia	Germany
+2022.01858	Australia	Thailand
+2022.01858	USA	India
+2022.01858	USA	Japan
+2022.01858	United Kingdom	Japan
+2022.01858	United Kingdom	Canada
+2022.01859	Brazil	Ecuador
+2022.01859	USA	Spain
+2022.01859	USA	Colombia
+2022.01859	Australia	Sweden
+2022.01859	Canada	South Korea
+2022.01859	United Kingdom	Netherlands
+2022.01859	United Kingdom	Germany
+2022.01859	Germany	USA
+2022.01859	USA	France
+2022.01859	USA	Canada
+2022.01859	Denmark	Sweden
+2022.01859	Denmark	Sweden
+2022.01859	Denmark	Switzerland
+2022.01859	Denmark	Germany
+2022.01859	United Kingdom	USA
+2022.0186	USA	Brazil
+2022.0186	Germany	USA
+2022.0186	USA	Vietnam
+2022.01861	United Kingdom	Spain
+2022.01861	USA	Mexico
+2022.01862	Germany	Greece
+2022.01862	United Kingdom	Italy
+2022.01862	USA	Canada
+2022.01862	Italy	India
+2022.01863	USA	Germany
+2022.01863	Germany	Turkey
+2022.01863	USA	Netherlands
+2022.01863	Germany	Turkey
+2022.01863	United Kingdom	Spain
+2022.01864	USA	United Kingdom
+2022.01884	USA	Indonesia
+2022.01972	France	Spain
+2022.01977	France	Switzerland
+2022.02092	USA	Spain
+2022.02117	United Kingdom	USA
+2022.02128	France	Spain
+2022.02128	France	Belgium
+2022.02129	USA	Argentina
+2022.0213	USA	United Kingdom
+2022.0213	Australia	India
+2022.0213	United Kingdom	Italy
+2022.02131	USA	Canada
+2022.02131	United Kingdom	Ireland
+2022.02131	USA	Spain
+2022.02131	Argentina	Japan
+2022.02131	USA	France
+2022.02131	United Kingdom	Latvia
+2022.02131	Spain	Netherlands
+2022.02131	Germany	Netherlands
+2022.02131	Netherlands	Portugal
+2022.02131	United Kingdom	Canada
+2022.02131	Turkey	Georgia
+2022.02132	USA	Spain
+2022.02132	Canada	USA
+2022.02132	Brazil	Greece
+2022.02132	Portugal	Italy
+2022.02132	United Kingdom	Italy
+2022.02132	Turkey	India
+2022.02132	France	Greece
+2022.02132	USA	Spain
+2022.02132	USA	India
+2022.02132	USA	Germany
+2022.02132	USA	Italy
+2022.02133	Brazil	Georgia
+2022.02133	Italy	Greece
+2022.02133	Germany	Poland
+2022.02133	Indonesia	Rwanda
+2022.02133	USA	India
+2022.02133	Denmark	Sweden
+2022.02133	United Kingdom	Sweden
+2022.02134	USA	United Kingdom
+2022.02134	United Kingdom	Argentina
+2022.02134	United Kingdom	Greece
+2022.02134	Brazil	Colombia
+2022.02136	USA	India
+2022.02136	USA	Greece
+2022.02136	United Kingdom	Greece
+2022.02136	United Kingdom	Greece
+2022.02138	USA	Netherlands
+2022.02138	Netherlands	Rwanda
+2022.02139	United Kingdom	Spain
+2022.02231	United Kingdom	Italy
+2022.0240000000001	France	Netherlands
+2022.0240000000001	France	Portugal
+2022.02402	United Kingdom	Portugal
+2022.02402	United Kingdom	Portugal
+2022.02402	Spain	Portugal
+2022.02402	Spain	Portugal
+2022.02403	Australia	USA
+2022.02403	Australia	Germany
+2022.02403	USA	India
+2022.02403	USA	India
+2022.02403	Switzerland	France
+2022.02403	France	Portugal
+2022.02403	France	Germany
+2022.02403	United Kingdom	Australia
+2022.02404	United Kingdom	USA
+2022.02404	USA	Spain
+2022.02404	United Kingdom	Portugal
+2022.02404	Netherlands	Croatia
+2022.02404	Austria	Botswana
+2022.02404	USA	Argentina
+2022.02405	USA	United Kingdom
+2022.02405	USA	Mexico
+2022.02405	USA	United Kingdom
+2022.02405	United Kingdom	Netherlands
+2022.02405	Spain	Portugal
+2022.02405	Germany	Czech Republic
+2022.02405	Germany	Luxembourg
+2022.02406	Sweden	Finland
+2022.02406	United Kingdom	USA
+2022.02406	United Kingdom	Italy
+2022.02406	USA	Mexico
+2022.02406	Argentina	USA
+2022.02406	United Kingdom	Greece
+2022.02406	Spain	Italy
+2022.02406	Spain	Portugal
+2022.02406	Spain	Portugal
+2022.02406	United Kingdom	Italy
+2022.02406	USA	Botswana
+2022.02406	USA	India
+2022.02406	USA	Peru
+2022.02406	Peru	Belgium
+2022.02406	USA	Israel
+2022.02406	Germany	Netherlands
+2022.02406	Turkey	Sweden
+2022.02406	Turkey	Zambia
+2022.02406	United Kingdom	Portugal
+2022.02406	United Kingdom	USA
+2022.02407	USA	Portugal
+2022.02407	USA	Mexico
+2022.02407	Argentina	Spain
+2022.02407	Germany	Australia
+2022.02407	Canada	USA
+2022.02407	France	Romania
+2022.02407	France	India
+2022.02407	France	Switzerland
+2022.02407	Germany	Switzerland
+2022.02407	USA	Canada
+2022.02408	Brazil	Colombia
+2022.02408	USA	Argentina
+2022.02408	Argentina	Estonia
+2022.02408	United Kingdom	Romania
+2022.02408	Italy	Sweden
+2022.02408	United Kingdom	Australia
+2022.02408	USA	Slovenia
+2022.02408	USA	Canada
+2022.0240900000001	USA	Brazil
+2022.0240900000001	Japan	Bangladesh
+2022.0240900000001	USA	Colombia
+2022.0240900000001	Denmark	Germany
+2022.0241	USA	Belgium
+2022.0241	United Kingdom	Portugal
+2022.0241	United Kingdom	Portugal
+2022.02411	United Kingdom	Russia
+2022.02411	United Kingdom	Slovenia
+2022.02412	United Kingdom	Netherlands
+2022.02505	USA	Austria
+2022.02612	Germany	Brazil
+2022.02613	France	Netherlands
+2022.02616	Canada	USA
+2022.02625	United Kingdom	Italy
+2022.02674	USA	Vietnam
+2022.02674	France	Hungary
+2022.02675	USA	United Kingdom
+2022.02675	USA	United Kingdom
+2022.02675	Spain	Argentina
+2022.02675	Germany	Netherlands
+2022.02676	Spain	Argentina
+2022.02676	Spain	Norway
+2022.02676	Spain	France
+2022.02676	Spain	France
+2022.02677	United Kingdom	Italy
+2022.02677	United Kingdom	Portugal
+2022.02677	United Kingdom	Portugal
+2022.02677	Spain	Argentina
+2022.02677	Spain	Japan
+2022.02677	Spain	Switzerland
+2022.02677	Brazil	Switzerland
+2022.02677	Switzerland	Bosnia and Herzegovina
+2022.02677	Germany	USA
+2022.02677	United Kingdom	Switzerland
+2022.02677	France	Belgium
+2022.02677	Belgium	Croatia
+2022.02677	USA	Brazil
+2022.02677	USA	Brazil
+2022.02677	USA	Argentina
+2022.02677	Greece	France
+2022.02677	United Kingdom	India
+2022.02678	United Kingdom	France
+2022.02678	USA	France
+2022.02678	USA	Chile
+2022.02678	USA	Turkey
+2022.02678	United Kingdom	France
+2022.02678	United Kingdom	Portugal
+2022.02678	Italy	Japan
+2022.02678	United Kingdom	Finland
+2022.02678	United Kingdom	Switzerland
+2022.02678	Spain	France
+2022.02678	Spain	France
+2022.02678	France	Canada
+2022.02678	Switzerland	Portugal
+2022.02678	USA	Mexico
+2022.02678	Brazil	USA
+2022.02679	USA	Canada
+2022.02679	Germany	France
+2022.02679	USA	Lithuania
+2022.02679	USA	Ireland
+2022.02679	USA	Brazil
+2022.02679	Italy	Austria
+2022.02679	USA	Canada
+2022.02679	USA	Switzerland
+2022.02679	United Kingdom	Portugal
+2022.02679	United Kingdom	Norway
+2022.02679	United Kingdom	Italy
+2022.02679	Portugal	Netherlands
+2022.02679	United Kingdom	Italy
+2022.02679	United Kingdom	Italy
+2022.02679	United Kingdom	Italy
+2022.02679	United Kingdom	Italy
+2022.02679	Spain	Netherlands
+2022.02679	Spain	France
+2022.02679	France	Italy
+2022.02679	Spain	France
+2022.02679	Germany	Italy
+2022.02679	Germany	Italy
+2022.02679	Spain	France
+2022.02679	Spain	Italy
+2022.02679	Spain	Denmark
+2022.02679	Spain	Italy
+2022.02679	Australia	Portugal
+2022.02679	Germany	Austria
+2022.02679	USA	Austria
+2022.02679	USA	Poland
+2022.02679	Brazil	Turkey
+2022.02679	Belgium	Zambia
+2022.02679	Israel	France
+2022.02679	Turkey	USA
+2022.02679	Brazil	Canada
+2022.02679	USA	Turkey
+2022.02679	United Kingdom	France
+2022.02679	Turkey	Germany
+2022.02679	United Kingdom	USA
+2022.02679	United Kingdom	Morocco
+2022.02679	USA	Portugal
+2022.0268	USA	Austria
+2022.0268	Sweden	Thailand
+2022.0268	Netherlands	Greece
+2022.0268	USA	Guatemala
+2022.0268	USA	France
+2022.0268	USA	Sweden
+2022.0268	USA	France
+2022.0268	USA	Italy
+2022.0268	USA	Switzerland
+2022.0268	USA	Peru
+2022.0268	USA	Peru
+2022.0268	USA	Peru
+2022.0268	USA	Brazil
+2022.0268	USA	Argentina
+2022.0268	USA	Peru
+2022.0268	USA	Costa Rica
+2022.0268	United Kingdom	Poland
+2022.0268	Italy	United Kingdom
+2022.0268	Italy	France
+2022.0268	United Kingdom	Spain
+2022.0268	Spain	Belgium
+2022.0268	USA	India
+2022.0268	USA	Greece
+2022.0268	USA	France
+2022.0268	Brazil	Italy
+2022.0268	Germany	Brazil
+2022.0268	USA	Mexico
+2022.0268	USA	Italy
+2022.0268	United Kingdom	Norway
+2022.0268	USA	Turkey
+2022.0268	Norway	Belgium
+2022.0268	Germany	Belgium
+2022.0268	Belgium	France
+2022.0268	United Kingdom	France
+2022.0268	Chile	Canada
+2022.0268	Turkey	Israel
+2022.0268	Brazil	Romania
+2022.0268	United Kingdom	USA
+2022.0268	USA	Austria
+2022.0268	France	Belgium
+2022.02681	USA	Switzerland
+2022.02681	Brazil	Chile
+2022.02681	USA	Brazil
+2022.02681	Belgium	India
+2022.02681	France	Spain
+2022.02681	Italy	Portugal
+2022.02681	USA	Latvia
+2022.02681	United Kingdom	France
+2022.02681	USA	Italy
+2022.02681	USA	Italy
+2022.02681	USA	Peru
+2022.02681	USA	Italy
+2022.02681	United Kingdom	Sweden
+2022.02681	Turkey	USA
+2022.02681	Italy	Norway
+2022.02681	France	Belgium
+2022.02681	France	Italy
+2022.02681	Spain	Germany
+2022.02681	Brazil	France
+2022.02681	Brazil	Netherlands
+2022.02681	Germany	Switzerland
+2022.02681	Turkey	Israel
+2022.02681	Denmark	Sweden
+2022.02681	Denmark	Switzerland
+2022.02681	Denmark	Estonia
+2022.02681	Denmark	Belgium
+2022.02681	USA	France
+2022.02681	France	Germany
+2022.02682	USA	Peru
+2022.02682	USA	Argentina
+2022.02682	United Kingdom	France
+2022.02682	Germany	Belgium
+2022.02682	USA	Slovakia
+2022.02682	USA	Brazil
+2022.02682	USA	Peru
+2022.02682	USA	Argentina
+2022.02682	USA	Germany
+2022.02682	USA	France
+2022.02682	Austria	Bosnia and Herzegovina
+2022.02682	Brazil	Argentina
+2022.02682	Brazil	Belgium
+2022.02682	USA	Greece
+2022.02683	USA	Argentina
+2022.02683	USA	Croatia
+2022.02683	USA	Argentina
+2022.02683	Argentina	Spain
+2022.02683	United Kingdom	France
+2022.02683	United Kingdom	France
+2022.02683	United Kingdom	France
+2022.02683	United Kingdom	Lithuania
+2022.02683	United Kingdom	Portugal
+2022.02683	United Kingdom	France
+2022.02683	United Kingdom	France
+2022.02683	USA	Mexico
+2022.02683	Brazil	Mexico
+2022.02683	USA	India
+2022.02684	Spain	Netherlands
+2022.02684	Netherlands	Chile
+2022.02684	United Kingdom	France
+2022.02684	Brazil	USA
+2022.02684	Denmark	USA
+2022.02685	United Kingdom	Sweden
+2022.02685	United Kingdom	Belgium
+2022.02685	United Kingdom	Sweden
+2022.02685	United Kingdom	France
+2022.02685	USA	France
+2022.02685	USA	Hungary
+2022.02686	USA	Czech Republic
+2022.02686	Turkey	Portugal
+2022.02686	USA	Turkey
+2022.02686	Turkey	Sweden
+2022.02686	USA	France
+2022.02686	France	Spain
+2022.02686	United Kingdom	Netherlands
+2022.02687	United Kingdom	Italy
+2022.02687	United Kingdom	Germany
+2022.02687	Germany	Greece
+2022.02696	USA	Peru
+2022.02714	Brazil	Peru
+2022.02761	France	Italy
+2022.02787	USA	Germany
+2022.02794	USA	Peru
+2022.02808	United Kingdom	Austria
+2022.0286	USA	Peru
+2022.02863	United Kingdom	USA
+2022.0293	United Kingdom	Poland
+2022.02949	USA	Portugal
+2022.02949	USA	Portugal
+2022.02949	France	Israel
+2022.02949	Austria	USA
+2022.0295	Germany	Israel
+2022.0295	Spain	France
+2022.0295	Spain	Colombia
+2022.0295	France	Japan
+2022.0295	France	Switzerland
+2022.0295	France	Poland
+2022.0295	USA	Colombia
+2022.02951	United Kingdom	Poland
+2022.02951	Australia	Greece
+2022.02951	India	Vietnam
+2022.02951	France	Switzerland
+2022.02951	Switzerland	Ireland
+2022.02951	France	Ireland
+2022.02951	France	Ireland
+2022.02951	Peru	Ecuador
+2022.02951	United Kingdom	USA
+2022.02952	United Kingdom	Romania
+2022.02952	USA	Chile
+2022.02952	Spain	France
+2022.02952	Spain	France
+2022.02952	France	Ireland
+2022.02952	Australia	Belgium
+2022.02952	USA	Argentina
+2022.02952	Germany	Israel
+2022.02952	USA	Croatia
+2022.02952	USA	Argentina
+2022.02953	United Kingdom	Ireland
+2022.02953	USA	Israel
+2022.02953	USA	Colombia
+2022.02953	USA	United Kingdom
+2022.02953	USA	Switzerland
+2022.02953	USA	Argentina
+2022.02953	USA	Germany
+2022.02953	USA	Spain
+2022.02953	USA	Mexico
+2022.02953	United Kingdom	Ireland
+2022.02953	Italy	USA
+2022.02953	United Kingdom	France
+2022.02953	United Kingdom	Romania
+2022.02953	Spain	Ireland
+2022.02953	Spain	Ireland
+2022.02953	Italy	Argentina
+2022.02953	Spain	Argentina
+2022.02953	USA	India
+2022.02953	USA	India
+2022.02953	Germany	Israel
+2022.02953	USA	France
+2022.02953	Turkey	USA
+2022.02953	United Kingdom	Slovakia
+2022.02953	Netherlands	Belgium
+2022.02953	United Kingdom	Ireland
+2022.02953	Germany	Turkey
+2022.02953	United Kingdom	France
+2022.02954	USA	Israel
+2022.02954	USA	Argentina
+2022.02954	South Africa	Israel
+2022.02954	Brazil	Germany
+2022.02954	USA	United Kingdom
+2022.02954	USA	Colombia
+2022.02954	United Kingdom	Ireland
+2022.02954	France	Poland
+2022.02954	USA	Spain
+2022.02954	USA	Peru
+2022.02954	USA	Brazil
+2022.02954	USA	Peru
+2022.02954	USA	Argentina
+2022.02954	United Kingdom	Germany
+2022.02954	Italy	Hungary
+2022.02954	United Kingdom	Italy
+2022.02954	Greece	Switzerland
+2022.02954	USA	Italy
+2022.02954	Brazil	USA
+2022.02954	Belgium	Ecuador
+2022.02954	Turkey	Germany
+2022.02954	Turkey	Israel
+2022.02954	USA	India
+2022.02955	USA	Italy
+2022.02955	USA	Greece
+2022.02955	United Kingdom	Ireland
+2022.02955	Spain	Germany
+2022.02955	France	Australia
+2022.02955	United Kingdom	France
+2022.02955	Canada	Colombia
+2022.02955	USA	Israel
+2022.02955	USA	Argentina
+2022.02955	Argentina	Colombia
+2022.02955	USA	Mexico
+2022.02955	Italy	Norway
+2022.02955	France	Austria
+2022.02955	Turkey	Israel
+2022.02955	France	Spain
+2022.02955	USA	Portugal
+2022.02955	Denmark	Italy
+2022.02956	Greece	Argentina
+2022.02956	Brazil	Mexico
+2022.02956	USA	Japan
+2022.02956	United Kingdom	Ireland
+2022.02956	USA	Ireland
+2022.02956	Italy	Colombia
+2022.02956	United Kingdom	Ireland
+2022.02956	United Kingdom	Portugal
+2022.02956	United Kingdom	Israel
+2022.02956	USA	Poland
+2022.02956	USA	Israel
+2022.02956	USA	Colombia
+2022.02956	Argentina	USA
+2022.02956	USA	Germany
+2022.02956	USA	Italy
+2022.02956	Brazil	Argentina
+2022.02956	Germany	Portugal
+2022.02957	USA	Argentina
+2022.02957	USA	Argentina
+2022.02957	United Kingdom	Spain
+2022.02957	United Kingdom	Spain
+2022.02957	USA	Canada
+2022.02957	USA	Argentina
+2022.02957	Argentina	Colombia
+2022.02958	Israel	India
+2022.02958	United Kingdom	Ireland
+2022.02958	United Kingdom	Spain
+2022.02958	USA	Italy
+2022.02958	Denmark	Italy
+2022.02959	United Kingdom	Sweden
+2022.02959	United Kingdom	Norway
+2022.02959	United Kingdom	Japan
+2022.0296	United Kingdom	France
+2022.02961	Italy	Switzerland
+2022.03127	Germany	Vietnam
+2022.03223	USA	United Kingdom
+2022.03223	France	Germany
+2022.03224	USA	Germany
+2022.03224	USA	United Kingdom
+2022.03224	USA	Argentina
+2022.03225	Spain	France
+2022.03225	South Africa	USA
+2022.03225	France	Italy
+2022.03225	Belgium	Lithuania
+2022.03225	France	Spain
+2022.03225	Brazil	USA
+2022.03225	USA	Colombia
+2022.03226	United Kingdom	Germany
+2022.03226	United Kingdom	Bulgaria
+2022.03226	USA	Canada
+2022.03226	USA	Austria
+2022.03226	USA	Brazil
+2022.03226	USA	France
+2022.03226	USA	Germany
+2022.03226	Italy	Croatia
+2022.03226	Spain	Sweden
+2022.03226	Spain	Germany
+2022.03226	France	Netherlands
+2022.03226	USA	Israel
+2022.03226	USA	Germany
+2022.03226	USA	India
+2022.03226	USA	Turkey
+2022.03226	USA	Israel
+2022.03226	United Kingdom	USA
+2022.03227	USA	Canada
+2022.03227	United Kingdom	France
+2022.03227	USA	Vietnam
+2022.03227	Mexico	Switzerland
+2022.03227	USA	Spain
+2022.03227	USA	Spain
+2022.03227	United Kingdom	Germany
+2022.03227	United Kingdom	Ireland
+2022.03227	France	United Kingdom
+2022.03227	Spain	Moldova
+2022.03227	Spain	France
+2022.03227	Spain	France
+2022.03227	France	Italy
+2022.03227	Spain	Argentina
+2022.03227	Germany	Austria
+2022.03227	Austria	India
+2022.03227	USA	Germany
+2022.03227	Turkey	South Africa
+2022.03227	Brazil	Argentina
+2022.03227	United Kingdom	Turkey
+2022.03227	Turkey	Morocco
+2022.03227	United Kingdom	USA
+2022.03227	Israel	Ukraine
+2022.03228	USA	Germany
+2022.03228	Mexico	Argentina
+2022.03228	USA	Spain
+2022.03228	USA	Ecuador
+2022.03228	USA	Mexico
+2022.03228	Turkey	USA
+2022.03228	USA	India
+2022.03228	USA	Netherlands
+2022.03228	USA	Indonesia
+2022.03228	USA	Canada
+2022.03228	United Kingdom	Bulgaria
+2022.03228	Italy	Netherlands
+2022.03228	Belgium	Romania
+2022.03228	USA	Mexico
+2022.03228	Italy	Brazil
+2022.03228	Germany	Bulgaria
+2022.03228	Australia	Spain
+2022.03228	USA	Germany
+2022.03228	USA	Belgium
+2022.03228	USA	Vietnam
+2022.03228	Turkey	Russia
+2022.03228	Italy	Belgium
+2022.03228	Brazil	Germany
+2022.03228	Belgium	Czech Republic
+2022.03228	Belgium	Czech Republic
+2022.03228	Brazil	Netherlands
+2022.03228	United Kingdom	Spain
+2022.03228	USA	Israel
+2022.03228	USA	Australia
+2022.03228	India	Spain
+2022.03228	Denmark	Italy
+2022.03228	France	Israel
+2022.03228	United Kingdom	Spain
+2022.03228	France	USA
+2022.03228	Canada	USA
+2022.03229	USA	Argentina
+2022.03229	USA	Canada
+2022.03229	USA	Brazil
+2022.03229	Brazil	USA
+2022.03229	Brazil	Peru
+2022.03229	USA	Netherlands
+2022.03229	USA	United Kingdom
+2022.03229	USA	Mexico
+2022.03229	USA	Brazil
+2022.03229	France	Morocco
+2022.03229	USA	South Africa
+2022.03229	USA	Japan
+2022.03229	Peru	Spain
+2022.03229	Germany	Luxembourg
+2022.03229	United Kingdom	Netherlands
+2022.03229	France	Argentina
+2022.03229	Brazil	Germany
+2022.03229	USA	Colombia
+2022.03229	Argentina	Colombia
+2022.03229	Colombia	USA
+2022.03229	Australia	Turkey
+2022.03229	Germany	Austria
+2022.03229	USA	Colombia
+2022.03229	Denmark	Italy
+2022.03229	Denmark	Poland
+2022.03229	United Kingdom	Switzerland
+2022.03229	Croatia	Slovenia
+2022.03229	USA	United Kingdom
+2022.0323	USA	Peru
+2022.0323	Brazil	Argentina
+2022.0323	USA	Japan
+2022.0323	Argentina	Colombia
+2022.0323	USA	Austria
+2022.0323	Turkey	India
+2022.03231	USA	Japan
+2022.03231	United Kingdom	Germany
+2022.03231	United Kingdom	Mexico
+2022.03231	Canada	Poland
+2022.03231	USA	Colombia
+2022.03232	United Kingdom	Israel
+2022.03232	USA	Peru
+2022.03232	Israel	Japan
+2022.03232	USA	Peru
+2022.03233	USA	India
+2022.03233	Italy	Switzerland
+2022.03233	United Kingdom	Czech Republic
+2022.03233	United Kingdom	Italy
+2022.03233	USA	Israel
+2022.03234	United Kingdom	Poland
+2022.03235	Turkey	Morocco
+2022.03317	United Kingdom	USA
+2022.03321	Italy	United Kingdom
+2022.0339	United Kingdom	Germany
+2022.03407	Turkey	Germany
+2022.03497	France	Germany
+2022.03498	USA	Ecuador
+2022.03498	USA	Peru
+2022.03499	Italy	United Kingdom
+2022.03499	Spain	France
+2022.03499	Brazil	USA
+2022.03499	USA	Argentina
+2022.035	United Kingdom	Netherlands
+2022.035	United Kingdom	Belgium
+2022.035	USA	Japan
+2022.035	United Kingdom	Argentina
+2022.035	Spain	Italy
+2022.035	Spain	Colombia
+2022.035	Argentina	Italy
+2022.035	France	Spain
+2022.035	USA	Mexico
+2022.035	United Kingdom	Italy
+2022.03501	USA	Poland
+2022.03501	USA	Netherlands
+2022.03501	France	Germany
+2022.03501	USA	Poland
+2022.03501	USA	Mexico
+2022.03501	USA	Argentina
+2022.03501	United Kingdom	France
+2022.03501	Italy	Belgium
+2022.03501	France	Italy
+2022.03501	Germany	Romania
+2022.03501	Spain	Netherlands
+2022.03501	Italy	Thailand
+2022.03501	United Kingdom	Ireland
+2022.03501	France	Turkey
+2022.03501	USA	Israel
+2022.03501	Brazil	Germany
+2022.03501	Germany	India
+2022.03501	Germany	Austria
+2022.03502	USA	Germany
+2022.03502	USA	Israel
+2022.03502	USA	Turkey
+2022.03502	USA	Turkey
+2022.03502	USA	South Africa
+2022.03502	United Kingdom	USA
+2022.03502	Japan	USA
+2022.03502	USA	Netherlands
+2022.03502	USA	Mexico
+2022.03502	USA	Argentina
+2022.03502	Spain	United Kingdom
+2022.03502	United Kingdom	Sweden
+2022.03502	Italy	Spain
+2022.03502	Portugal	Thailand
+2022.03502	Portugal	Spain
+2022.03502	Germany	Austria
+2022.03502	USA	Australia
+2022.03502	Australia	United Kingdom
+2022.03502	France	Finland
+2022.03502	Germany	USA
+2022.03502	Germany	Israel
+2022.03502	France	Turkey
+2022.03502	USA	Romania
+2022.03502	Brazil	Belgium
+2022.03502	United Kingdom	Spain
+2022.03502	France	Italy
+2022.03502	Italy	United Kingdom
+2022.03503	USA	Peru
+2022.03503	USA	Peru
+2022.03503	USA	Netherlands
+2022.03503	USA	Peru
+2022.03503	USA	Brazil
+2022.03503	France	Luxembourg
+2022.03503	Australia	Vietnam
+2022.03503	USA	Colombia
+2022.03503	Turkey	Australia
+2022.03503	Norway	Slovenia
+2022.03503	Denmark	Italy
+2022.03503	Denmark	Belgium
+2022.03503	USA	Colombia
+2022.03503	USA	Morocco
+2022.03504	USA	Vietnam
+2022.03504	USA	Argentina
+2022.03504	USA	Peru
+2022.03504	Italy	United Kingdom
+2022.03504	Brazil	Ecuador
+2022.03505	USA	Hungary
+2022.03505	United Kingdom	Italy
+2022.03505	USA	Israel
+2022.03505	USA	Argentina
+2022.03506	USA	United Kingdom
+2022.03506	USA	Belgium
+2022.03506	United Kingdom	Spain
+2022.03506	United Kingdom	Italy
+2022.03507	USA	Canada
+2022.03508	Chile	Peru
+2022.03508	United Kingdom	Hungary
+2022.03508	United Kingdom	Norway
+2022.03508	USA	Canada
+2022.0358	United Kingdom	Argentina
+2022.03657	Belgium	France
+2022.03771	United Kingdom	France
+2022.03771	France	Switzerland
+2022.03771	United Kingdom	France
+2022.03771	France	Germany
+2022.03772	France	Switzerland
+2022.03772	United Kingdom	Japan
+2022.03773	USA	Mexico
+2022.03773	Australia	USA
+2022.03773	USA	Vietnam
+2022.03773	France	Netherlands
+2022.03774	USA	Costa Rica
+2022.03774	USA	Romania
+2022.03774	United Kingdom	USA
+2022.03774	USA	Mexico
+2022.03774	United Kingdom	USA
+2022.03774	Spain	USA
+2022.03774	France	USA
+2022.03774	Germany	Thailand
+2022.03774	Austria	USA
+2022.03774	USA	Argentina
+2022.03775	USA	Turkey
+2022.03775	United Kingdom	Ireland
+2022.03775	USA	France
+2022.03775	USA	Germany
+2022.03775	USA	Norway
+2022.03775	USA	United Kingdom
+2022.03775	Australia	Switzerland
+2022.03775	United Kingdom	Italy
+2022.03775	United Kingdom	Lithuania
+2022.03775	Portugal	United Kingdom
+2022.03775	Spain	Luxembourg
+2022.03775	Germany	Austria
+2022.03775	Germany	USA
+2022.03775	USA	Brazil
+2022.03775	United Kingdom	Israel
+2022.03775	United Kingdom	South Africa
+2022.03775	Brazil	Turkey
+2022.03775	United Kingdom	USA
+2022.03775	United Kingdom	South Africa
+2022.03776	Spain	Germany
+2022.03776	Morocco	Netherlands
+2022.03776	USA	United Kingdom
+2022.03776	USA	Israel
+2022.03776	USA	United Kingdom
+2022.03776	United Kingdom	Russia
+2022.03776	United Kingdom	USA
+2022.03776	USA	Switzerland
+2022.03776	USA	Bulgaria
+2022.03776	USA	Peru
+2022.03776	United Kingdom	Turkey
+2022.03776	France	Spain
+2022.03776	Germany	Japan
+2022.03776	Australia	USA
+2022.03776	USA	Romania
+2022.03776	USA	Australia
+2022.03776	Portugal	Spain
+2022.03776	Turkey	USA
+2022.03776	Argentina	Brazil
+2022.03776	United Kingdom	Turkey
+2022.03776	Chile	Russia
+2022.03776	Germany	Turkey
+2022.03776	France	Sweden
+2022.03776	USA	Germany
+2022.03776	France	USA
+2022.03776	United Kingdom	Spain
+2022.03777	USA	Spain
+2022.03777	USA	South Korea
+2022.03777	USA	Argentina
+2022.03777	Italy	Croatia
+2022.03777	Brazil	USA
+2022.03777	United Kingdom	Italy
+2022.03777	USA	Vietnam
+2022.03777	USA	Argentina
+2022.03777	USA	Japan
+2022.03777	USA	Hungary
+2022.03777	USA	Germany
+2022.03777	USA	Paraguay
+2022.03777	South Africa	Germany
+2022.03777	Czech Republic	Botswana
+2022.03777	France	Italy
+2022.03777	France	Netherlands
+2022.03777	USA	Guatemala
+2022.03777	USA	Italy
+2022.03777	France	Belgium
+2022.03778	Brazil	Mexico
+2022.03778	USA	Netherlands
+2022.03778	Argentina	Israel
+2022.03778	USA	Israel
+2022.03779	United Kingdom	Israel
+2022.03779	Spain	Costa Rica
+2022.03779	USA	Peru
+2022.03779	USA	Colombia
+2022.03779	Italy	Sweden
+2022.0378	United Kingdom	Spain
+2022.0378	United Kingdom	Netherlands
+2022.0378	Denmark	Germany
+2022.03781	France	Spain
+2022.03782	USA	Germany
+2022.03782	United Kingdom	Italy
+2022.03782	Italy	Hungary
+2022.03835	USA	Argentina
+2022.03894	USA	Austria
+2022.03899	USA	Portugal
+2022.03941	Poland	Thailand
+2022.03979	USA	Germany
+2022.03997	United Kingdom	Norway
+2022.04045	USA	France
+2022.04046	Germany	Japan
+2022.04046	United Kingdom	Russia
+2022.04046	United Kingdom	Portugal
+2022.04046	United Kingdom	Italy
+2022.04047	USA	Canada
+2022.04047	United Kingdom	Italy
+2022.04047	France	Germany
+2022.04047	Israel	Germany
+2022.0404800000001	USA	Canada
+2022.0404800000001	USA	Colombia
+2022.0404800000001	United Kingdom	Spain
+2022.0404800000001	Spain	France
+2022.0404800000001	USA	India
+2022.0404800000001	USA	Colombia
+2022.0404800000001	USA	Colombia
+2022.0404800000001	USA	Australia
+2022.04049	Sweden	Finland
+2022.04049	USA	Italy
+2022.04049	Spain	Italy
+2022.04049	France	Belgium
+2022.04049	France	Mexico
+2022.04049	USA	Mexico
+2022.04049	USA	Canada
+2022.04049	Germany	USA
+2022.04049	Germany	Czech Republic
+2022.04049	USA	France
+2022.04049	Brazil	Germany
+2022.04049	Turkey	USA
+2022.04049	Indonesia	USA
+2022.0405	United Kingdom	France
+2022.0405	USA	United Kingdom
+2022.0405	Italy	Romania
+2022.0405	Spain	Peru
+2022.0405	USA	France
+2022.0405	USA	Colombia
+2022.0405	France	Germany
+2022.0405	France	Italy
+2022.0405	United Kingdom	USA
+2022.04051	USA	Mexico
+2022.04051	Brazil	Colombia
+2022.04051	Belgium	Russia
+2022.04051	United Kingdom	Spain
+2022.04051	Italy	United Kingdom
+2022.04051	Australia	Italy
+2022.04051	Denmark	Greece
+2022.04051	USA	Israel
+2022.04051	USA	Colombia
+2022.04051	USA	Brazil
+2022.04051	Turkey	Poland
+2022.04051	Austria	Ireland
+2022.04051	USA	Australia
+2022.04052	United Kingdom	Romania
+2022.04052	Italy	Ireland
+2022.04052	Brazil	Belgium
+2022.04052	USA	Israel
+2022.04053	USA	Spain
+2022.04053	Spain	Greece
+2022.04053	USA	United Kingdom
+2022.04053	USA	Colombia
+2022.04054	United Kingdom	Poland
+2022.04054	Germany	Poland
+2022.04055	United Kingdom	Greece
+2022.04056	United Kingdom	Italy
+2022.04319	USA	Spain
+2022.04319	France	Netherlands
+2022.04319	France	Spain
+2022.04319	Spain	Switzerland
+2022.0432	Italy	France
+2022.0432	USA	Peru
+2022.0432	United Kingdom	Portugal
+2022.0432	Germany	Netherlands
+2022.0432	France	Portugal
+2022.04321	USA	Brazil
+2022.04321	Spain	Italy
+2022.04321	USA	Israel
+2022.04321	USA	Brazil
+2022.04322	USA	Portugal
+2022.04322	Slovenia	Netherlands
+2022.04322	France	Spain
+2022.04322	Portugal	Spain
+2022.04323	United Kingdom	Estonia
+2022.04323	USA	Ireland
+2022.04323	USA	Argentina
+2022.04323	USA	Mexico
+2022.04323	United Kingdom	Italy
+2022.04323	Spain	Portugal
+2022.04323	Spain	Italy
+2022.04323	Spain	Belgium
+2022.04323	Spain	Portugal
+2022.04323	Spain	Portugal
+2022.04323	Spain	Portugal
+2022.04323	Spain	Portugal
+2022.04323	Germany	Israel
+2022.04323	Germany	Thailand
+2022.04323	Germany	India
+2022.04323	Germany	Sweden
+2022.04323	Italy	Bulgaria
+2022.04323	United Kingdom	Morocco
+2022.04323	Turkey	United Kingdom
+2022.04323	France	Belgium
+2022.04324	USA	Czech Republic
+2022.04324	Germany	Netherlands
+2022.04324	USA	Greece
+2022.04324	Morocco	Czech Republic
+2022.04324	Germany	USA
+2022.04324	United Kingdom	Switzerland
+2022.04324	USA	Canada
+2022.04324	USA	Germany
+2022.04324	USA	Argentina
+2022.04324	USA	Norway
+2022.04324	Peru	Japan
+2022.04324	USA	Germany
+2022.04324	United Kingdom	Portugal
+2022.04324	Italy	United Kingdom
+2022.04324	Italy	Portugal
+2022.04324	United Kingdom	Portugal
+2022.04324	Spain	Denmark
+2022.04324	Germany	India
+2022.04324	Germany	Italy
+2022.04324	USA	Poland
+2022.04324	Germany	Switzerland
+2022.04324	USA	Netherlands
+2022.04324	Germany	Israel
+2022.04324	United Kingdom	Spain
+2022.04324	USA	Sweden
+2022.04324	Brazil	Argentina
+2022.04324	Brazil	Switzerland
+2022.04324	Portugal	Spain
+2022.04325	USA	Belgium
+2022.04325	United Kingdom	USA
+2022.04325	Spain	Germany
+2022.04325	Canada	Belgium
+2022.04325	USA	Mexico
+2022.04325	USA	Colombia
+2022.04325	Colombia	Mexico
+2022.04325	Brazil	Chile
+2022.04325	Brazil	France
+2022.04325	Turkey	Romania
+2022.04325	Denmark	Italy
+2022.04325	Germany	Greece
+2022.04326	USA	Netherlands
+2022.04326	United Kingdom	Spain
+2022.04326	United Kingdom	Portugal
+2022.04326	USA	Colombia
+2022.04326	Colombia	Israel
+2022.04326	Brazil	Chile
+2022.04326	Denmark	Israel
+2022.04327	USA	Spain
+2022.04329	USA	Italy
+2022.04329	Spain	Portugal
+2022.0433	United Kingdom	Colombia
+2022.0433	United Kingdom	Portugal
+2022.0433	United Kingdom	Lithuania
+2022.0433	United Kingdom	Switzerland
+2022.04336	Germany	Austria
+2022.04487	USA	Argentina
+2022.04592	France	Germany
+2022.04592	France	Portugal
+2022.04594	USA	Germany
+2022.04594	France	Sweden
+2022.04594	Italy	Portugal
+2022.04594	Italy	Ireland
+2022.04594	Italy	Switzerland
+2022.04594	Spain	Italy
+2022.04594	France	Italy
+2022.04594	Portugal	France
+2022.04594	France	Portugal
+2022.04594	France	Spain
+2022.04594	Germany	France
+2022.04594	USA	Brazil
+2022.04594	Brazil	Italy
+2022.04595	United Kingdom	Italy
+2022.04595	United Kingdom	France
+2022.04595	United Kingdom	Italy
+2022.04595	United Kingdom	Netherlands
+2022.04595	Spain	France
+2022.04595	Spain	France
+2022.04595	Spain	Italy
+2022.04595	Italy	France
+2022.04595	France	Italy
+2022.04595	Germany	France
+2022.04595	Switzerland	Luxembourg
+2022.04595	France	Czech Republic
+2022.04595	USA	Italy
+2022.04595	France	Israel
+2022.04595	Brazil	Ecuador
+2022.04595	Turkey	France
+2022.04595	Portugal	Botswana
+2022.04596	United Kingdom	Italy
+2022.04596	United Kingdom	Netherlands
+2022.04596	USA	Germany
+2022.04596	USA	France
+2022.04596	USA	Portugal
+2022.04596	USA	Colombia
+2022.04596	USA	France
+2022.04596	USA	Mexico
+2022.04596	USA	Argentina
+2022.04596	United Kingdom	Georgia
+2022.04596	United Kingdom	Italy
+2022.04596	United Kingdom	Portugal
+2022.04596	United Kingdom	Ireland
+2022.04596	Spain	Germany
+2022.04596	Spain	Italy
+2022.04596	Italy	France
+2022.04596	Spain	Portugal
+2022.04596	Australia	France
+2022.04596	France	Germany
+2022.04596	France	Germany
+2022.04596	France	Switzerland
+2022.04596	Peru	Ecuador
+2022.04596	Germany	France
+2022.04596	Portugal	Austria
+2022.04597	USA	France
+2022.04597	USA	France
+2022.04597	United Kingdom	USA
+2022.04597	USA	Brazil
+2022.04597	United Kingdom	France
+2022.04597	United Kingdom	Portugal
+2022.04597	USA	Netherlands
+2022.04597	USA	Argentina
+2022.04597	USA	Colombia
+2022.04597	Spain	France
+2022.04597	USA	France
+2022.04597	USA	France
+2022.04597	USA	France
+2022.04597	USA	Argentina
+2022.04597	USA	Germany
+2022.04597	United Kingdom	Poland
+2022.04597	United Kingdom	Germany
+2022.04597	United Kingdom	Germany
+2022.04597	United Kingdom	Germany
+2022.04597	United Kingdom	Romania
+2022.04597	France	Italy
+2022.04597	United Kingdom	Portugal
+2022.04597	United Kingdom	Portugal
+2022.04597	United Kingdom	Portugal
+2022.04597	United Kingdom	Portugal
+2022.04597	United Kingdom	Italy
+2022.04597	Spain	Italy
+2022.04597	Spain	Italy
+2022.04597	Spain	Ireland
+2022.04597	Germany	Portugal
+2022.04597	Spain	Italy
+2022.04597	Spain	Portugal
+2022.04597	USA	France
+2022.04597	Germany	Netherlands
+2022.04597	France	Netherlands
+2022.04597	USA	Russia
+2022.04597	Thailand	Israel
+2022.04597	USA	France
+2022.04597	USA	Israel
+2022.04597	USA	Italy
+2022.04597	USA	Austria
+2022.04597	Italy	Moldova
+2022.04597	Brazil	Belgium
+2022.04597	Germany	India
+2022.04597	USA	Germany
+2022.04597	Brazil	France
+2022.04597	USA	France
+2022.04597	USA	Ireland
+2022.04597	Turkey	France
+2022.04597	Brazil	United Kingdom
+2022.04597	USA	France
+2022.04597	USA	Switzerland
+2022.04597	USA	Ukraine
+2022.04597	USA	Portugal
+2022.04597	Spain	Germany
+2022.04598	USA	United Kingdom
+2022.04598	USA	Italy
+2022.04598	USA	France
+2022.04598	Brazil	Argentina
+2022.04598	Germany	Netherlands
+2022.04598	Mexico	Switzerland
+2022.04598	USA	Russia
+2022.04598	USA	France
+2022.04598	USA	Poland
+2022.04598	United Kingdom	Portugal
+2022.04598	Spain	France
+2022.04598	United Kingdom	Italy
+2022.04598	Ireland	France
+2022.04598	United Kingdom	Portugal
+2022.04598	USA	Germany
+2022.04598	Spain	Slovenia
+2022.04598	Spain	France
+2022.04598	Italy	France
+2022.04598	Germany	France
+2022.04598	Australia	France
+2022.04598	USA	Germany
+2022.04598	USA	Portugal
+2022.04598	USA	Portugal
+2022.04598	USA	Germany
+2022.04598	Germany	Switzerland
+2022.04598	USA	Colombia
+2022.04598	USA	Germany
+2022.04598	Brazil	Romania
+2022.04598	USA	France
+2022.04598	USA	France
+2022.04598	Spain	France
+2022.04598	USA	France
+2022.04598	Turkey	France
+2022.04598	Turkey	USA
+2022.04598	Italy	Germany
+2022.04598	France	Germany
+2022.04598	France	Switzerland
+2022.04598	India	Nepal
+2022.04598	USA	Belgium
+2022.04598	Brazil	Spain
+2022.04598	Brazil	Netherlands
+2022.04598	Italy	France
+2022.04598	United Kingdom	Mexico
+2022.04598	Turkey	United Kingdom
+2022.04598	Poland	USA
+2022.04598	Denmark	Sweden
+2022.04598	Denmark	Sweden
+2022.04598	Brazil	Russia
+2022.04598	United Kingdom	Italy
+2022.04598	United Kingdom	Portugal
+2022.04598	Portugal	France
+2022.04598	Portugal	France
+2022.04598	Spain	Italy
+2022.04598	United Kingdom	France
+2022.04598	USA	Belgium
+2022.04598	United Kingdom	Germany
+2022.04598	United Kingdom	Italy
+2022.04599	USA	Argentina
+2022.04599	USA	Argentina
+2022.04599	USA	Italy
+2022.04599	USA	Italy
+2022.04599	USA	France
+2022.04599	Belgium	Ireland
+2022.04599	USA	Israel
+2022.04599	United Kingdom	France
+2022.04599	USA	Italy
+2022.04599	USA	France
+2022.04599	United Kingdom	Italy
+2022.04599	United Kingdom	Italy
+2022.04599	Australia	South Africa
+2022.04599	Germany	Italy
+2022.04599	Germany	Brazil
+2022.04599	Brazil	USA
+2022.04599	USA	Argentina
+2022.04599	Spain	Italy
+2022.04599	United Kingdom	Netherlands
+2022.04599	Brazil	Russia
+2022.04599	Germany	Russia
+2022.04599	United Kingdom	Italy
+2022.04599	United Kingdom	France
+2022.04599	USA	Canada
+2022.04599	USA	Belgium
+2022.04599	USA	Brazil
+2022.04599	USA	Italy
+2022.04599	USA	Netherlands
+2022.04599	Brazil	Japan
+2022.04599	Portugal	Poland
+2022.04599	Turkey	USA
+2022.04599	France	Italy
+2022.04599	USA	United Kingdom
+2022.04599	USA	Vietnam
+2022.04599	Denmark	Sweden
+2022.04599	Denmark	Italy
+2022.04599	USA	Israel
+2022.04599	Italy	Russia
+2022.046	Ireland	France
+2022.046	USA	Italy
+2022.046	USA	Mexico
+2022.046	USA	France
+2022.046	France	Argentina
+2022.046	USA	United Kingdom
+2022.046	Poland	Italy
+2022.046	United Kingdom	France
+2022.046	United Kingdom	Luxembourg
+2022.046	United Kingdom	Sweden
+2022.046	United Kingdom	Portugal
+2022.046	USA	Poland
+2022.046	USA	Spain
+2022.046	USA	France
+2022.046	United Kingdom	Brazil
+2022.046	Colombia	Brazil
+2022.046	Brazil	USA
+2022.046	USA	Switzerland
+2022.046	USA	Brazil
+2022.046	USA	Brazil
+2022.046	USA	Netherlands
+2022.046	Ecuador	Colombia
+2022.046	Denmark	France
+2022.046	Germany	Croatia
+2022.04601	United Kingdom	USA
+2022.04601	United Kingdom	France
+2022.04601	United Kingdom	France
+2022.04601	Poland	Moldova
+2022.04601	United Kingdom	Israel
+2022.04601	United Kingdom	France
+2022.04601	USA	Argentina
+2022.04601	USA	Brazil
+2022.04601	Turkey	Italy
+2022.04601	Denmark	Sweden
+2022.04602	USA	France
+2022.04602	United Kingdom	Portugal
+2022.04602	United Kingdom	Portugal
+2022.04602	Italy	Israel
+2022.04602	United Kingdom	Italy
+2022.04602	Poland	Israel
+2022.04602	United Kingdom	Germany
+2022.04603	USA	Colombia
+2022.04603	Italy	France
+2022.04603	France	Greece
+2022.04603	Italy	Portugal
+2022.04603	United Kingdom	Poland
+2022.04603	United Kingdom	France
+2022.04603	United Kingdom	Romania
+2022.04604	United Kingdom	France
+2022.04604	USA	Israel
+2022.04604	Israel	Botswana
+2022.04604	United Kingdom	Bulgaria
+2022.04604	United Kingdom	France
+2022.04604	France	USA
+2022.04604	United Kingdom	France
+2022.04604	United Kingdom	Italy
+2022.04604	United Kingdom	France
+2022.04833	Germany	Turkey
+2022.04866	USA	Portugal
+2022.04866	Spain	Switzerland
+2022.04866	Spain	Netherlands
+2022.04867	France	Portugal
+2022.04868	USA	Australia
+2022.04869	USA	Canada
+2022.04869	United Kingdom	France
+2022.04869	United Kingdom	Portugal
+2022.04869	United Kingdom	Portugal
+2022.04869	Brazil	Germany
+2022.04869	France	Germany
+2022.04869	France	Denmark
+2022.04869	France	Norway
+2022.04869	USA	Israel
+2022.04869	USA	Argentina
+2022.04869	USA	Brazil
+2022.0487	USA	Indonesia
+2022.0487	USA	Mexico
+2022.0487	USA	Mexico
+2022.0487	USA	Brazil
+2022.0487	United Kingdom	Poland
+2022.0487	USA	Belgium
+2022.0487	France	Germany
+2022.0487	France	Italy
+2022.0487	France	Germany
+2022.0487	USA	Colombia
+2022.0487	USA	Italy
+2022.0487	USA	Czech Republic
+2022.0487	USA	Brazil
+2022.0487	USA	Argentina
+2022.0487	USA	Italy
+2022.0487	United Kingdom	Israel
+2022.0487	Italy	Romania
+2022.04871	Norway	Germany
+2022.04871	United Kingdom	Sweden
+2022.04871	USA	Canada
+2022.04871	USA	Mexico
+2022.04871	USA	Argentina
+2022.04871	USA	Belgium
+2022.04871	USA	Peru
+2022.04871	United Kingdom	Portugal
+2022.04871	Italy	Sweden
+2022.04871	United Kingdom	Portugal
+2022.04871	United Kingdom	Italy
+2022.04871	United Kingdom	France
+2022.04871	United Kingdom	Italy
+2022.04871	United Kingdom	Italy
+2022.04871	United Kingdom	Brazil
+2022.04871	Spain	Germany
+2022.04871	Australia	Costa Rica
+2022.04871	USA	Spain
+2022.04871	Brazil	Italy
+2022.04871	Israel	India
+2022.04871	Belgium	Italy
+2022.04871	Brazil	USA
+2022.04871	Brazil	Belgium
+2022.04871	USA	Mexico
+2022.04871	United Kingdom	Japan
+2022.04871	United Kingdom	Turkey
+2022.04872	USA	Germany
+2022.04872	USA	Netherlands
+2022.04872	USA	Belgium
+2022.04872	France	USA
+2022.04872	USA	Poland
+2022.04872	Austria	Canada
+2022.04872	USA	Colombia
+2022.04872	USA	Mexico
+2022.04872	USA	Portugal
+2022.04872	Brazil	Peru
+2022.04872	United Kingdom	Sweden
+2022.04872	United Kingdom	Italy
+2022.04872	Italy	Switzerland
+2022.04872	United Kingdom	Poland
+2022.04872	Spain	Italy
+2022.04872	Italy	Russia
+2022.04872	Germany	Israel
+2022.04872	Brazil	Argentina
+2022.04872	Australia	Italy
+2022.04872	Australia	Austria
+2022.04872	Italy	Israel
+2022.04872	Germany	Switzerland
+2022.04872	Germany	Morocco
+2022.04872	France	India
+2022.04872	USA	Italy
+2022.04872	United Kingdom	USA
+2022.04872	France	Czech Republic
+2022.04872	Spain	Colombia
+2022.04872	Italy	Denmark
+2022.04872	Italy	Norway
+2022.04872	France	Spain
+2022.04872	USA	Brazil
+2022.04872	USA	Argentina
+2022.04872	France	Netherlands
+2022.04873	USA	Mexico
+2022.04873	Mexico	Spain
+2022.04873	USA	Argentina
+2022.04873	USA	Argentina
+2022.04873	USA	Brazil
+2022.04873	USA	Peru
+2022.04873	USA	Peru
+2022.04873	United Kingdom	Belgium
+2022.04873	United Kingdom	France
+2022.04873	Australia	Italy
+2022.04873	USA	Mexico
+2022.04873	USA	Brazil
+2022.04873	USA	Russia
+2022.04873	Norway	Croatia
+2022.04873	USA	Denmark
+2022.04873	Denmark	Austria
+2022.04873	Denmark	Italy
+2022.04873	USA	Brazil
+2022.04874	Italy	Argentina
+2022.04874	United Kingdom	Spain
+2022.04874	United Kingdom	Italy
+2022.04874	Colombia	USA
+2022.04874	USA	France
+2022.04874	USA	Bulgaria
+2022.04874	USA	Germany
+2022.04874	Brazil	USA
+2022.04874	USA	Morocco
+2022.04874	Brazil	Japan
+2022.04874	Germany	Poland
+2022.04874	Turkey	Thailand
+2022.04875	France	Argentina
+2022.04875	United Kingdom	India
+2022.04875	Switzerland	Chile
+2022.04875	United Kingdom	France
+2022.04875	Italy	Spain
+2022.04875	Poland	Germany
+2022.04875	USA	Israel
+2022.04875	USA	Israel
+2022.04876	USA	United Kingdom
+2022.04876	France	Portugal
+2022.04876	USA	Turkey
+2022.04876	USA	Turkey
+2022.04876	United Kingdom	Italy
+2022.04876	United Kingdom	Norway
+2022.04876	United Kingdom	Italy
+2022.04876	Italy	Austria
+2022.04876	United Kingdom	Israel
+2022.04876	United Kingdom	Belgium
+2022.04876	Denmark	Sweden
+2022.04877	USA	Turkey
+2022.04877	Germany	Turkey
+2022.04877	Poland	Romania
+2022.04877	United Kingdom	Spain
+2022.04877	United Kingdom	Brazil
+2022.04878	United Kingdom	Argentina
+2022.04878	United Kingdom	Turkey
+2022.04878	United Kingdom	Morocco
+2022.04878	Turkey	Austria
+2022.04878	Turkey	Morocco
+2022.04878	USA	Israel
+2022.04878	Italy	Germany
+2022.04878	USA	Poland
+2022.04878	United Kingdom	Portugal
+2022.04994	Germany	Belgium
+2022.05044	Spain	Italy
+2022.0514	USA	Colombia
+2022.05142	Brazil	Romania
+2022.05142	USA	Argentina
+2022.05142	USA	Brazil
+2022.05142	United Kingdom	Belgium
+2022.05143	Brazil	Mexico
+2022.05143	USA	Germany
+2022.05143	USA	Mexico
+2022.05143	United Kingdom	Czech Republic
+2022.05143	Italy	Switzerland
+2022.05143	Italy	Germany
+2022.05143	Spain	Romania
+2022.05143	Spain	Russia
+2022.05143	France	Austria
+2022.05143	France	Germany
+2022.05143	France	Netherlands
+2022.05143	France	Germany
+2022.05143	France	Czech Republic
+2022.05143	France	Germany
+2022.05143	USA	India
+2022.05143	USA	Ecuador
+2022.05143	Brazil	Spain
+2022.05144	United Kingdom	France
+2022.05144	United Kingdom	USA
+2022.05144	USA	Finland
+2022.05144	USA	Russia
+2022.05144	France	Croatia
+2022.05144	USA	Israel
+2022.05144	Germany	Brazil
+2022.05144	Germany	Brazil
+2022.05144	Turkey	USA
+2022.05144	Turkey	Japan
+2022.05144	United Kingdom	Italy
+2022.05144	Italy	France
+2022.05145	USA	Germany
+2022.05145	Germany	Finland
+2022.05145	USA	Denmark
+2022.05145	Italy	USA
+2022.05145	USA	Russia
+2022.05145	USA	United Kingdom
+2022.05145	United Kingdom	Romania
+2022.05145	France	United Kingdom
+2022.05145	United Kingdom	Italy
+2022.05145	Brazil	Chile
+2022.05145	Spain	Germany
+2022.05145	Germany	Colombia
+2022.05145	Spain	Argentina
+2022.05145	Spain	Belgium
+2022.05145	USA	Guatemala
+2022.05145	France	Italy
+2022.05145	Germany	USA
+2022.05145	USA	Germany
+2022.05145	USA	Austria
+2022.05145	Brazil	United Kingdom
+2022.05145	Turkey	Netherlands
+2022.05145	Bulgaria	Germany
+2022.05146	USA	Brazil
+2022.05146	Peru	United Kingdom
+2022.05146	USA	Argentina
+2022.05146	USA	Czech Republic
+2022.05146	USA	Peru
+2022.05146	United Kingdom	Lithuania
+2022.05146	Italy	USA
+2022.05146	United Kingdom	Germany
+2022.05146	United Kingdom	Norway
+2022.05146	Spain	France
+2022.05146	Italy	Russia
+2022.05146	Australia	Switzerland
+2022.05146	USA	Lithuania
+2022.05146	Germany	Romania
+2022.05146	Germany	India
+2022.05146	France	Spain
+2022.05146	USA	United Kingdom
+2022.05146	United Kingdom	Germany
+2022.05146	United Kingdom	Germany
+2022.05146	USA	Israel
+2022.05146	Argentina	Morocco
+2022.05146	USA	Israel
+2022.05146	USA	Canada
+2022.05147	USA	Peru
+2022.05147	Brazil	Mexico
+2022.05147	USA	Morocco
+2022.05147	United Kingdom	Italy
+2022.05147	USA	Israel
+2022.05147	USA	Argentina
+2022.05147	Chile	Ecuador
+2022.05147	Mexico	Peru
+2022.05147	United Kingdom	France
+2022.05147	Germany	South Korea
+2022.05147	Australia	South Africa
+2022.05147	USA	Brazil
+2022.05147	Brazil	Ecuador
+2022.05147	USA	Colombia
+2022.05147	USA	Argentina
+2022.05147	USA	Brazil
+2022.05147	USA	Czech Republic
+2022.05147	Italy	Poland
+2022.05147	Brazil	Argentina
+2022.05147	Brazil	Netherlands
+2022.05147	USA	Botswana
+2022.05147	France	Netherlands
+2022.05147	Denmark	Switzerland
+2022.05147	France	United Kingdom
+2022.05148	Germany	Belgium
+2022.05148	USA	Sweden
+2022.05148	USA	Argentina
+2022.05148	USA	Poland
+2022.05148	USA	Colombia
+2022.05149	USA	Peru
+2022.05149	USA	Argentina
+2022.05149	Brazil	Russia
+2022.05149	United Kingdom	Spain
+2022.05149	United Kingdom	Switzerland
+2022.05149	United Kingdom	Poland
+2022.05149	United Kingdom	France
+2022.05149	USA	Ecuador
+2022.0515	USA	Argentina
+2022.0515	USA	Spain
+2022.0515	Spain	India
+2022.0515	United Kingdom	Poland
+2022.0515	United Kingdom	Brazil
+2022.0515	United Kingdom	Brazil
+2022.0515	USA	France
+2022.05151	United Kingdom	Finland
+2022.05151	USA	Canada
+2022.05152	Italy	Morocco
+2022.05152	United Kingdom	Netherlands
+2022.05152	United Kingdom	Israel
+2022.05152	United Kingdom	Netherlands
+2022.05179	United Kingdom	Italy
+2022.05313	United Kingdom	Portugal
+2022.05383	USA	Brazil
+2022.05415	United Kingdom	Italy
+2022.05416	USA	Costa Rica
+2022.05416	USA	France
+2022.05416	USA	Canada
+2022.05416	France	Czech Republic
+2022.05416	France	Spain
+2022.05416	Argentina	Peru
+2022.05417	USA	Finland
+2022.05417	Spain	France
+2022.05417	USA	Peru
+2022.05417	France	Czech Republic
+2022.05417	USA	Italy
+2022.05417	Italy	Israel
+2022.05417	United Kingdom	USA
+2022.05418	United Kingdom	Switzerland
+2022.05418	USA	South Korea
+2022.05418	USA	Indonesia
+2022.05418	USA	South Korea
+2022.05418	United Kingdom	Canada
+2022.05418	Spain	Austria
+2022.05418	Italy	Peru
+2022.05418	Spain	France
+2022.05418	France	Estonia
+2022.05418	France	Israel
+2022.05418	France	Netherlands
+2022.05418	USA	Germany
+2022.05418	USA	Brazil
+2022.05418	USA	Austria
+2022.05418	Turkey	Germany
+2022.05419	USA	Netherlands
+2022.05419	Sweden	Norway
+2022.05419	France	United Kingdom
+2022.05419	USA	United Kingdom
+2022.05419	Argentina	South Korea
+2022.05419	United Kingdom	Israel
+2022.05419	United Kingdom	Italy
+2022.05419	Germany	France
+2022.05419	Spain	Denmark
+2022.05419	Spain	Germany
+2022.05419	Spain	Czech Republic
+2022.05419	USA	United Kingdom
+2022.05419	USA	Spain
+2022.05419	USA	Colombia
+2022.0542	USA	Israel
+2022.0542	USA	Italy
+2022.0542	Spain	Israel
+2022.0542	USA	Brazil
+2022.0542	France	Turkey
+2022.0542	Peru	Japan
+2022.0542	Italy	United Kingdom
+2022.0542	United Kingdom	Spain
+2022.0542	USA	United Kingdom
+2022.0542	Poland	Ukraine
+2022.0542	United Kingdom	Israel
+2022.0542	Australia	Vietnam
+2022.0542	France	USA
+2022.0542	Slovenia	Lithuania
+2022.0542	USA	Sweden
+2022.0542	USA	Peru
+2022.0542	USA	Colombia
+2022.0542	Italy	Israel
+2022.0542	Canada	USA
+2022.0542	United Kingdom	Germany
+2022.0542	Brazil	Argentina
+2022.0542	Brazil	Belgium
+2022.0542	Brazil	Belgium
+2022.0542	Turkey	Italy
+2022.0542	Denmark	Israel
+2022.0542	USA	Poland
+2022.0542	USA	Ukraine
+2022.0542	Sweden	Lithuania
+2022.0542	France	Austria
+2022.05421	Argentina	Germany
+2022.05421	USA	Germany
+2022.05421	Brazil	Peru
+2022.05421	USA	Japan
+2022.05421	USA	Israel
+2022.05421	USA	Switzerland
+2022.05421	United Kingdom	Poland
+2022.05421	Germany	Israel
+2022.05421	Germany	Austria
+2022.05421	USA	Israel
+2022.05421	France	Germany
+2022.05421	USA	Brazil
+2022.05421	USA	Israel
+2022.05421	USA	Peru
+2022.05421	USA	Brazil
+2022.05421	USA	Colombia
+2022.05421	Italy	Switzerland
+2022.05421	USA	Guatemala
+2022.05421	Denmark	Sweden
+2022.05421	Denmark	Sweden
+2022.05422	USA	Peru
+2022.05422	USA	Italy
+2022.05422	Brazil	Peru
+2022.05422	Brazil	Peru
+2022.05422	USA	United Kingdom
+2022.05422	United Kingdom	Brazil
+2022.05422	Argentina	Colombia
+2022.05422	USA	Colombia
+2022.05422	USA	India
+2022.05422	Italy	Morocco
+2022.05422	Brazil	Chile
+2022.05423	Japan	Morocco
+2022.05423	United Kingdom	Czech Republic
+2022.05423	USA	Canada
+2022.05423	USA	Brazil
+2022.05423	Italy	Czech Republic
+2022.05423	Denmark	Slovakia
+2022.05424	Argentina	Belgium
+2022.05424	United Kingdom	Poland
+2022.05425	France	Ecuador
+2022.05425	USA	Switzerland
+2022.05426	Turkey	Morocco
+2022.05426	United Kingdom	Czech Republic
+2022.05687	USA	Mexico
+2022.05688	Spain	Argentina
+2022.0569	France	Colombia
+2022.05691	USA	Brazil
+2022.05691	Brazil	Israel
+2022.05691	Germany	Russia
+2022.05691	France	Spain
+2022.05691	France	Germany
+2022.05692	USA	Argentina
+2022.05692	United Kingdom	France
+2022.05692	United Kingdom	Netherlands
+2022.05692	Spain	Thailand
+2022.05692	Spain	Italy
+2022.05692	USA	United Kingdom
+2022.05692	France	Ukraine
+2022.05692	Netherlands	Belgium
+2022.05692	Brazil	Austria
+2022.05692	Austria	India
+2022.05692	Austria	USA
+2022.05692	USA	Poland
+2022.05692	Brazil	Argentina
+2022.05692	USA	Switzerland
+2022.05692	United Kingdom	USA
+2022.05693	USA	Germany
+2022.05693	United Kingdom	Romania
+2022.05693	USA	Mexico
+2022.05693	USA	Mexico
+2022.05693	USA	Chile
+2022.05693	Israel	Vietnam
+2022.05693	USA	Spain
+2022.05693	USA	Spain
+2022.05693	USA	Peru
+2022.05693	USA	Argentina
+2022.05693	United Kingdom	Ireland
+2022.05693	United Kingdom	Romania
+2022.05693	Spain	Peru
+2022.05693	United Kingdom	Australia
+2022.05693	Brazil	Romania
+2022.05693	Austria	USA
+2022.05693	Brazil	Argentina
+2022.05693	Brazil	Argentina
+2022.05693	France	Netherlands
+2022.05693	Brazil	France
+2022.05693	France	Israel
+2022.05694	USA	Argentina
+2022.05694	USA	Croatia
+2022.05694	USA	Norway
+2022.05694	USA	France
+2022.05694	United Kingdom	Romania
+2022.05694	United Kingdom	Belgium
+2022.05694	Italy	Spain
+2022.05694	Italy	Nepal
+2022.05694	United Kingdom	Ireland
+2022.05694	Spain	Israel
+2022.05694	Israel	Austria
+2022.05694	Germany	Netherlands
+2022.05694	France	Israel
+2022.05694	Australia	USA
+2022.05694	USA	India
+2022.05694	United Kingdom	Slovakia
+2022.05694	USA	Argentina
+2022.05694	USA	Argentina
+2022.05694	USA	Poland
+2022.05694	USA	Argentina
+2022.05694	Turkey	Czech Republic
+2022.05694	Italy	Norway
+2022.05694	United Kingdom	Belgium
+2022.05694	Italy	Ukraine
+2022.05694	France	Italy
+2022.05694	Portugal	USA
+2022.05694	United Kingdom	Sweden
+2022.05695	USA	Argentina
+2022.05695	Brazil	Peru
+2022.05695	United Kingdom	Germany
+2022.05695	United Kingdom	Slovenia
+2022.05695	USA	Israel
+2022.05695	Argentina	Costa Rica
+2022.05695	USA	United Kingdom
+2022.05695	United Kingdom	Netherlands
+2022.05695	Israel	Austria
+2022.05695	Spain	Norway
+2022.05695	USA	Israel
+2022.05695	USA	Canada
+2022.05695	USA	Israel
+2022.05695	USA	Argentina
+2022.05695	United Kingdom	USA
+2022.05695	United Kingdom	Iraq
+2022.05695	USA	Brazil
+2022.05695	France	Austria
+2022.05696	Brazil	Ireland
+2022.05696	USA	Belgium
+2022.05696	Germany	Estonia
+2022.05696	Romania	Lithuania
+2022.05696	Portugal	Argentina
+2022.05696	United Kingdom	India
+2022.05696	United Kingdom	Denmark
+2022.05696	Brazil	USA
+2022.05696	Italy	Serbia
+2022.05696	Brazil	Argentina
+2022.05697	United Kingdom	Austria
+2022.05697	USA	Peru
+2022.05697	USA	Peru
+2022.05697	USA	Colombia
+2022.05697	USA	Colombia
+2022.05697	USA	Colombia
+2022.05698	France	Poland
+2022.05698	United Kingdom	Germany
+2022.05698	United Kingdom	Israel
+2022.05698	Germany	United Kingdom
+2022.057	Turkey	Slovenia
+2022.057	Spain	Slovenia
+2022.05706	USA	Brazil
+2022.0587	France	Germany
+2022.05957	USA	Indonesia
+2022.05962	France	Belgium
+2022.05964	France	Spain
+2022.05964	France	Switzerland
+2022.05964	France	Spain
+2022.05964	United Kingdom	Italy
+2022.05965	United Kingdom	Italy
+2022.05965	United Kingdom	Italy
+2022.05965	Italy	United Kingdom
+2022.05965	Spain	Israel
+2022.05965	France	Czech Republic
+2022.05965	United Kingdom	Italy
+2022.05966	United Kingdom	Italy
+2022.05966	Spain	Netherlands
+2022.05966	Switzerland	Slovenia
+2022.05966	France	Greece
+2022.05966	USA	Brazil
+2022.05966	Turkey	Greece
+2022.05966	USA	United Kingdom
+2022.05967	South Africa	Greece
+2022.05967	USA	Mexico
+2022.05967	USA	Mexico
+2022.05967	USA	Peru
+2022.05967	USA	United Kingdom
+2022.05967	Peru	Japan
+2022.05967	USA	Peru
+2022.05967	USA	Japan
+2022.05967	France	Israel
+2022.05967	United Kingdom	Italy
+2022.05967	Spain	Italy
+2022.05967	Spain	Norway
+2022.05967	Germany	Belgium
+2022.05967	France	Italy
+2022.05967	Germany	Belgium
+2022.05967	Germany	Sweden
+2022.05967	Brazil	Japan
+2022.05967	Turkey	Austria
+2022.05967	France	Germany
+2022.05968	USA	Peru
+2022.05968	USA	Peru
+2022.05968	Peru	Greece
+2022.05968	USA	Israel
+2022.05968	United Kingdom	Greece
+2022.05968	Lithuania	Czech Republic
+2022.05968	United Kingdom	Germany
+2022.05968	United Kingdom	Italy
+2022.05968	United Kingdom	Norway
+2022.05968	Germany	Greece
+2022.05968	USA	Italy
+2022.05968	Brazil	USA
+2022.05968	USA	Italy
+2022.05968	Spain	Poland
+2022.05968	USA	Vietnam
+2022.05968	Germany	Austria
+2022.05968	Germany	Austria
+2022.05968	USA	Mexico
+2022.05968	Turkey	Israel
+2022.05968	Germany	Israel
+2022.05968	Germany	Switzerland
+2022.05968	USA	Norway
+2022.05968	France	Greece
+2022.05968	United Kingdom	USA
+2022.05969	USA	Italy
+2022.05969	USA	Peru
+2022.05969	USA	Israel
+2022.05969	USA	Israel
+2022.05969	USA	United Kingdom
+2022.05969	Israel	Thailand
+2022.05969	United Kingdom	Peru
+2022.05969	USA	France
+2022.05969	USA	Mexico
+2022.05969	USA	Brazil
+2022.05969	Italy	Switzerland
+2022.05969	Germany	Belgium
+2022.05969	Brazil	Bangladesh
+2022.05969	United Kingdom	Belgium
+2022.0597	United Kingdom	Netherlands
+2022.0597	USA	Italy
+2022.0597	Romania	Greece
+2022.0597	USA	Italy
+2022.0597	Turkey	Israel
+2022.05971	United Kingdom	Ireland
+2022.05971	Peru	Greece
+2022.05972	United Kingdom	Romania
+2022.05972	United Kingdom	Poland
+2022.06237	France	Italy
+2022.06238	Spain	Netherlands
+2022.06238	United Kingdom	USA
+2022.06239	USA	Ukraine
+2022.06239	USA	Vietnam
+2022.06239	United Kingdom	USA
+2022.06239	Spain	Netherlands
+2022.06239	Japan	Bangladesh
+2022.0624	United Kingdom	Germany
+2022.0624	USA	Chile
+2022.0624	United Kingdom	Portugal
+2022.0624	United Kingdom	Portugal
+2022.0624	United Kingdom	Poland
+2022.0624	United Kingdom	Portugal
+2022.0624	Spain	Belgium
+2022.0624	Spain	Switzerland
+2022.0624	Spain	Netherlands
+2022.0624	Germany	Israel
+2022.0624	France	Portugal
+2022.0624	USA	Greece
+2022.0624	Brazil	Israel
+2022.0624	USA	Portugal
+2022.06241	Germany	Georgia
+2022.06241	United Kingdom	Austria
+2022.06241	USA	Czech Republic
+2022.06241	Germany	Switzerland
+2022.06241	United Kingdom	France
+2022.06241	United Kingdom	Italy
+2022.06241	United Kingdom	Greece
+2022.06241	Italy	Portugal
+2022.06241	France	Belgium
+2022.06241	United Kingdom	Portugal
+2022.06241	Italy	Brazil
+2022.06241	Spain	Netherlands
+2022.06241	Spain	Portugal
+2022.06241	Spain	Portugal
+2022.06241	Australia	Portugal
+2022.06241	Botswana	Slovenia
+2022.06241	Germany	India
+2022.06241	Portugal	Estonia
+2022.06241	United Kingdom	USA
+2022.06241	USA	Netherlands
+2022.06242	United Kingdom	Czech Republic
+2022.06242	United Kingdom	Netherlands
+2022.06242	Israel	Japan
+2022.06242	Peru	Chile
+2022.06242	United Kingdom	Switzerland
+2022.06242	Italy	United Kingdom
+2022.06242	Italy	Romania
+2022.06242	USA	Slovenia
+2022.06242	USA	Greece
+2022.06242	USA	United Kingdom
+2022.06242	United Kingdom	Sweden
+2022.06242	Italy	Slovakia
+2022.06242	France	Switzerland
+2022.06242	France	USA
+2022.06242	USA	India
+2022.06243	USA	Netherlands
+2022.06243	Brazil	Mexico
+2022.06243	United Kingdom	France
+2022.06243	USA	Brazil
+2022.06243	Norway	Italy
+2022.06243	Brazil	Japan
+2022.06243	Germany	Belgium
+2022.06243	Denmark	Netherlands
+2022.06244	Brazil	Colombia
+2022.06244	United Kingdom	Greece
+2022.06245	Brazil	Bangladesh
+2022.06245	Slovakia	Romania
+2022.06245	United Kingdom	Greece
+2022.06245	United Kingdom	Belgium
+2022.06245	Italy	Belgium
+2022.06245	USA	Brazil
+2022.06246	Germany	Greece
+2022.06246	United Kingdom	Netherlands
+2022.06248	Turkey	Italy
+2022.06248	USA	France
+2022.0651	USA	France
+2022.06512	United Kingdom	Portugal
+2022.06512	Italy	Portugal
+2022.06512	Spain	Peru
+2022.06512	Spain	Portugal
+2022.06512	France	Netherlands
+2022.06512	Germany	Turkey
+2022.06512	Italy	France
+2022.06512	Brazil	Germany
+2022.06512	United Kingdom	Italy
+2022.06513	Brazil	Netherlands
+2022.06513	Italy	France
+2022.06513	USA	Vietnam
+2022.06513	United Kingdom	Italy
+2022.06513	Italy	Czech Republic
+2022.06513	Spain	Germany
+2022.06513	Spain	Portugal
+2022.06513	Spain	Portugal
+2022.06513	USA	France
+2022.06513	France	Portugal
+2022.06513	France	Portugal
+2022.06513	USA	Italy
+2022.06513	USA	Colombia
+2022.06513	Germany	France
+2022.06513	Portugal	Czech Republic
+2022.06513	Italy	France
+2022.06514	USA	France
+2022.06514	USA	France
+2022.06514	USA	Mexico
+2022.06514	Germany	Mexico
+2022.06514	USA	Brazil
+2022.06514	United Kingdom	Portugal
+2022.06514	United Kingdom	Germany
+2022.06514	United Kingdom	Switzerland
+2022.06514	Spain	France
+2022.06514	Germany	Spain
+2022.06514	Spain	Romania
+2022.06514	Spain	France
+2022.06514	Australia	Vietnam
+2022.06514	USA	France
+2022.06514	USA	Portugal
+2022.06514	USA	India
+2022.06514	USA	France
+2022.06514	France	Estonia
+2022.06514	Germany	Israel
+2022.06514	USA	Germany
+2022.06514	USA	France
+2022.06514	USA	Austria
+2022.06514	USA	Switzerland
+2022.06514	USA	Germany
+2022.06514	Germany	India
+2022.06514	USA	Czech Republic
+2022.06514	USA	Belgium
+2022.06514	South Africa	Chile
+2022.06514	Brazil	Japan
+2022.06515	USA	Mexico
+2022.06515	United Kingdom	Australia
+2022.06515	USA	France
+2022.06515	USA	Austria
+2022.06515	Romania	Czech Republic
+2022.06515	USA	France
+2022.06515	USA	Brazil
+2022.06515	USA	Brazil
+2022.06515	USA	Spain
+2022.06515	USA	Mexico
+2022.06515	USA	Mexico
+2022.06515	USA	Brazil
+2022.06515	USA	Peru
+2022.06515	United Kingdom	Italy
+2022.06515	United Kingdom	USA
+2022.06515	United Kingdom	Italy
+2022.06515	Spain	Netherlands
+2022.06515	Spain	France
+2022.06515	Spain	France
+2022.06515	Portugal	Switzerland
+2022.06515	Spain	Czech Republic
+2022.06515	Spain	Poland
+2022.06515	Germany	France
+2022.06515	Spain	France
+2022.06515	Spain	United Kingdom
+2022.06515	Spain	France
+2022.06515	Spain	Czech Republic
+2022.06515	France	Spain
+2022.06515	Australia	South Africa
+2022.06515	USA	Peru
+2022.06515	France	Poland
+2022.06515	Spain	Portugal
+2022.06515	USA	Brazil
+2022.06515	Brazil	Israel
+2022.06515	Germany	Italy
+2022.06515	Germany	USA
+2022.06515	Germany	USA
+2022.06515	Portugal	Spain
+2022.06515	Brazil	France
+2022.06515	Brazil	France
+2022.06515	United Kingdom	Mexico
+2022.06515	Greece	Belgium
+2022.06515	Turkey	Romania
+2022.06515	Portugal	France
+2022.06515	Bulgaria	Germany
+2022.06516	USA	Peru
+2022.06516	USA	Mexico
+2022.06516	USA	Mexico
+2022.06516	USA	Argentina
+2022.06516	Greece	France
+2022.06516	USA	France
+2022.06516	USA	Switzerland
+2022.06516	United Kingdom	Slovenia
+2022.06516	United Kingdom	Italy
+2022.06516	USA	France
+2022.06516	USA	Costa Rica
+2022.06516	France	Australia
+2022.06516	Botswana	Israel
+2022.06516	USA	Peru
+2022.06516	USA	Peru
+2022.06516	United Kingdom	Spain
+2022.06516	Italy	United Kingdom
+2022.06516	United Kingdom	Lithuania
+2022.06516	United Kingdom	Italy
+2022.06516	USA	Brazil
+2022.06516	Spain	Portugal
+2022.06516	Spain	France
+2022.06516	Spain	France
+2022.06516	Germany	Australia
+2022.06516	Brazil	Romania
+2022.06516	Brazil	Russia
+2022.06516	Lithuania	Czech Republic
+2022.06516	Germany	Japan
+2022.06516	USA	Germany
+2022.06516	South Africa	Germany
+2022.06516	USA	Russia
+2022.06516	Germany	Mexico
+2022.06516	France	USA
+2022.06516	United Kingdom	India
+2022.06516	Italy	Spain
+2022.06516	India	Austria
+2022.06516	Italy	Norway
+2022.06516	Italy	Switzerland
+2022.06516	Italy	France
+2022.06516	Brazil	Portugal
+2022.06516	United Kingdom	Ecuador
+2022.06516	United Kingdom	Italy
+2022.06516	Turkey	France
+2022.06516	Germany	Sweden
+2022.06516	France	Germany
+2022.06516	South Africa	Germany
+2022.06516	USA	Portugal
+2022.06516	United Kingdom	USA
+2022.06516	United Kingdom	France
+2022.06517	Peru	United Kingdom
+2022.06517	USA	Colombia
+2022.06517	USA	Brazil
+2022.06517	USA	France
+2022.06517	USA	Mexico
+2022.06517	USA	France
+2022.06517	USA	Peru
+2022.06517	USA	Italy
+2022.06517	USA	Switzerland
+2022.06517	United Kingdom	France
+2022.06517	Germany	France
+2022.06517	USA	France
+2022.06517	Spain	France
+2022.06517	France	USA
+2022.06517	Germany	Brazil
+2022.06517	Italy	Portugal
+2022.06517	Portugal	Georgia
+2022.06517	United Kingdom	Portugal
+2022.06517	United Kingdom	Portugal
+2022.06517	USA	Belgium
+2022.06517	USA	Brazil
+2022.06517	USA	Argentina
+2022.06517	USA	Colombia
+2022.06517	Italy	Netherlands
+2022.06517	Italy	Croatia
+2022.06517	United Kingdom	France
+2022.06517	United Kingdom	USA
+2022.06517	France	Sweden
+2022.06517	France	Russia
+2022.06517	USA	France
+2022.06517	USA	Indonesia
+2022.06517	Denmark	Sweden
+2022.06517	Denmark	Italy
+2022.06517	USA	Turkey
+2022.06517	Brazil	Iran
+2022.06517	USA	Mexico
+2022.06517	France	Vietnam
+2022.06518	USA	Switzerland
+2022.06518	USA	Spain
+2022.06518	USA	Austria
+2022.06518	United Kingdom	France
+2022.06518	United Kingdom	France
+2022.06518	USA	France
+2022.06518	USA	Portugal
+2022.06518	USA	Austria
+2022.06518	Brazil	Argentina
+2022.06518	USA	Japan
+2022.06518	Germany	France
+2022.06518	Austria	Croatia
+2022.06518	USA	India
+2022.06518	Israel	France
+2022.06518	Denmark	Italy
+2022.06519	United Kingdom	France
+2022.06519	Poland	Italy
+2022.06519	United Kingdom	Portugal
+2022.06519	United Kingdom	France
+2022.06519	United Kingdom	Denmark
+2022.06519	United Kingdom	Moldova
+2022.06519	United Kingdom	Colombia
+2022.06519	USA	Colombia
+2022.06519	Denmark	France
+2022.0652	Germany	USA
+2022.0652	United Kingdom	Czech Republic
+2022.0652	United Kingdom	Portugal
+2022.0652	United Kingdom	France
+2022.0652	USA	Spain
+2022.0652	USA	Peru
+2022.0652	USA	Portugal
+2022.06521	United Kingdom	Turkey
+2022.06521	USA	Portugal
+2022.06521	USA	United Kingdom
+2022.06521	United Kingdom	France
+2022.06521	United Kingdom	France
+2022.06521	USA	Italy
+2022.06522	United Kingdom	Spain
+2022.06522	United Kingdom	Greece
+2022.06784	USA	United Kingdom
+2022.06785	Spain	Denmark
+2022.06785	Ireland	Croatia
+2022.06785	France	Germany
+2022.06786	USA	Croatia
+2022.06786	United Kingdom	Portugal
+2022.06786	Spain	Argentina
+2022.06786	USA	Austria
+2022.06786	USA	Luxembourg
+2022.06786	United Kingdom	Germany
+2022.06787	USA	Brazil
+2022.06787	USA	United Kingdom
+2022.06787	USA	Mexico
+2022.06787	USA	South Korea
+2022.06787	United Kingdom	Switzerland
+2022.06787	Spain	Argentina
+2022.06787	Spain	Germany
+2022.06787	Brazil	Germany
+2022.06787	USA	France
+2022.06787	USA	Poland
+2022.06787	USA	Argentina
+2022.06787	Argentina	Colombia
+2022.06787	USA	Brazil
+2022.06787	USA	Denmark
+2022.06788	USA	United Kingdom
+2022.06788	USA	Romania
+2022.06788	Sweden	Poland
+2022.06788	USA	Vietnam
+2022.06788	USA	Netherlands
+2022.06788	USA	Canada
+2022.06788	USA	Peru
+2022.06788	USA	Argentina
+2022.06788	United Kingdom	Italy
+2022.06788	United Kingdom	Portugal
+2022.06788	Spain	Portugal
+2022.06788	Spain	Germany
+2022.06788	Spain	France
+2022.06788	Italy	Colombia
+2022.06788	Spain	United Kingdom
+2022.06788	USA	Germany
+2022.06788	Portugal	Iran
+2022.06788	France	Germany
+2022.06788	France	Portugal
+2022.06788	USA	Germany
+2022.06788	USA	Brazil
+2022.06788	Germany	Italy
+2022.06788	USA	Czech Republic
+2022.06788	USA	Israel
+2022.06788	USA	Costa Rica
+2022.06788	Portugal	Poland
+2022.06788	Brazil	Chile
+2022.06788	USA	Canada
+2022.06788	Turkey	USA
+2022.06788	United Kingdom	Portugal
+2022.06789	USA	Portugal
+2022.06789	USA	Germany
+2022.06789	Turkey	Poland
+2022.06789	Morocco	Moldova
+2022.06789	Sweden	Netherlands
+2022.06789	USA	Netherlands
+2022.06789	Norway	Germany
+2022.06789	USA	United Kingdom
+2022.06789	USA	Israel
+2022.06789	USA	Chile
+2022.06789	Colombia	Switzerland
+2022.06789	United Kingdom	Sweden
+2022.06789	United Kingdom	Portugal
+2022.06789	United Kingdom	Czech Republic
+2022.06789	Italy	Romania
+2022.06789	Spain	Portugal
+2022.06789	Spain	Brazil
+2022.06789	Spain	Germany
+2022.06789	Romania	Indonesia
+2022.06789	Australia	Switzerland
+2022.06789	Australia	Austria
+2022.06789	United Kingdom	Italy
+2022.06789	USA	Mexico
+2022.06789	Germany	Austria
+2022.06789	USA	Germany
+2022.06789	USA	Colombia
+2022.06789	USA	Brazil
+2022.06789	Germany	Poland
+2022.06789	France	India
+2022.06789	France	Belgium
+2022.06789	Brazil	Netherlands
+2022.06789	Brazil	Ecuador
+2022.06789	Germany	Belgium
+2022.06789	France	Germany
+2022.06789	United Kingdom	Portugal
+2022.06789	Spain	Austria
+2022.0679	USA	Peru
+2022.0679	USA	Argentina
+2022.0679	Morocco	Israel
+2022.0679	United Kingdom	Argentina
+2022.0679	USA	Norway
+2022.0679	Peru	Germany
+2022.0679	United Kingdom	Israel
+2022.0679	United Kingdom	Germany
+2022.0679	United Kingdom	Portugal
+2022.0679	United Kingdom	Portugal
+2022.0679	United Kingdom	Portugal
+2022.0679	United Kingdom	Portugal
+2022.0679	Germany	Belgium
+2022.0679	Spain	Germany
+2022.0679	Germany	Romania
+2022.0679	Italy	Netherlands
+2022.0679	Germany	Portugal
+2022.0679	Germany	USA
+2022.0679	Australia	South Korea
+2022.0679	Germany	Austria
+2022.0679	USA	Argentina
+2022.0679	Spain	Ireland
+2022.0679	France	USA
+2022.0679	Turkey	Poland
+2022.0679	France	Italy
+2022.0679	France	Italy
+2022.0679	Brazil	Spain
+2022.0679	France	Italy
+2022.0679	France	Spain
+2022.0679	Denmark	Lithuania
+2022.0679	Denmark	Moldova
+2022.0679	United Kingdom	Italy
+2022.0679	USA	Switzerland
+2022.0679	United Kingdom	Switzerland
+2022.0679	Italy	Lithuania
+2022.06791	USA	Argentina
+2022.06791	USA	Ireland
+2022.06791	USA	Ireland
+2022.06791	USA	Switzerland
+2022.06791	USA	Peru
+2022.06791	Peru	Mexico
+2022.06791	USA	Germany
+2022.06791	United Kingdom	Portugal
+2022.06791	United Kingdom	Australia
+2022.06791	United Kingdom	Ireland
+2022.06791	USA	Austria
+2022.06791	USA	Brazil
+2022.06791	Brazil	Chile
+2022.06791	USA	France
+2022.06791	USA	Spain
+2022.06791	Brazil	Argentina
+2022.06791	Brazil	Argentina
+2022.06791	Brazil	Argentina
+2022.06791	United Kingdom	USA
+2022.06791	Spain	Belgium
+2022.06791	Denmark	Sweden
+2022.06791	Denmark	Switzerland
+2022.06791	Zimbabwe	Iran
+2022.06792	Brazil	South Korea
+2022.06792	United Kingdom	Poland
+2022.06792	Colombia	Brazil
+2022.06792	USA	Austria
+2022.06792	USA	Brazil
+2022.06792	USA	France
+2022.06792	USA	Chile
+2022.06792	Italy	Mexico
+2022.06792	France	Austria
+2022.06793	United Kingdom	Israel
+2022.06793	United Kingdom	Ireland
+2022.06793	United Kingdom	Sweden
+2022.06793	United Kingdom	Romania
+2022.06793	USA	Peru
+2022.06793	USA	Colombia
+2022.06794	Germany	Norway
+2022.06794	United Kingdom	Spain
+2022.06794	USA	France
+2022.06795	United Kingdom	Czech Republic
+2022.06795	United Kingdom	USA
+2022.06795	Germany	Poland
+2022.06795	United Kingdom	Spain
+2022.06795	USA	Poland
+2022.06796	France	Colombia
+2022.06892	Brazil	Germany
+2022.06951	USA	Chile
+2022.07059	Netherlands	Germany
+2022.0706	USA	Indonesia
+2022.0706	France	Netherlands
+2022.0706	Canada	USA
+2022.0706	Canada	United Kingdom
+2022.0706	United Kingdom	Germany
+2022.07061	USA	Argentina
+2022.07061	Italy	USA
+2022.07061	United Kingdom	Italy
+2022.07061	Spain	Italy
+2022.07061	Spain	Italy
+2022.07061	Spain	Italy
+2022.07061	France	Czech Republic
+2022.07061	France	Switzerland
+2022.07061	USA	Thailand
+2022.07061	USA	Iran
+2022.07062	Italy	Mauritius
+2022.07062	USA	Italy
+2022.07062	USA	Mexico
+2022.07062	USA	Switzerland
+2022.07062	USA	Argentina
+2022.07062	Italy	Romania
+2022.07062	United Kingdom	Italy
+2022.07062	United Kingdom	Sweden
+2022.07062	Spain	France
+2022.07062	Spain	Israel
+2022.07062	USA	Mexico
+2022.07062	Turkey	Netherlands
+2022.07063	USA	Argentina
+2022.07063	USA	Belgium
+2022.07063	Brazil	Argentina
+2022.07063	USA	Argentina
+2022.07063	Peru	USA
+2022.07063	USA	Spain
+2022.07063	United Kingdom	Romania
+2022.07063	United Kingdom	Sweden
+2022.07063	Italy	Sweden
+2022.07063	United Kingdom	Italy
+2022.07063	United Kingdom	Denmark
+2022.07063	Spain	Slovakia
+2022.07063	Spain	France
+2022.07063	USA	Australia
+2022.07063	USA	Spain
+2022.07063	Germany	Netherlands
+2022.07063	USA	United Kingdom
+2022.07063	Germany	Belgium
+2022.07063	USA	Chile
+2022.07063	USA	Italy
+2022.07063	USA	Poland
+2022.07063	Belgium	USA
+2022.07063	Brazil	Belgium
+2022.07063	USA	Luxembourg
+2022.07063	United Kingdom	Czech Republic
+2022.07063	United Kingdom	Russia
+2022.07064	Italy	Peru
+2022.07064	Argentina	Ecuador
+2022.07064	USA	Mexico
+2022.07064	United Kingdom	Belgium
+2022.07064	France	India
+2022.07064	United Kingdom	USA
+2022.07064	USA	Mexico
+2022.07064	USA	Ecuador
+2022.07064	USA	Russia
+2022.07064	USA	Ecuador
+2022.07064	United Kingdom	Brazil
+2022.07064	Germany	Czech Republic
+2022.07064	Italy	Lithuania
+2022.07064	Spain	Slovakia
+2022.07064	Spain	South Korea
+2022.07064	Argentina	Japan
+2022.07064	Germany	France
+2022.07064	Australia	USA
+2022.07064	Australia	Russia
+2022.07064	Australia	Lithuania
+2022.07064	USA	Austria
+2022.07064	USA	Argentina
+2022.07064	United Kingdom	Sweden
+2022.07064	Brazil	Spain
+2022.07064	Brazil	Ecuador
+2022.07064	United Kingdom	Poland
+2022.07064	USA	Germany
+2022.07064	Turkey	Georgia
+2022.07064	Turkey	Sweden
+2022.07064	Turkey	Romania
+2022.07064	Turkey	Germany
+2022.07064	Germany	Brazil
+2022.07064	France	USA
+2022.07064	France	USA
+2022.07064	USA	Peru
+2022.07064	United Kingdom	Russia
+2022.0706500000001	USA	Peru
+2022.0706500000001	Brazil	Chile
+2022.0706500000001	USA	Mexico
+2022.0706500000001	United Kingdom	Lithuania
+2022.0706500000001	Canada	Mexico
+2022.0706500000001	USA	Luxembourg
+2022.0706500000001	USA	Mexico
+2022.0706500000001	USA	Netherlands
+2022.0706500000001	USA	Poland
+2022.0706500000001	Germany	Luxembourg
+2022.0706500000001	Brazil	Germany
+2022.0706500000001	France	Italy
+2022.0706500000001	France	Poland
+2022.0706500000001	France	Japan
+2022.07066	USA	Brazil
+2022.07066	USA	Argentina
+2022.07066	United Kingdom	Italy
+2022.07066	Argentina	Brazil
+2022.07066	USA	Argentina
+2022.07066	Portugal	Netherlands
+2022.07067	Brazil	Italy
+2022.07067	United Kingdom	Poland
+2022.07067	USA	Israel
+2022.07068	USA	Italy
+2022.07068	USA	Germany
+2022.07068	Germany	Switzerland
+2022.07068	United Kingdom	Italy
+2022.07068	United Kingdom	Germany
+2022.07068	Spain	Slovakia
+2022.07068	USA	Peru
+2022.07069	USA	Germany
+2022.07069	Germany	Netherlands
+2022.07069	USA	Argentina
+2022.07069	Argentina	Slovenia
+2022.07069	United Kingdom	Germany
+2022.07069	United Kingdom	Poland
+2022.07149	USA	Denmark
+2022.07192	Brazil	Netherlands
+2022.07284	France	Lithuania
+2022.07319	Germany	Indonesia
+2022.07333	USA	Netherlands
+2022.07333	France	Japan
+2022.07334	USA	Brazil
+2022.07334	United Kingdom	Italy
+2022.07334	United Kingdom	Italy
+2022.07334	Spain	Netherlands
+2022.07334	USA	Peru
+2022.07334	France	Spain
+2022.07334	France	USA
+2022.07334	France	Netherlands
+2022.07334	USA	Brazil
+2022.07335	USA	Italy
+2022.07335	USA	Mexico
+2022.07335	USA	Israel
+2022.07335	United Kingdom	Poland
+2022.07335	Spain	Israel
+2022.07335	Spain	Peru
+2022.07335	France	Czech Republic
+2022.07335	France	Belgium
+2022.07335	France	Netherlands
+2022.07335	USA	Brazil
+2022.07336	United Kingdom	Germany
+2022.07336	USA	Germany
+2022.07336	United Kingdom	Italy
+2022.07336	USA	India
+2022.07336	USA	Brazil
+2022.07336	United Kingdom	Germany
+2022.07336	Spain	Italy
+2022.07336	France	Belgium
+2022.07336	Spain	Poland
+2022.07336	Spain	Germany
+2022.07336	Brazil	Spain
+2022.07336	USA	Germany
+2022.07336	USA	Turkey
+2022.07336	USA	Argentina
+2022.07336	USA	Australia
+2022.07336	USA	Germany
+2022.07336	USA	United Kingdom
+2022.07336	Netherlands	Belgium
+2022.07337	USA	Turkey
+2022.07337	USA	Brazil
+2022.07337	Morocco	Israel
+2022.07337	USA	Israel
+2022.07337	USA	Brazil
+2022.07337	United Kingdom	Italy
+2022.07337	United Kingdom	Poland
+2022.07337	United Kingdom	Italy
+2022.07337	United Kingdom	Italy
+2022.07337	Spain	Romania
+2022.07337	Spain	Germany
+2022.07337	France	Spain
+2022.07337	Australia	Poland
+2022.07337	USA	India
+2022.07337	USA	Estonia
+2022.07337	Austria	Slovakia
+2022.07337	USA	Germany
+2022.07337	USA	Brazil
+2022.07337	USA	Brazil
+2022.07337	Brazil	Belgium
+2022.07337	Germany	Luxembourg
+2022.07337	Brazil	USA
+2022.07337	Brazil	Italy
+2022.07337	USA	Iran
+2022.07337	USA	Poland
+2022.07337	Germany	Netherlands
+2022.07337	USA	Mexico
+2022.07337	France	Germany
+2022.07337	Bulgaria	Mauritius
+2022.07337	USA	Czech Republic
+2022.07337	France	Netherlands
+2022.07337	France	Germany
+2022.07338	USA	Ecuador
+2022.07338	USA	Chile
+2022.07338	Morocco	Italy
+2022.07338	USA	Netherlands
+2022.07338	USA	Vietnam
+2022.07338	USA	South Korea
+2022.07338	USA	Brazil
+2022.07338	USA	Estonia
+2022.07338	United Kingdom	Italy
+2022.07338	United Kingdom	Italy
+2022.07338	United Kingdom	Germany
+2022.07338	United Kingdom	Germany
+2022.07338	Germany	India
+2022.07338	Italy	Netherlands
+2022.07338	Germany	USA
+2022.07338	Germany	Brazil
+2022.07338	Australia	Switzerland
+2022.07338	USA	Brazil
+2022.07338	USA	Colombia
+2022.07338	Austria	Israel
+2022.07338	Turkey	Israel
+2022.07338	Turkey	Israel
+2022.07338	France	Ecuador
+2022.07338	USA	Brazil
+2022.07338	Italy	Spain
+2022.07339	USA	Brazil
+2022.07339	USA	Argentina
+2022.07339	Argentina	Peru
+2022.07339	France	USA
+2022.07339	USA	Argentina
+2022.07339	USA	Argentina
+2022.07339	Germany	France
+2022.07339	Germany	Spain
+2022.07339	USA	Argentina
+2022.07339	USA	Brazil
+2022.07339	Argentina	Chile
+2022.07339	USA	Mexico
+2022.07339	Brazil	USA
+2022.0734	Brazil	Bangladesh
+2022.0734	United Kingdom	Lithuania
+2022.0734	Germany	United Kingdom
+2022.07341	Netherlands	USA
+2022.07341	Poland	Sweden
+2022.07341	United Kingdom	Spain
+2022.07341	United Kingdom	Israel
+2022.07341	Belgium	Poland
+2022.07341	Germany	Belgium
+2022.07341	Portugal	Switzerland
+2022.07342	USA	Luxembourg
+2022.07342	Germany	Israel
+2022.07342	Germany	Norway
+2022.07342	United Kingdom	Germany
+2022.07342	United Kingdom	Brazil
+2022.07342	USA	Israel
+2022.07343	USA	France
+2022.07343	France	Brazil
+2022.07343	United Kingdom	Poland
+2022.07344	Germany	Czech Republic
+2022.07607	Netherlands	Poland
+2022.07607	Ireland	Germany
+2022.07608	United Kingdom	Norway
+2022.07608	United Kingdom	France
+2022.07608	France	Germany
+2022.07608	Spain	Japan
+2022.07608	France	Germany
+2022.07609	USA	Brazil
+2022.07609	United Kingdom	Israel
+2022.07609	Spain	Germany
+2022.07609	Brazil	Japan
+2022.07609	USA	United Kingdom
+2022.0761	United Kingdom	Spain
+2022.0761	USA	Brazil
+2022.0761	USA	France
+2022.0761	USA	United Kingdom
+2022.0761	USA	Mexico
+2022.0761	USA	Mexico
+2022.0761	USA	Lithuania
+2022.0761	India	Belgium
+2022.0761	Portugal	Netherlands
+2022.0761	France	Norway
+2022.0761	France	Spain
+2022.0761	USA	Czech Republic
+2022.0761	Greece	USA
+2022.0761	Turkey	Belgium
+2022.07611	USA	Australia
+2022.07611	USA	Spain
+2022.07611	Netherlands	Belgium
+2022.07611	United Kingdom	Italy
+2022.07611	Spain	Poland
+2022.07611	Spain	Czech Republic
+2022.07611	Spain	Czech Republic
+2022.07611	Spain	Japan
+2022.07611	USA	Peru
+2022.07611	USA	Brazil
+2022.07611	USA	Brazil
+2022.07611	USA	Brazil
+2022.07611	Austria	Czech Republic
+2022.07611	USA	Czech Republic
+2022.07611	Brazil	USA
+2022.07611	USA	Czech Republic
+2022.07611	United Kingdom	Poland
+2022.07611	United Kingdom	Spain
+2022.07611	France	Belgium
+2022.07612	USA	Brazil
+2022.07612	Argentina	Mexico
+2022.07612	USA	Brazil
+2022.07612	USA	Spain
+2022.07612	USA	Mexico
+2022.07612	United Kingdom	Romania
+2022.07612	Italy	Peru
+2022.07612	USA	Mexico
+2022.07612	USA	Israel
+2022.07612	Spain	Norway
+2022.07612	Germany	Brazil
+2022.07612	Germany	Brazil
+2022.07612	Australia	Italy
+2022.07612	USA	Brazil
+2022.07612	Turkey	India
+2022.07612	Italy	Spain
+2022.07612	Brazil	Chile
+2022.07612	Denmark	Finland
+2022.07612	Turkey	United Kingdom
+2022.07613	USA	Germany
+2022.07613	United Kingdom	Italy
+2022.07613	Chile	Peru
+2022.07613	USA	Brazil
+2022.07613	Australia	Italy
+2022.07613	Italy	Australia
+2022.07613	Denmark	Norway
+2022.07613	USA	Poland
+2022.07613	Denmark	Sweden
+2022.07614	USA	Brazil
+2022.07614	USA	Argentina
+2022.07614	United Kingdom	Netherlands
+2022.07614	United Kingdom	Romania
+2022.07614	USA	Israel
+2022.07614	Germany	Denmark
+2022.07614	Denmark	Croatia
+2022.07615	USA	Peru
+2022.07615	United Kingdom	Switzerland
+2022.07615	Poland	Slovakia
+2022.07615	Poland	Germany
+2022.07616	USA	Brazil
+2022.07616	United Kingdom	Germany
+2022.07616	Germany	Israel
+2022.07616	United Kingdom	Spain
+2022.07616	United Kingdom	Lithuania
+2022.07616	United Kingdom	Costa Rica
+2022.07616	United Kingdom	Italy
+2022.07617	United Kingdom	USA
+2022.07617	United Kingdom	Germany
+2022.07617	United Kingdom	Spain
+2022.0788	France	Netherlands
+2022.07881	France	Belgium
+2022.07881	France	South Africa
+2022.07882	Italy	Romania
+2022.07882	Romania	Lithuania
+2022.07882	France	Italy
+2022.07882	France	Romania
+2022.07883	USA	Italy
+2022.07883	USA	India
+2022.07883	USA	Belgium
+2022.07883	France	Germany
+2022.07883	France	Italy
+2022.07883	USA	Romania
+2022.07883	Brazil	Czech Republic
+2022.07884	Czech Republic	Netherlands
+2022.07884	USA	Brazil
+2022.07884	USA	South Korea
+2022.07884	USA	Mexico
+2022.07884	United Kingdom	Romania
+2022.07884	Spain	Germany
+2022.07884	Spain	Germany
+2022.07884	USA	Germany
+2022.07884	Germany	France
+2022.07884	USA	Italy
+2022.07884	USA	Czech Republic
+2022.07884	Turkey	Italy
+2022.07884	USA	France
+2022.07885	USA	Chile
+2022.07885	France	Germany
+2022.07885	USA	Argentina
+2022.07885	Spain	France
+2022.07885	Spain	Slovenia
+2022.07885	Italy	Czech Republic
+2022.07885	Australia	United Kingdom
+2022.07885	USA	India
+2022.07885	USA	India
+2022.07885	USA	India
+2022.07885	Germany	Czech Republic
+2022.07885	Brazil	USA
+2022.07885	USA	Romania
+2022.07885	France	Italy
+2022.07885	United Kingdom	India
+2022.07885	United Kingdom	Morocco
+2022.07885	Austria	Italy
+2022.07886	Peru	Japan
+2022.07886	USA	Netherlands
+2022.07886	USA	Peru
+2022.07886	Germany	Netherlands
+2022.07886	Portugal	Italy
+2022.07886	United Kingdom	Italy
+2022.07886	United Kingdom	Italy
+2022.07886	Italy	Switzerland
+2022.07886	United Kingdom	Italy
+2022.07886	United Kingdom	Switzerland
+2022.07886	United Kingdom	Belgium
+2022.07886	France	Czech Republic
+2022.07886	Germany	Malaysia
+2022.07886	Germany	Slovenia
+2022.07886	Brazil	Slovenia
+2022.07886	USA	Canada
+2022.07886	Italy	Iran
+2022.07886	Brazil	USA
+2022.07886	Turkey	Iran
+2022.07886	USA	Canada
+2022.07886	USA	Canada
+2022.07886	Brazil	Germany
+2022.07887	USA	Canada
+2022.07887	USA	Morocco
+2022.07887	Brazil	Chile
+2022.07887	France	Australia
+2022.07887	USA	Czech Republic
+2022.07887	USA	India
+2022.07887	USA	Italy
+2022.07887	Poland	United Kingdom
+2022.07888	United Kingdom	Russia
+2022.07888	Austria	USA
+2022.07888	United Kingdom	Morocco
+2022.07889	United Kingdom	Romania
+2022.07889	Germany	Belgium
+2022.07889	Denmark	Italy
+2022.07889	Denmark	Italy
+2022.0789	United Kingdom	Romania
+2022.07891	United Kingdom	Brazil
+2022.08153	USA	Italy
+2022.08153	Italy	Ireland
+2022.08153	USA	Brazil
+2022.08155	USA	Brazil
+2022.08155	USA	Brazil
+2022.08155	France	Czech Republic
+2022.08155	France	Netherlands
+2022.08156	France	Netherlands
+2022.08156	USA	Czech Republic
+2022.08156	France	Italy
+2022.08156	France	Indonesia
+2022.08157	USA	Canada
+2022.08157	France	Portugal
+2022.08157	France	Japan
+2022.08157	France	Netherlands
+2022.08157	France	Portugal
+2022.08157	USA	Austria
+2022.08158	USA	Italy
+2022.08158	USA	Peru
+2022.08158	Chile	Portugal
+2022.08158	United Kingdom	Italy
+2022.08158	France	Portugal
+2022.08158	United Kingdom	Iran
+2022.08158	United Kingdom	Iran
+2022.08158	United Kingdom	Iran
+2022.08158	Spain	France
+2022.08158	Spain	Romania
+2022.08158	USA	Chile
+2022.08158	USA	Mexico
+2022.08158	France	Sweden
+2022.08158	Germany	Italy
+2022.08158	France	Austria
+2022.08158	Germany	Iran
+2022.08158	USA	Netherlands
+2022.08158	USA	Brazil
+2022.08158	United Kingdom	France
+2022.08159	Norway	Iran
+2022.08159	USA	Netherlands
+2022.08159	USA	Israel
+2022.08159	South Africa	Brazil
+2022.08159	USA	Colombia
+2022.08159	United Kingdom	Portugal
+2022.08159	United Kingdom	Portugal
+2022.08159	Belgium	Italy
+2022.08159	United Kingdom	France
+2022.08159	Germany	Israel
+2022.08159	Portugal	France
+2022.08159	Brazil	Denmark
+2022.08159	USA	Israel
+2022.08159	USA	Germany
+2022.08159	USA	Russia
+2022.08159	USA	Israel
+2022.08159	USA	Italy
+2022.08159	Brazil	Argentina
+2022.08159	France	Japan
+2022.0816	USA	Netherlands
+2022.0816	Peru	Netherlands
+2022.0816	Morocco	South Africa
+2022.0816	USA	Netherlands
+2022.0816	USA	Israel
+2022.0816	Peru	Netherlands
+2022.0816	United Kingdom	Romania
+2022.0816	United Kingdom	Italy
+2022.0816	United Kingdom	Portugal
+2022.0816	USA	Czech Republic
+2022.0816	USA	Chile
+2022.0816	USA	Argentina
+2022.0816	Germany	Brazil
+2022.0816	United Kingdom	Slovenia
+2022.0816	United Kingdom	USA
+2022.0816	Turkey	Israel
+2022.08161	USA	Chile
+2022.08161	USA	Peru
+2022.08161	Italy	Spain
+2022.08161	Brazil	Chile
+2022.08161	USA	Netherlands
+2022.08161	Spain	Israel
+2022.08161	USA	Thailand
+2022.08161	USA	Poland
+2022.08161	USA	Brazil
+2022.08161	Brazil	Israel
+2022.08161	Norway	Switzerland
+2022.08161	Brazil	Chile
+2022.08162	Brazil	Mexico
+2022.08162	Germany	Israel
+2022.08162	United Kingdom	Romania
+2022.08162	USA	Brazil
+2022.08162	Romania	Austria
+2022.08163	Belgium	Israel
+2022.08164	Germany	Brazil
+2022.08164	United Kingdom	Brazil
+2022.08164	United Kingdom	Switzerland
+2022.08164	USA	Ireland
+2022.08164	USA	Finland
+2022.08165	USA	Brazil
+2022.08165	Germany	Mexico
+2022.08165	United Kingdom	Poland
+2022.08166	United Kingdom	Portugal
+2022.08429	USA	Portugal
+2022.08429	Switzerland	Sweden
+2022.0843	USA	Lithuania
+2022.0843	United Kingdom	Lithuania
+2022.0843	Italy	Germany
+2022.0843	Germany	Turkey
+2022.0843	Italy	Ireland
+2022.0843	USA	France
+2022.0843	France	Lithuania
+2022.0843	France	Germany
+2022.0843	Germany	Switzerland
+2022.0843	France	Chile
+2022.0843	France	Germany
+2022.0843	France	Germany
+2022.0843	France	Portugal
+2022.08431	Mexico	Chile
+2022.08431	USA	Chile
+2022.08431	USA	Chile
+2022.08431	USA	France
+2022.08431	United Kingdom	Israel
+2022.08431	Spain	France
+2022.08431	Spain	Portugal
+2022.08431	Spain	Czech Republic
+2022.08431	Spain	Portugal
+2022.08431	USA	France
+2022.08431	France	Netherlands
+2022.08431	France	Turkey
+2022.08431	France	Switzerland
+2022.08431	France	Italy
+2022.08431	Spain	Switzerland
+2022.08431	France	Czech Republic
+2022.08431	USA	Luxembourg
+2022.08431	USA	Brazil
+2022.08432	United Kingdom	Poland
+2022.08432	USA	Switzerland
+2022.08432	USA	France
+2022.08432	USA	Brazil
+2022.08432	USA	Chile
+2022.08432	Brazil	Argentina
+2022.08432	Mexico	Portugal
+2022.08432	Chile	Mexico
+2022.08432	USA	Chile
+2022.08432	Italy	Germany
+2022.08432	United Kingdom	Portugal
+2022.08432	United Kingdom	Switzerland
+2022.08432	United Kingdom	Italy
+2022.08432	United Kingdom	Italy
+2022.08432	United Kingdom	Czech Republic
+2022.08432	United Kingdom	Italy
+2022.08432	Spain	France
+2022.08432	Portugal	Germany
+2022.08432	France	Israel
+2022.08432	Brazil	Spain
+2022.08432	Australia	Israel
+2022.08432	Spain	France
+2022.08432	USA	Turkey
+2022.08432	Germany	Poland
+2022.08432	USA	Italy
+2022.08432	Germany	France
+2022.08432	USA	Netherlands
+2022.08432	Brazil	Argentina
+2022.08432	Brazil	Argentina
+2022.08432	USA	Italy
+2022.08432	France	Portugal
+2022.08432	USA	Germany
+2022.08432	USA	Switzerland
+2022.08432	Turkey	France
+2022.08432	Netherlands	France
+2022.08433	USA	Peru
+2022.08433	USA	Switzerland
+2022.08433	USA	France
+2022.08433	United Kingdom	Netherlands
+2022.08433	Chile	Costa Rica
+2022.08433	USA	Chile
+2022.08433	USA	Brazil
+2022.08433	USA	Brazil
+2022.08433	USA	France
+2022.08433	France	Portugal
+2022.08433	USA	Peru
+2022.08433	USA	France
+2022.08433	USA	Peru
+2022.08433	USA	Peru
+2022.08433	USA	Brazil
+2022.08433	United Kingdom	Italy
+2022.08433	Germany	Netherlands
+2022.08433	Portugal	Italy
+2022.08433	United Kingdom	France
+2022.08433	United Kingdom	Belgium
+2022.08433	United Kingdom	Italy
+2022.08433	United Kingdom	Italy
+2022.08433	United Kingdom	Lithuania
+2022.08433	United Kingdom	Italy
+2022.08433	United Kingdom	Portugal
+2022.08433	Spain	France
+2022.08433	France	Peru
+2022.08433	Spain	France
+2022.08433	Spain	Portugal
+2022.08433	Spain	Slovenia
+2022.08433	Spain	France
+2022.08433	Spain	Portugal
+2022.08433	Spain	France
+2022.08433	Germany	France
+2022.08433	Australia	Belgium
+2022.08433	USA	Costa Rica
+2022.08433	USA	Belgium
+2022.08433	Germany	Netherlands
+2022.08433	France	Portugal
+2022.08433	USA	Poland
+2022.08433	Germany	Poland
+2022.08433	Germany	Poland
+2022.08433	USA	Brazil
+2022.08433	USA	Lithuania
+2022.08433	Germany	Sweden
+2022.08433	USA	Portugal
+2022.08433	USA	Italy
+2022.08433	Brazil	Ecuador
+2022.08433	United Kingdom	Poland
+2022.08433	USA	Brazil
+2022.08433	Italy	Switzerland
+2022.08433	Italy	Ukraine
+2022.08433	USA	Israel
+2022.08433	USA	Germany
+2022.08433	Germany	Czech Republic
+2022.08434	Peru	Mexico
+2022.08434	United Kingdom	Italy
+2022.08434	Switzerland	Italy
+2022.08434	USA	Canada
+2022.08434	USA	Mexico
+2022.08434	USA	Germany
+2022.08434	USA	Peru
+2022.08434	Netherlands	Italy
+2022.08434	USA	Israel
+2022.08434	United Kingdom	Italy
+2022.08434	United Kingdom	Poland
+2022.08434	United Kingdom	Germany
+2022.08434	United Kingdom	France
+2022.08434	Spain	Switzerland
+2022.08434	Spain	France
+2022.08434	Brazil	Argentina
+2022.08434	Thailand	Brazil
+2022.08434	Brazil	Chile
+2022.08434	Czech Republic	Romania
+2022.08434	France	Israel
+2022.08434	USA	Italy
+2022.08434	USA	South Africa
+2022.08434	Austria	USA
+2022.08434	USA	Chile
+2022.08434	USA	Argentina
+2022.08434	Germany	Turkey
+2022.08434	USA	Belgium
+2022.08434	Norway	Croatia
+2022.08434	France	Spain
+2022.08434	Peru	France
+2022.08434	Brazil	France
+2022.08434	Belgium	Netherlands
+2022.08434	Denmark	Germany
+2022.08434	Denmark	Italy
+2022.08434	Denmark	Germany
+2022.08434	Spain	Belgium
+2022.08434	Brazil	Georgia
+2022.08434	USA	France
+2022.08434	United Kingdom	Brazil
+2022.08434	Portugal	Slovakia
+2022.08434	Spain	Switzerland
+2022.08434	United Kingdom	Turkey
+2022.08434	United Kingdom	France
+2022.08434	United Kingdom	Brazil
+2022.08435	USA	Brazil
+2022.08435	USA	France
+2022.08435	United Kingdom	Israel
+2022.08435	United Kingdom	Italy
+2022.08435	United Kingdom	France
+2022.08435	United Kingdom	USA
+2022.08435	United Kingdom	Portugal
+2022.08435	USA	Paraguay
+2022.08435	USA	Paraguay
+2022.08435	Italy	France
+2022.08435	United Kingdom	Poland
+2022.08435	Brazil	Argentina
+2022.08435	India	United Kingdom
+2022.08435	USA	France
+2022.08435	USA	Romania
+2022.08435	Denmark	France
+2022.08435	United Kingdom	Portugal
+2022.08436	USA	Peru
+2022.08436	Turkey	Israel
+2022.08436	United Kingdom	France
+2022.08436	Greece	Turkey
+2022.08436	United Kingdom	Poland
+2022.08436	USA	Poland
+2022.08436	Argentina	Brazil
+2022.08436	USA	Netherlands
+2022.08436	Germany	Spain
+2022.08436	Spain	Italy
+2022.08437	United Kingdom	Germany
+2022.08437	Italy	Portugal
+2022.08437	United Kingdom	Germany
+2022.08437	Germany	Portugal
+2022.08437	Belgium	Netherlands
+2022.08437	United Kingdom	Italy
+2022.08437	United Kingdom	Czech Republic
+2022.08437	United Kingdom	Poland
+2022.08437	United Kingdom	Norway
+2022.08437	USA	Brazil
+2022.08437	USA	Chile
+2022.08437	Denmark	France
+2022.08438	USA	Brazil
+2022.08438	USA	France
+2022.08438	United Kingdom	France
+2022.08438	United Kingdom	Poland
+2022.08438	United Kingdom	France
+2022.08438	United Kingdom	Poland
+2022.08438	United Kingdom	France
+2022.08438	Germany	Austria
+2022.08438	USA	France
+2022.08438	USA	Poland
+2022.08439	United Kingdom	France
+2022.08439	United Kingdom	Italy
+2022.08439	Poland	Turkey
+2022.0844	Czech Republic	Poland
+2022.0844	United Kingdom	France
+2022.0844	Spain	France
+2022.08516	USA	Chile
+2022.08702	France	Portugal
+2022.08703	USA	Switzerland
+2022.08703	USA	Indonesia
+2022.08703	USA	Brazil
+2022.08703	France	Portugal
+2022.08703	France	Netherlands
+2022.0870400000001	USA	Italy
+2022.0870400000001	United Kingdom	Japan
+2022.0870400000001	France	Slovenia
+2022.0870400000001	France	India
+2022.0870400000001	France	Netherlands
+2022.0870400000001	France	Portugal
+2022.0870400000001	USA	Sweden
+2022.08705	United Kingdom	USA
+2022.08705	Spain	Portugal
+2022.08705	France	United Kingdom
+2022.08705	France	Spain
+2022.08705	France	Germany
+2022.08705	France	Netherlands
+2022.08705	Switzerland	Iran
+2022.08705	USA	Paraguay
+2022.08705	Brazil	Paraguay
+2022.08706	Russia	Japan
+2022.08706	USA	Mexico
+2022.08706	USA	Moldova
+2022.08706	Italy	Germany
+2022.08706	USA	Costa Rica
+2022.08706	USA	Brazil
+2022.08706	USA	Iran
+2022.08706	USA	Brazil
+2022.08706	United Kingdom	Austria
+2022.08706	France	Portugal
+2022.08706	United Kingdom	Romania
+2022.08706	United Kingdom	Iran
+2022.08706	Italy	Spain
+2022.08706	Spain	Portugal
+2022.08706	Spain	Romania
+2022.08706	Spain	Italy
+2022.08706	Argentina	Brazil
+2022.08706	Spain	Italy
+2022.08706	Brazil	Germany
+2022.08706	United Kingdom	Romania
+2022.08706	France	Austria
+2022.08706	France	Germany
+2022.08706	USA	Peru
+2022.08706	USA	Germany
+2022.08706	USA	Germany
+2022.08706	Austria	Paraguay
+2022.08706	USA	Brazil
+2022.08706	USA	Romania
+2022.08706	Germany	Austria
+2022.08706	USA	Germany
+2022.08707	Mexico	Germany
+2022.08707	USA	Costa Rica
+2022.08707	USA	Mexico
+2022.08707	France	Israel
+2022.08707	USA	Argentina
+2022.08707	United Kingdom	Romania
+2022.08707	United Kingdom	Switzerland
+2022.08707	Italy	Poland
+2022.08707	France	Netherlands
+2022.08707	Turkey	Romania
+2022.08707	Germany	Austria
+2022.08707	Czech Republic	India
+2022.08707	USA	Poland
+2022.08707	USA	Germany
+2022.08707	France	Germany
+2022.08707	Turkey	Japan
+2022.08707	United Kingdom	Romania
+2022.08707	United Kingdom	Ecuador
+2022.08708	USA	Argentina
+2022.08708	USA	Canada
+2022.08708	USA	Sweden
+2022.08708	USA	Mexico
+2022.08708	USA	Czech Republic
+2022.08708	USA	Argentina
+2022.08708	United Kingdom	Italy
+2022.08708	United Kingdom	Italy
+2022.08708	United Kingdom	Germany
+2022.08708	United Kingdom	Italy
+2022.08708	Germany	Lithuania
+2022.08708	Germany	Portugal
+2022.08708	Germany	USA
+2022.08708	United Kingdom	Brazil
+2022.08708	Germany	Netherlands
+2022.08708	Germany	France
+2022.08708	Brazil	Romania
+2022.08708	Germany	Austria
+2022.08708	Australia	Indonesia
+2022.08708	Australia	Japan
+2022.08708	Australia	Brazil
+2022.08708	USA	Belgium
+2022.08708	United Kingdom	Spain
+2022.08708	USA	Italy
+2022.08708	Slovakia	Japan
+2022.08708	France	Germany
+2022.08708	Brazil	Japan
+2022.08708	Belgium	Germany
+2022.08708	Austria	Iran
+2022.08708	Italy	Romania
+2022.08708	France	Italy
+2022.08708	South Africa	Ecuador
+2022.08708	USA	France
+2022.08708	Brazil	Slovakia
+2022.08708	USA	Czech Republic
+2022.08708	Denmark	Czech Republic
+2022.08708	USA	Switzerland
+2022.08709	Peru	USA
+2022.08709	Argentina	Chile
+2022.08709	United Kingdom	Portugal
+2022.08709	Germany	Romania
+2022.08709	USA	Paraguay
+2022.08709	Israel	Romania
+2022.08709	USA	Poland
+2022.08709	USA	Mexico
+2022.08709	USA	Chile
+2022.08709	USA	Germany
+2022.08709	Italy	Sweden
+2022.08709	Germany	Czech Republic
+2022.08709	Turkey	Germany
+2022.08709	Turkey	Romania
+2022.08709	Denmark	Czech Republic
+2022.0871	Slovakia	Romania
+2022.0871	Turkey	Spain
+2022.0871	USA	Czech Republic
+2022.08711	United Kingdom	Portugal
+2022.08711	France	Germany
+2022.08711	Poland	Slovakia
+2022.08711	Spain	Germany
+2022.08712	United Kingdom	Poland
+2022.08712	Germany	Romania
+2022.08712	Germany	Poland
+2022.08712	United Kingdom	Croatia
+2022.08712	United Kingdom	Brazil
+2022.0871300000001	United Kingdom	Portugal
+2022.0871300000001	United Kingdom	Belgium
+2022.0871300000001	United Kingdom	Germany
+2022.08714	USA	France
+2022.08821	Germany	Austria
+2022.08976	USA	Indonesia
+2022.08976	Spain	Netherlands
+2022.08978	USA	Colombia
+2022.08978	United Kingdom	Czech Republic
+2022.08978	United Kingdom	Poland
+2022.08978	France	Germany
+2022.08978	USA	Germany
+2022.08979	United Kingdom	Spain
+2022.08979	United Kingdom	Germany
+2022.08979	USA	Germany
+2022.08979	USA	Brazil
+2022.08979	France	Indonesia
+2022.08979	Spain	Thailand
+2022.08979	USA	Indonesia
+2022.08979	USA	Chile
+2022.0898	United Kingdom	USA
+2022.0898	USA	Japan
+2022.0898	USA	Paraguay
+2022.0898	USA	Ecuador
+2022.0898	USA	Indonesia
+2022.0898	United Kingdom	Romania
+2022.0898	Spain	Peru
+2022.0898	USA	Germany
+2022.0898	USA	Poland
+2022.0898	Brazil	Canada
+2022.0898	United Kingdom	Poland
+2022.08981	USA	Mexico
+2022.08981	United Kingdom	Germany
+2022.08981	United Kingdom	Germany
+2022.08981	Australia	Sweden
+2022.08981	USA	Chile
+2022.08981	India	Indonesia
+2022.08981	USA	Peru
+2022.08981	Germany	Netherlands
+2022.08981	Germany	Luxembourg
+2022.08981	Austria	Czech Republic
+2022.08981	Germany	Brazil
+2022.08981	Brazil	Germany
+2022.08981	Brazil	USA
+2022.08981	Spain	Germany
+2022.08981	USA	Germany
+2022.08981	Netherlands	Slovenia
+2022.08981	France	Spain
+2022.08981	Portugal	Brazil
+2022.08981	France	Slovenia
+2022.08981	United Kingdom	Lithuania
+2022.08982	USA	Peru
+2022.08982	USA	Colombia
+2022.08982	Germany	USA
+2022.08982	United Kingdom	Germany
+2022.08982	USA	Chile
+2022.08982	USA	Poland
+2022.08982	United Kingdom	Norway
+2022.08982	Spain	Germany
+2022.08982	France	Netherlands
+2022.08982	Germany	United Kingdom
+2022.08982	Germany	Brazil
+2022.08982	USA	Brazil
+2022.08982	United Kingdom	Estonia
+2022.08982	Turkey	Germany
+2022.08982	Germany	Iran
+2022.08982	France	Romania
+2022.08982	Denmark	Croatia
+2022.08982	Spain	Germany
+2022.08982	USA	Belgium
+2022.08983	United Kingdom	Germany
+2022.08983	Spain	Italy
+2022.08983	Denmark	Netherlands
+2022.08983	USA	Brazil
+2022.08983	USA	Switzerland
+2022.08983	France	Netherlands
+2022.08984	Brazil	Bangladesh
+2022.08984	United Kingdom	Canada
+2022.08984	USA	Brazil
+2022.08984	USA	Chile
+2022.08984	Brazil	Germany
+2022.08984	Brazil	Chile
+2022.08984	USA	Colombia
+2022.08984	USA	Czech Republic
+2022.08985	Germany	Switzerland
+2022.08985	United Kingdom	USA
+2022.08985	United Kingdom	Spain
+2022.08985	United Kingdom	Poland
+2022.08985	United Kingdom	Spain
+2022.08985	USA	Poland
+2022.08985	USA	Argentina
+2022.08986	United Kingdom	Chile
+2022.08986	Romania	Poland
+2022.08986	United Kingdom	Spain
+2022.08986	United Kingdom	Czech Republic
+2022.08987	Germany	Switzerland
+2022.08987	Germany	Czech Republic
+2022.08987	Germany	Poland
+2022.08988	South Africa	Germany
+2022.09119	United Kingdom	Spain
+2022.09251	USA	Croatia
+2022.09252	France	Poland
+2022.09252	France	United Kingdom
+2022.09252	Canada	Ireland
+2022.09253	USA	Brazil
+2022.09253	Brazil	Indonesia
+2022.09253	Italy	Israel
+2022.09253	Italy	Spain
+2022.09253	Spain	Czech Republic
+2022.09253	India	Belgium
+2022.09253	USA	Poland
+2022.09253	Italy	Austria
+2022.09253	USA	Brazil
+2022.09254	United Kingdom	Greece
+2022.09254	USA	Germany
+2022.09254	Italy	Romania
+2022.09254	Italy	Brazil
+2022.09254	Spain	Peru
+2022.09254	Peru	Czech Republic
+2022.09254	Brazil	Netherlands
+2022.09254	Brazil	Bangladesh
+2022.09254	USA	Germany
+2022.09254	France	Portugal
+2022.09254	USA	Germany
+2022.09254	Austria	Brazil
+2022.09254	Turkey	Portugal
+2022.09255	USA	Israel
+2022.09255	USA	Argentina
+2022.09255	United Kingdom	Italy
+2022.09255	United Kingdom	Italy
+2022.09255	United Kingdom	Belgium
+2022.09255	United Kingdom	Germany
+2022.09255	Italy	Netherlands
+2022.09255	Spain	Netherlands
+2022.09255	Spain	Germany
+2022.09255	Botswana	Austria
+2022.09255	Austria	Sweden
+2022.09255	USA	Germany
+2022.09255	USA	Israel
+2022.09255	USA	Poland
+2022.09255	USA	South Korea
+2022.09255	Brazil	Indonesia
+2022.09255	France	Switzerland
+2022.09255	Norway	Denmark
+2022.09255	France	Turkey
+2022.09255	Iran	Luxembourg
+2022.09255	USA	Germany
+2022.09255	USA	Czech Republic
+2022.09256	USA	Mexico
+2022.09256	Argentina	Iran
+2022.09256	USA	Israel
+2022.09256	USA	Mexico
+2022.09256	United Kingdom	Spain
+2022.09256	United Kingdom	Switzerland
+2022.09256	Australia	Germany
+2022.09256	France	Germany
+2022.09256	USA	Canada
+2022.09256	USA	Peru
+2022.09256	USA	Ecuador
+2022.09256	USA	Argentina
+2022.09256	Mexico	Brazil
+2022.09256	Israel	Greece
+2022.09256	Germany	Greece
+2022.09256	Sweden	Norway
+2022.09256	Turkey	Spain
+2022.09256	Italy	Poland
+2022.09256	Italy	Germany
+2022.09256	Norway	Poland
+2022.09256	Denmark	Estonia
+2022.09256	France	Belgium
+2022.09256	Turkey	Italy
+2022.09257	USA	Argentina
+2022.09257	USA	Peru
+2022.09257	USA	Greece
+2022.09257	USA	United Kingdom
+2022.09257	Brazil	Israel
+2022.09257	Denmark	United Kingdom
+2022.09258	Brazil	Turkey
+2022.09258	United Kingdom	Norway
+2022.09258	United Kingdom	Switzerland
+2022.09258	USA	Argentina
+2022.09258	Argentina	Mexico
+2022.09258	USA	Argentina
+2022.09259	Italy	Peru
+2022.09259	United Kingdom	Germany
+2022.09259	United Kingdom	Greece
+2022.09259	USA	Mexico
+2022.0926	United Kingdom	Germany
+2022.0926	United Kingdom	Portugal
+2022.0926	USA	Belgium
+2022.0926	United Kingdom	Czech Republic
+2022.0926	USA	Peru
+2022.09261	United Kingdom	Germany
+2022.09262	Netherlands	Germany
+2022.09262	United Kingdom	Poland
+2022.09524	France	Poland
+2022.09525	USA	Canada
+2022.09526	Costa Rica	Canada
+2022.09526	Belgium	Netherlands
+2022.09526	Argentina	Colombia
+2022.09526	Germany	Netherlands
+2022.09527	USA	Poland
+2022.09528	USA	Spain
+2022.09528	USA	South Korea
+2022.09528	USA	Brazil
+2022.09528	USA	Israel
+2022.09528	Sweden	Slovakia
+2022.09528	USA	Argentina
+2022.09528	Germany	Poland
+2022.09528	USA	South Korea
+2022.09529	Sweden	Germany
+2022.09529	USA	Brazil
+2022.09529	USA	Germany
+2022.09529	USA	Germany
+2022.09529	Germany	Israel
+2022.09529	Australia	India
+2022.09529	Germany	Poland
+2022.09529	Germany	Czech Republic
+2022.09529	USA	France
+2022.09529	France	Brazil
+2022.09529	France	Belgium
+2022.09529	United Kingdom	Germany
+2022.0953	Brazil	Greece
+2022.0953	Morocco	Poland
+2022.0953	USA	Argentina
+2022.0953	USA	Brazil
+2022.0953	USA	Mexico
+2022.0953	USA	United Kingdom
+2022.0953	United Kingdom	Spain
+2022.0953	United Kingdom	Germany
+2022.0953	Brazil	Greece
+2022.0953	USA	Brazil
+2022.0953	United Kingdom	Belgium
+2022.0953	Iran	India
+2022.0953	France	Finland
+2022.09531	USA	Colombia
+2022.09531	USA	Mexico
+2022.09531	France	United Kingdom
+2022.09531	USA	Mexico
+2022.09531	Brazil	Argentina
+2022.09531	USA	Brazil
+2022.09531	Germany	Greece
+2022.09532	United Kingdom	Estonia
+2022.09532	United Kingdom	Greece
+2022.09532	USA	Colombia
+2022.09532	USA	Germany
+2022.09533	United Kingdom	Brazil
+2022.09533	USA	Colombia
+2022.09535	USA	Colombia
+2022.09535	United Kingdom	Israel
+2022.09536	United Kingdom	Spain
+2022.09799	USA	Brazil
+2022.09799	Belgium	Netherlands
+2022.09799	France	Netherlands
+2022.098	USA	Colombia
+2022.09801	USA	Argentina
+2022.09801	USA	Brazil
+2022.09801	USA	Argentina
+2022.09801	United Kingdom	Italy
+2022.09801	France	Germany
+2022.09802	USA	Brazil
+2022.09802	USA	Peru
+2022.09802	Spain	Germany
+2022.09802	France	Netherlands
+2022.09802	USA	Germany
+2022.09802	USA	Brazil
+2022.09803	USA	Brazil
+2022.09803	United Kingdom	Netherlands
+2022.09803	United Kingdom	Belgium
+2022.09803	Spain	United Kingdom
+2022.09803	Germany	Netherlands
+2022.09803	USA	Switzerland
+2022.09803	USA	Colombia
+2022.09804	USA	Mexico
+2022.09804	USA	Chile
+2022.09804	USA	Brazil
+2022.09804	Italy	Netherlands
+2022.09804	Russia	Slovakia
+2022.09804	USA	Argentina
+2022.09804	USA	United Kingdom
+2022.09804	Denmark	Sweden
+2022.09804	Spain	Netherlands
+2022.09804	United Kingdom	Netherlands
+2022.09805	USA	Spain
+2022.09805	United Kingdom	Switzerland
+2022.09805	USA	Argentina
+2022.09805	USA	Romania
+2022.09805	Denmark	Italy
+2022.09806	Chile	Brazil
+2022.09807	United Kingdom	Germany
+2022.09807	United Kingdom	Greece
+2022.09807	Peru	Israel
+2022.09808	USA	Brazil
+2022.09808	United Kingdom	Norway
+2022.10073	USA	Indonesia
+2022.10073	USA	Canada
+2022.10073	USA	Chile
+2022.10073	France	Switzerland
+2022.10073	Netherlands	Portugal
+2022.10074	France	Netherlands
+2022.10075	Brazil	Chile
+2022.10075	USA	Netherlands
+2022.10075	USA	Japan
+2022.10075	United Kingdom	France
+2022.10075	USA	India
+2022.10075	France	Netherlands
+2022.10075	France	Belgium
+2022.10075	USA	Germany
+2022.10076	Spain	Netherlands
+2022.10076	United Kingdom	Poland
+2022.10076	United Kingdom	Germany
+2022.10076	Spain	France
+2022.10076	France	Portugal
+2022.10076	USA	Germany
+2022.10076	Austria	Thailand
+2022.10076	Germany	Chile
+2022.10076	Turkey	Switzerland
+2022.10076	United Kingdom	France
+2022.10076	Turkey	Netherlands
+2022.10077	USA	Netherlands
+2022.10077	USA	Brazil
+2022.10077	USA	Brazil
+2022.10077	France	Israel
+2022.10077	Spain	Netherlands
+2022.10077	Spain	South Korea
+2022.10077	USA	Poland
+2022.10077	Sweden	Portugal
+2022.10077	France	Lithuania
+2022.10078	USA	South Korea
+2022.10078	USA	South Korea
+2022.10078	USA	Portugal
+2022.10078	USA	Mexico
+2022.10078	USA	Indonesia
+2022.10078	United Kingdom	Switzerland
+2022.10078	United Kingdom	Portugal
+2022.10078	USA	Czech Republic
+2022.10078	Portugal	Netherlands
+2022.10078	United Kingdom	Czech Republic
+2022.10078	Italy	Norway
+2022.10079	Argentina	Brazil
+2022.10079	USA	Canada
+2022.10079	United Kingdom	Portugal
+2022.10079	USA	Austria
+2022.10079	Poland	Ireland
+2022.10079	USA	Argentina
+2022.10079	Brazil	Chile
+2022.10079	USA	Poland
+2022.10079	USA	Canada
+2022.10081	Poland	Norway
+2022.10081	Denmark	Germany
+2022.10082	United Kingdom	India
+2022.10082	Poland	United Kingdom
+2022.10083	USA	United Kingdom
+2022.10083	United Kingdom	Czech Republic
+2022.10302	Germany	France
+2022.10345	France	Germany
+2022.10347	France	Portugal
+2022.10347	United Kingdom	Germany
+2022.10348	USA	Indonesia
+2022.10348	USA	France
+2022.10348	United Kingdom	Romania
+2022.10348	Spain	France
+2022.10348	Spain	France
+2022.10348	Germany	Denmark
+2022.10348	United Kingdom	Poland
+2022.10348	Belgium	Portugal
+2022.10349	USA	Brazil
+2022.10349	USA	Peru
+2022.10349	USA	Brazil
+2022.10349	USA	Chile
+2022.10349	United Kingdom	Germany
+2022.10349	Spain	France
+2022.10349	Spain	France
+2022.10349	Brazil	Switzerland
+2022.10349	France	Portugal
+2022.10349	USA	Russia
+2022.10349	USA	Argentina
+2022.10349	USA	Brazil
+2022.10349	Turkey	Finland
+2022.1035	United Kingdom	Germany
+2022.1035	USA	Mexico
+2022.1035	Mexico	Sweden
+2022.1035	Sweden	Netherlands
+2022.1035	France	Switzerland
+2022.1035	USA	Costa Rica
+2022.1035	USA	Netherlands
+2022.1035	USA	Brazil
+2022.1035	USA	Brazil
+2022.1035	USA	Brazil
+2022.1035	USA	Peru
+2022.1035	United Kingdom	Italy
+2022.1035	United Kingdom	Netherlands
+2022.1035	Spain	France
+2022.1035	Spain	Netherlands
+2022.1035	Spain	Chile
+2022.1035	Spain	Italy
+2022.1035	Spain	Canada
+2022.1035	Spain	France
+2022.1035	Spain	Italy
+2022.1035	Czech Republic	Slovakia
+2022.1035	United Kingdom	Israel
+2022.1035	Germany	Denmark
+2022.1035	Germany	Czech Republic
+2022.1035	USA	Germany
+2022.1035	USA	Germany
+2022.1035	Germany	Austria
+2022.1035	USA	Brazil
+2022.1035	Germany	Netherlands
+2022.10351	USA	Brazil
+2022.10351	Morocco	Poland
+2022.10351	United Kingdom	Germany
+2022.10351	USA	South Korea
+2022.10351	USA	Brazil
+2022.10351	USA	Brazil
+2022.10351	USA	Brazil
+2022.10351	France	Italy
+2022.10351	USA	Peru
+2022.10351	United Kingdom	Italy
+2022.10351	United Kingdom	France
+2022.10351	Italy	France
+2022.10351	Spain	Switzerland
+2022.10351	Spain	France
+2022.10351	Spain	Germany
+2022.10351	Spain	France
+2022.10351	Spain	Poland
+2022.10351	Germany	Indonesia
+2022.10351	Australia	Costa Rica
+2022.10351	USA	France
+2022.10351	USA	Czech Republic
+2022.10351	USA	Poland
+2022.10351	USA	France
+2022.10351	USA	Netherlands
+2022.10351	USA	Netherlands
+2022.10351	Portugal	Spain
+2022.10351	France	Switzerland
+2022.10351	USA	Czech Republic
+2022.10351	Brazil	Netherlands
+2022.10351	Turkey	Denmark
+2022.10351	USA	Brazil
+2022.10351	USA	Czech Republic
+2022.10352	USA	Brazil
+2022.10352	Germany	Czech Republic
+2022.10352	Greece	Netherlands
+2022.10352	France	Indonesia
+2022.10352	Germany	Netherlands
+2022.10352	Germany	France
+2022.10352	Germany	Romania
+2022.10352	Germany	Poland
+2022.10352	France	Germany
+2022.10352	USA	France
+2022.10352	USA	Colombia
+2022.10352	USA	Poland
+2022.10352	France	Czech Republic
+2022.10352	Denmark	France
+2022.10352	Germany	Italy
+2022.1035200000001	USA	Brazil
+2022.1035200000001	USA	France
+2022.1035200000001	USA	Portugal
+2022.1035200000001	USA	Brazil
+2022.1035200000001	United Kingdom	Germany
+2022.1035200000001	USA	France
+2022.1035200000001	Spain	Czech Republic
+2022.1035200000001	France	Poland
+2022.1035200000001	Italy	Poland
+2022.1035200000001	France	Switzerland
+2022.1035200000001	France	Germany
+2022.10353	USA	Brazil
+2022.10353	Peru	Chile
+2022.10353	USA	Spain
+2022.10353	United Kingdom	France
+2022.10353	USA	France
+2022.10353	United Kingdom	Portugal
+2022.10353	United Kingdom	Portugal
+2022.10353	USA	Argentina
+2022.10353	USA	Brazil
+2022.10353	USA	France
+2022.10353	USA	Ireland
+2022.10353	Germany	Czech Republic
+2022.10353	Brazil	USA
+2022.10353	USA	France
+2022.10353	USA	Brazil
+2022.10353	USA	Peru
+2022.10353	USA	France
+2022.10353	France	Brazil
+2022.10354	USA	Peru
+2022.10354	United Kingdom	Poland
+2022.10354	United Kingdom	France
+2022.10354	USA	Brazil
+2022.10354	Colombia	Brazil
+2022.10354	USA	Mexico
+2022.10354	USA	Brazil
+2022.10354	USA	Netherlands
+2022.10354	USA	Argentina
+2022.10355	USA	South Korea
+2022.10355	United Kingdom	Brazil
+2022.10355	United Kingdom	Poland
+2022.10355	United Kingdom	France
+2022.10356	USA	Norway
+2022.10356	United Kingdom	Germany
+2022.10356	Israel	Austria
+2022.10357	Portugal	France
+2022.10357	Italy	Sweden
+2022.10357	United Kingdom	Romania
+2022.10357	United Kingdom	Switzerland
+2022.10357	United Kingdom	France
+2022.10357	United Kingdom	Poland
+2022.10358	United Kingdom	Germany
+2022.10621	France	Czech Republic
+2022.10621	Belgium	Netherlands
+2022.10621	Belgium	Poland
+2022.10621	France	Italy
+2022.10621	France	Ireland
+2022.10622	USA	Switzerland
+2022.10622	USA	Indonesia
+2022.10622	Denmark	Croatia
+2022.10622	France	Germany
+2022.10622	France	Israel
+2022.10622	Colombia	Dominican Republic
+2022.10623	USA	Canada
+2022.10623	USA	Chile
+2022.10623	United Kingdom	Romania
+2022.10623	France	Switzerland
+2022.10623	USA	Brazil
+2022.10623	USA	Brazil
+2022.10623	USA	Austria
+2022.10623	USA	Brazil
+2022.10623	Germany	Netherlands
+2022.10624	United Kingdom	Romania
+2022.10624	USA	Brazil
+2022.10624	USA	Germany
+2022.10624	Italy	Indonesia
+2022.10624	France	Portugal
+2022.10624	United Kingdom	Romania
+2022.10624	United Kingdom	Romania
+2022.10624	United Kingdom	Italy
+2022.10624	Spain	Germany
+2022.10624	France	Spain
+2022.10624	Austria	Spain
+2022.10624	USA	Portugal
+2022.10624	USA	Austria
+2022.10624	USA	Brazil
+2022.10624	Brazil	Germany
+2022.10624	USA	Germany
+2022.10624	Netherlands	Germany
+2022.10624	United Kingdom	Belgium
+2022.10625	Greece	Czech Republic
+2022.10625	USA	Brazil
+2022.10625	USA	Turkey
+2022.10625	USA	Portugal
+2022.10625	USA	Canada
+2022.10625	USA	Chile
+2022.10625	United Kingdom	Portugal
+2022.10625	Spain	USA
+2022.10625	Spain	Slovakia
+2022.10625	Spain	Portugal
+2022.10625	Spain	Slovakia
+2022.10625	Spain	Italy
+2022.10625	Germany	Italy
+2022.10625	USA	Argentina
+2022.10625	United Kingdom	Turkey
+2022.10625	United Kingdom	Brazil
+2022.10625	USA	Israel
+2022.10625	France	Brazil
+2022.10625	United Kingdom	Switzerland
+2022.10625	France	Slovakia
+2022.10626	USA	Ireland
+2022.10626	Czech Republic	USA
+2022.10626	United Kingdom	Brazil
+2022.10626	Germany	Brazil
+2022.10626	Chile	Germany
+2022.10626	USA	Turkey
+2022.10626	Italy	Israel
+2022.10626	Brazil	Germany
+2022.10626	Turkey	Israel
+2022.10626	USA	Brazil
+2022.10627	United Kingdom	Italy
+2022.10627	USA	Poland
+2022.10627	USA	Brazil
+2022.10627	USA	Brazil
+2022.10628	USA	Argentina
+2022.10628	USA	Brazil
+2022.10628	USA	Brazil
+2022.10629	USA	Brazil
+2022.10629	USA	Israel
+2022.10629	USA	Mexico
+2022.10629	Brazil	Chile
+2022.1063	United Kingdom	Germany
+2022.1063	United Kingdom	Poland
+2022.10631	United Kingdom	Israel
+2022.10631	United Kingdom	Portugal
+2022.10631	United Kingdom	Romania
+2022.10632	United Kingdom	Italy
+2022.10894	France	Netherlands
+2022.10895	France	Belgium
+2022.10896	USA	United Kingdom
+2022.10896	USA	Chile
+2022.10897	USA	Romania
+2022.10897	USA	Slovakia
+2022.10897	Spain	Poland
+2022.10897	France	Vietnam
+2022.10898	USA	Chile
+2022.10898	USA	Chile
+2022.10898	USA	Canada
+2022.10898	United Kingdom	Germany
+2022.10898	Spain	Belgium
+2022.10898	USA	Costa Rica
+2022.10898	USA	Brazil
+2022.10898	USA	Austria
+2022.10898	Germany	Austria
+2022.10898	United Kingdom	Germany
+2022.10898	Germany	Austria
+2022.10899	USA	Netherlands
+2022.10899	USA	United Kingdom
+2022.10899	USA	Chile
+2022.10899	USA	Brazil
+2022.10899	USA	Spain
+2022.10899	United Kingdom	Romania
+2022.10899	Italy	Netherlands
+2022.10899	Italy	Netherlands
+2022.10899	Germany	Netherlands
+2022.10899	USA	Mexico
+2022.10899	USA	Germany
+2022.10899	USA	Slovenia
+2022.10899	Germany	Austria
+2022.10899	Germany	Spain
+2022.10899	Brazil	Lithuania
+2022.10899	Belgium	Netherlands
+2022.10899	USA	Spain
+2022.10899	USA	Austria
+2022.109	USA	United Kingdom
+2022.109	United Kingdom	Switzerland
+2022.109	United Kingdom	Italy
+2022.109	USA	Chile
+2022.109	USA	Argentina
+2022.109	Italy	Germany
+2022.109	Brazil	Spain
+2022.109	Brazil	Slovakia
+2022.109	Denmark	Italy
+2022.109	United Kingdom	Italy
+2022.10901	United Kingdom	Poland
+2022.10901	Germany	Netherlands
+2022.10901	USA	Chile
+2022.10901	USA	Netherlands
+2022.10902	USA	Poland
+2022.10902	Mexico	Russia
+2022.10903	Germany	Italy
+2022.10903	France	Switzerland
+2022.10903	United Kingdom	USA
+2022.10903	USA	United Kingdom
+2022.10904	Netherlands	Brazil
+2022.10904	United Kingdom	Brazil
+2022.10904	United Kingdom	Brazil
+2022.10904	United Kingdom	Germany
+2022.11169	USA	Chile
+2022.1117	USA	Netherlands
+2022.1117	Italy	United Kingdom
+2022.1117	Germany	Italy
+2022.1117	France	Switzerland
+2022.1117	France	Georgia
+2022.11171	Sweden	Lithuania
+2022.11171	USA	Germany
+2022.11171	Brazil	Netherlands
+2022.11171	Russia	Indonesia
+2022.11171	USA	Argentina
+2022.11172	USA	Indonesia
+2022.11172	Australia	United Kingdom
+2022.11172	France	Netherlands
+2022.11172	France	Germany
+2022.11172	USA	Germany
+2022.11172	France	Germany
+2022.11172	Turkey	Germany
+2022.11172	France	Germany
+2022.11172	Netherlands	Poland
+2022.11173	United Kingdom	Poland
+2022.11173	United Kingdom	Italy
+2022.11173	Australia	USA
+2022.11173	Brazil	Chile
+2022.11173	Germany	Netherlands
+2022.11173	Poland	Germany
+2022.11173	France	Brazil
+2022.11173	USA	Germany
+2022.11174	USA	United Kingdom
+2022.11174	USA	Mexico
+2022.11174	Spain	Netherlands
+2022.11174	United Kingdom	Italy
+2022.11174	France	Germany
+2022.11175	Greece	Chile
+2022.11175	United Kingdom	USA
+2022.11175	United Kingdom	Netherlands
+2022.11175	USA	Mexico
+2022.11175	USA	Mexico
+2022.11176	USA	Peru
+2022.11176	USA	Chile
+2022.11177	USA	Mexico
+2022.11178	Czech Republic	United Kingdom
+2022.11443	Belgium	Spain
+2022.11443	Germany	Romania
+2022.11444	USA	Indonesia
+2022.11444	Italy	United Kingdom
+2022.11444	United Kingdom	Switzerland
+2022.11444	Spain	Italy
+2022.11444	France	Belgium
+2022.11444	Germany	Croatia
+2022.11444	Germany	Belgium
+2022.11444	France	Netherlands
+2022.11445	USA	Austria
+2022.11445	Netherlands	Turkey
+2022.11446	USA	Indonesia
+2022.11446	USA	Mexico
+2022.11446	USA	Mexico
+2022.11446	United Kingdom	Romania
+2022.11446	United Kingdom	Italy
+2022.11446	Spain	Portugal
+2022.11446	Poland	France
+2022.11446	France	Belgium
+2022.11446	USA	Germany
+2022.11446	USA	Colombia
+2022.11446	Germany	USA
+2022.11446	France	Netherlands
+2022.11447	USA	Netherlands
+2022.11447	United Kingdom	Israel
+2022.11447	USA	Turkey
+2022.11447	USA	Argentina
+2022.11447	Brazil	Germany
+2022.11447	Turkey	Germany
+2022.11447	France	Turkey
+2022.11447	USA	Turkey
+2022.11447	Portugal	Netherlands
+2022.11448	USA	Mexico
+2022.11448	United Kingdom	Germany
+2022.11448	USA	Israel
+2022.11448	United Kingdom	Germany
+2022.11448	United Kingdom	Romania
+2022.11448	Brazil	Netherlands
+2022.11448	USA	Colombia
+2022.11448	USA	Turkey
+2022.11448	France	Poland
+2022.11448	Turkey	Netherlands
+2022.11449	USA	Mexico
+2022.11449	United Kingdom	Italy
+2022.11449	USA	Romania
+2022.11449	USA	Brazil
+2022.11449	Brazil	Denmark
+2022.11449	Turkey	Germany
+2022.11449	Belgium	Netherlands
+2022.1145	Turkey	Germany
+2022.11451	USA	Spain
+2022.11452	United Kingdom	Netherlands
+2022.11454	Italy	Romania
+2022.11716	France	Germany
+2022.11717	France	Germany
+2022.11717	France	United Kingdom
+2022.11717	Germany	Italy
+2022.11719	United Kingdom	Romania
+2022.11719	USA	Belgium
+2022.11719	United Kingdom	Italy
+2022.11719	France	USA
+2022.11719	USA	Germany
+2022.11719	Turkey	United Kingdom
+2022.1172	USA	United Kingdom
+2022.1172	Costa Rica	Croatia
+2022.1172	USA	Chile
+2022.1172	Spain	Slovenia
+2022.1172	USA	Chile
+2022.1172	France	Switzerland
+2022.1172	India	Pakistan
+2022.1172	Brazil	Argentina
+2022.1172100000001	Spain	Germany
+2022.1172100000001	USA	Netherlands
+2022.1172100000001	Germany	Czech Republic
+2022.1172100000001	Portugal	Czech Republic
+2022.11722	USA	Netherlands
+2022.11722	USA	Brazil
+2022.11722	United Kingdom	Lithuania
+2022.11722	United Kingdom	Spain
+2022.11722	Germany	Romania
+2022.11722	Norway	Poland
+2022.11722	United Kingdom	Germany
+2022.11723	USA	Spain
+2022.11723	United Kingdom	Germany
+2022.11723	Brazil	Romania
+2022.11727	United Kingdom	Netherlands
+2022.11727	Italy	Germany
+2022.11727	United Kingdom	Germany
+2022.11992	USA	United Kingdom
+2022.11992	France	Netherlands
+2022.11992	France	Portugal
+2022.11992	France	Indonesia
+2022.11993	Switzerland	Italy
+2022.11994	USA	Brazil
+2022.11994	USA	Brazil
+2022.11994	USA	Mexico
+2022.11994	USA	Chile
+2022.11995	USA	Ireland
+2022.11995	USA	Chile
+2022.11995	Italy	Czech Republic
+2022.11995	Brazil	Argentina
+2022.11995	Germany	Chile
+2022.11995	USA	Netherlands
+2022.11995	USA	France
+2022.11995	Germany	Spain
+2022.11995	France	Portugal
+2022.11996	USA	Peru
+2022.11996	United Kingdom	Switzerland
+2022.11996	USA	Argentina
+2022.11996	USA	Estonia
+2022.11996	Italy	Norway
+2022.11996	USA	Germany
+2022.11996	USA	Chile
+2022.11997	United Kingdom	Belgium
+2022.11997	USA	United Kingdom
+2022.11997	Mexico	Brazil
+2022.11997	USA	Chile
+2022.11998	Brazil	Estonia
+2022.11999	Germany	Netherlands
+2022.12	USA	Israel
+2022.12001	United Kingdom	USA
+2022.12265	France	Germany
+2022.12265	France	Spain
+2022.12265	Belgium	Singapore
+2022.12266	USA	Germany
+2022.12266	Romania	Slovakia
+2022.12266	Switzerland	Italy
+2022.12266	USA	Brazil
+2022.12267	United Kingdom	Poland
+2022.12267	Brazil	Indonesia
+2022.12267	Spain	Italy
+2022.12267	Spain	Netherlands
+2022.12267	USA	Poland
+2022.12267	USA	Poland
+2022.12267	USA	Brazil
+2022.12268	Turkey	Netherlands
+2022.12268	USA	France
+2022.12268	France	Israel
+2022.12268	USA	Israel
+2022.12268	USA	Indonesia
+2022.12268	Chile	Mexico
+2022.12268	Peru	Mexico
+2022.12268	United Kingdom	France
+2022.12268	United Kingdom	Czech Republic
+2022.12268	Italy	Portugal
+2022.12268	Australia	Switzerland
+2022.12268	Germany	Malaysia
+2022.12269	United Kingdom	Israel
+2022.12269	Austria	Germany
+2022.12269	USA	Poland
+2022.12269	USA	Germany
+2022.12269	USA	Turkey
+2022.12269	USA	Portugal
+2022.12269	USA	Israel
+2022.12269	United Kingdom	Poland
+2022.12269	United Kingdom	Poland
+2022.12269	Belgium	Netherlands
+2022.12269	USA	Germany
+2022.12269	Italy	Japan
+2022.12269	USA	Brazil
+2022.12269	Portugal	Germany
+2022.12269	USA	Brazil
+2022.12269	United Kingdom	Turkey
+2022.1227	USA	Netherlands
+2022.1227	United Kingdom	France
+2022.1227	United Kingdom	Czech Republic
+2022.1227	United Kingdom	Germany
+2022.1227	Switzerland	Singapore
+2022.1227	Germany	Romania
+2022.1227	France	Israel
+2022.1227	Australia	Singapore
+2022.1227	USA	Mexico
+2022.1227	France	Germany
+2022.1227	Switzerland	Czech Republic
+2022.1227	Denmark	Spain
+2022.1227	USA	Germany
+2022.12271	Brazil	Peru
+2022.12271	USA	Mexico
+2022.12271	USA	Costa Rica
+2022.12271	USA	France
+2022.12271	United Kingdom	Germany
+2022.12271	United Kingdom	Brazil
+2022.12271	United Kingdom	Germany
+2022.12271	United Kingdom	Germany
+2022.12271	Czech Republic	Germany
+2022.12271	Australia	Germany
+2022.12271	USA	Brazil
+2022.12271	USA	Colombia
+2022.12271	Argentina	Peru
+2022.12271	USA	Japan
+2022.12271	USA	Turkey
+2022.12271	USA	Indonesia
+2022.12272	Morocco	Germany
+2022.12272	United Kingdom	Poland
+2022.12272	USA	Germany
+2022.12273	Brazil	Peru
+2022.12273	France	Israel
+2022.12273	United Kingdom	Czech Republic
+2022.12274	United Kingdom	Lithuania
+2022.12274	Poland	Germany
+2022.12274	United Kingdom	Germany
+2022.12274	Germany	Poland
+2022.12275	Germany	Brazil
+2022.1254	USA	Indonesia
+2022.1254	Spain	Portugal
+2022.1254	France	Romania
+2022.12541	United Kingdom	Portugal
+2022.12541	Brazil	Chile
+2022.12541	Spain	Slovenia
+2022.12541	France	Italy
+2022.12541	Brazil	Germany
+2022.12541	Turkey	Romania
+2022.12542	USA	Romania
+2022.12542	USA	Germany
+2022.12542	USA	Indonesia
+2022.12542	USA	Germany
+2022.12542	Germany	Austria
+2022.12542	USA	Indonesia
+2022.12543	USA	Austria
+2022.12543	USA	Italy
+2022.12543	United Kingdom	Italy
+2022.12543	Poland	Romania
+2022.12543	USA	Austria
+2022.12543	USA	Germany
+2022.12543	USA	Austria
+2022.12543	Brazil	Chile
+2022.12543	Italy	Belgium
+2022.12543	Brazil	Argentina
+2022.12543	Belgium	Poland
+2022.12543	France	Romania
+2022.12543	United Kingdom	Switzerland
+2022.12544	USA	Spain
+2022.12544	USA	Italy
+2022.12544	Peru	Chile
+2022.12544	Germany	Croatia
+2022.12544	Brazil	Romania
+2022.12544	USA	Denmark
+2022.12544	USA	Peru
+2022.12544	USA	Austria
+2022.12544	Norway	Croatia
+2022.12544	United Kingdom	Romania
+2022.12544	Italy	Czech Republic
+2022.12545	United Kingdom	Italy
+2022.12545	United Kingdom	France
+2022.12545	USA	Brazil
+2022.12545	Indonesia	Singapore
+2022.12546	Romania	Germany
+2022.12546	USA	Mexico
+2022.12546	USA	Germany
+2022.12546	Denmark	Norway
+2022.12547	Austria	France
+2022.12547	United Kingdom	Romania
+2022.12547	United Kingdom	Netherlands
+2022.12549	United Kingdom	Romania
+2022.1255	United Kingdom	Brazil
+2022.12811	France	United Kingdom
+2022.12812	France	Switzerland
+2022.12813	Russia	Germany
+2022.12813	Netherlands	Austria
+2022.12813	France	Germany
+2022.12814	France	Germany
+2022.12814	Switzerland	Germany
+2022.12815	USA	Ireland
+2022.12815	Spain	Mexico
+2022.12815	Romania	Slovakia
+2022.12815	Brazil	Austria
+2022.12815	France	Netherlands
+2022.12815	France	Italy
+2022.12815	Czech Republic	Austria
+2022.12816	United Kingdom	Spain
+2022.12816	USA	Poland
+2022.12816	Argentina	USA
+2022.12816	United Kingdom	Switzerland
+2022.12816	Spain	Poland
+2022.12816	Germany	Austria
+2022.12817	United Kingdom	Spain
+2022.12817	USA	Chile
+2022.12817	United Kingdom	Slovakia
+2022.12817	USA	Germany
+2022.12817	Turkey	Netherlands
+2022.12817	Denmark	Italy
+2022.12817	United Kingdom	Germany
+2022.12818	USA	Chile
+2022.12818	Israel	Colombia
+2022.12818	USA	Germany
+2022.12818	Italy	Belgium
+2022.12818	Brazil	Chile
+2022.12818	France	Austria
+2022.12818	Denmark	Italy
+2022.12818	France	Italy
+2022.12819	Brazil	Chile
+2022.1282	USA	Chile
+2022.1282	United Kingdom	Germany
+2022.1282	USA	Colombia
+2022.12821	Germany	Austria
+2022.12822	United Kingdom	Austria
+2022.12824	United Kingdom	Germany
+2022.13085	USA	Indonesia
+2022.13085	United Kingdom	Georgia
+2022.13087	USA	Switzerland
+2022.13087	USA	United Kingdom
+2022.13089	USA	Indonesia
+2022.13089	France	Austria
+2022.13089	France	Germany
+2022.13089	USA	Germany
+2022.13089	USA	Germany
+2022.13089	USA	Austria
+2022.13089	USA	Austria
+2022.1309	USA	Poland
+2022.1309	USA	Germany
+2022.1309	USA	Germany
+2022.1309	Spain	Germany
+2022.13091	USA	United Kingdom
+2022.13091	USA	Mexico
+2022.13091	USA	Chile
+2022.13091	France	Netherlands
+2022.13091	USA	Germany
+2022.13091	Australia	Netherlands
+2022.13091	Spain	Slovakia
+2022.13092	USA	Spain
+2022.13092	USA	Argentina
+2022.13092	USA	Germany
+2022.13092	Germany	Poland
+2022.13093	USA	Canada
+2022.13093	United Kingdom	Netherlands
+2022.13093	USA	Denmark
+2022.13093	USA	Germany
+2022.13093	Indonesia	Singapore
+2022.13094	Brazil	Chile
+2022.13094	USA	Indonesia
+2022.13094	Argentina	USA
+2022.13094	Italy	Malaysia
+2022.13095	Poland	Germany
+2022.13096	France	Germany
+2022.13097	Germany	Romania
+2022.13358	USA	Indonesia
+2022.13362	Spain	Poland
+2022.13362	United Kingdom	Switzerland
+2022.13363	Australia	United Kingdom
+2022.13363	USA	Chile
+2022.13364	Argentina	Chile
+2022.13364	USA	Italy
+2022.13364	Italy	Germany
+2022.13365	Israel	Germany
+2022.13365	USA	Indonesia
+2022.13365	Brazil	Slovakia
+2022.13365	Brazil	Turkey
+2022.13365	USA	Germany
+2022.13366	United Kingdom	Denmark
+2022.13366	United Kingdom	Netherlands
+2022.13366	USA	France
+2022.13366	Germany	Netherlands
+2022.13366	USA	Argentina
+2022.13366	USA	Chile
+2022.13366	USA	Chile
+2022.13366	USA	Chile
+2022.13367	USA	Chile
+2022.13367	USA	Italy
+2022.13635	USA	United Kingdom
+2022.13636	USA	Indonesia
+2022.13636	France	Germany
+2022.13636	United Kingdom	Poland
+2022.13637	USA	Mexico
+2022.13637	Spain	Netherlands
+2022.13638	USA	Indonesia
+2022.13638	Spain	Germany
+2022.13639	Turkey	USA
+2022.13639	Germany	Indonesia
+2022.13639	USA	United Kingdom
+2022.13639	Turkey	Switzerland
+2022.13639	USA	Switzerland
+2022.13639	Italy	Denmark
+2022.1364	USA	Indonesia
+2022.1364	USA	Mexico
+2022.1364	Argentina	Chile
+2022.1364	France	Germany
+2022.1364	Germany	Poland
+2022.1364	USA	Germany
+2022.13641	USA	Chile
+2022.13641	USA	Argentina
+2022.13642	USA	Lithuania
+2022.13643	United Kingdom	Belgium
+2022.13908	France	Netherlands
+2022.13909	Italy	Germany
+2022.1391	France	Indonesia
+2022.1391	France	Indonesia
+2022.1391	France	Germany
+2022.1391	USA	Chile
+2022.1391	USA	Chile
+2022.1391	USA	Chile
+2022.13911	USA	Indonesia
+2022.13911	USA	Chile
+2022.13911	Sweden	Germany
+2022.13911	France	Poland
+2022.13911	USA	Germany
+2022.13912	Colombia	Chile
+2022.13912	USA	Indonesia
+2022.13912	United Kingdom	Switzerland
+2022.13912	United Kingdom	Israel
+2022.13912	Brazil	USA
+2022.13912	Turkey	Denmark
+2022.13913	Germany	Chile
+2022.13913	USA	Canada
+2022.13913	Argentina	Mexico
+2022.13913	USA	Mexico
+2022.13913	Bulgaria	Lithuania
+2022.13913	USA	Netherlands
+2022.13913	Brazil	Germany
+2022.13914	Australia	Indonesia
+2022.13914	Brazil	Netherlands
+2022.13914	USA	Germany
+2022.13914	Brazil	Chile
+2022.13914	Norway	Lithuania
+2022.13914	France	Germany
+2022.13915	Australia	Italy
+2022.13915	Italy	Singapore
+2022.13915	USA	Czech Republic
+2022.13916	United Kingdom	Italy
+2022.13916	USA	Chile
+2022.13918	United Kingdom	Netherlands
+2022.14181	Germany	France
+2022.14182	USA	United Kingdom
+2022.14182	France	Vietnam
+2022.14184	USA	Spain
+2022.14184	USA	Indonesia
+2022.14184	Italy	France
+2022.14184	USA	France
+2022.14184	France	Portugal
+2022.14184	France	Belgium
+2022.14184	Turkey	Germany
+2022.14185	USA	United Kingdom
+2022.14185	Spain	Singapore
+2022.14185	Spain	Germany
+2022.14185	Czech Republic	Germany
+2022.14185	USA	Germany
+2022.14185	Poland	Germany
+2022.14185	USA	Austria
+2022.14186	USA	South Africa
+2022.14186	United Kingdom	France
+2022.14186	Brazil	Chile
+2022.14186	United Kingdom	France
+2022.14186	Spain	France
+2022.14186	Spain	France
+2022.14186	Spain	France
+2022.14186	Germany	Netherlands
+2022.14186	Germany	Switzerland
+2022.14186	USA	Germany
+2022.14186	USA	Mexico
+2022.14187	USA	Mexico
+2022.14187	United Kingdom	France
+2022.14187	USA	Portugal
+2022.14187	USA	Chile
+2022.14187	USA	Indonesia
+2022.14187	Germany	Poland
+2022.14187	USA	Mexico
+2022.14187	USA	United Kingdom
+2022.14187	USA	Mexico
+2022.14187	USA	Poland
+2022.14187	France	United Kingdom
+2022.14188	USA	Chile
+2022.14188	USA	Germany
+2022.14188	USA	Australia
+2022.14188	USA	Germany
+2022.14188	USA	Germany
+2022.14188	USA	South Africa
+2022.14188	Germany	Colombia
+2022.14188	USA	Chile
+2022.14189	USA	United Kingdom
+2022.1419	United Kingdom	Italy
+2022.1419	USA	Argentina
+2022.14457	Brazil	Chile
+2022.14457	France	Switzerland
+2022.14457	France	Vietnam
+2022.14458	Brazil	Chile
+2022.14458	France	Germany
+2022.14458	USA	Netherlands
+2022.14458	USA	Chile
+2022.14459	USA	Chile
+2022.14459	United Kingdom	Italy
+2022.14459	France	Netherlands
+2022.1446	USA	Mexico
+2022.1446	Brazil	Chile
+2022.1446	USA	Chile
+2022.1446	Spain	Chile
+2022.1446	Czech Republic	Australia
+2022.1446	USA	Austria
+2022.1446	USA	Germany
+2022.14461	United Kingdom	Germany
+2022.14461	United Kingdom	Portugal
+2022.14461	Germany	Austria
+2022.14461	France	Germany
+2022.14462	USA	United Kingdom
+2022.14462	USA	Chile
+2022.14462	USA	Chile
+2022.14462	United Kingdom	Germany
+2022.14462	France	Australia
+2022.14462	Australia	Singapore
+2022.14462	Norway	Slovakia
+2022.14462	Switzerland	Italy
+2022.14462	Germany	Poland
+2022.14462	Indonesia	Singapore
+2022.14462	Italy	USA
+2022.14462	Brazil	Italy
+2022.14463	United Kingdom	Poland
+2022.14463	USA	Colombia
+2022.14464	Italy	Denmark
+2022.14464	United Kingdom	Austria
+2022.14464	Italy	Spain
+2022.14464	United Kingdom	Spain
+2022.14731	USA	Malaysia
+2022.14731	Germany	Turkey
+2022.14732	Spain	Chile
+2022.14732	France	Netherlands
+2022.14732	USA	Austria
+2022.14733	USA	Chile
+2022.14733	Peru	Austria
+2022.14733	United Kingdom	Belgium
+2022.14733	India	Turkey
+2022.14733	Germany	Austria
+2022.14734	USA	Germany
+2022.14734	USA	Canada
+2022.14734	Brazil	Turkey
+2022.14734	India	Turkey
+2022.14734	USA	Austria
+2022.14734	USA	Indonesia
+2022.14734	Germany	Austria
+2022.14735	United Kingdom	Italy
+2022.14735	USA	Turkey
+2022.14735	France	Spain
+2022.14735	USA	Germany
+2022.14736	USA	Mexico
+2022.14736	United Kingdom	Italy
+2022.14736	Germany	Austria
+2022.14736	Germany	Austria
+2022.15005	Spain	Germany
+2022.15005	France	Germany
+2022.15006	Brazil	Germany
+2022.15008	USA	Malaysia
+2022.1500800000001	Indonesia	Singapore
+2022.1500800000001	Germany	Turkey
+2022.15009	Italy	Austria
+2022.15009	France	Italy
+2022.15009	Indonesia	Singapore
+2022.1501	Australia	USA
+2022.15011	Italy	Chile
+2022.15011	USA	Chile
+2022.15011	Indonesia	Singapore
+2022.15012	United Kingdom	Germany
+2022.15279	France	Singapore
+2022.1528	Indonesia	Singapore
+2022.1528	United Kingdom	Poland
+2022.15282	Poland	Italy
+2022.15282	Germany	Spain
+2022.15282	Germany	Poland
+2022.15283	Norway	Netherlands
+2022.15283	USA	Mexico
+2022.15283	Italy	Switzerland
+2022.15283	Mexico	United Kingdom
+2022.15283	United Kingdom	Poland
+2022.15284	United Kingdom	Poland
+2022.15284	Israel	Italy
+2022.15284	Brazil	Singapore
+2022.15284	Indonesia	Singapore
+2022.15285	USA	United Kingdom
+2022.15287	Poland	Italy
+2022.15555	USA	Chile
+2022.15555	USA	Chile
+2022.15556	USA	United Kingdom
+2022.15559	USA	Italy
+2022.15828	USA	Singapore
+2022.15829	France	Spain
+2022.15829	USA	United Kingdom
+2022.1583	USA	United Kingdom
+2022.1583	United Kingdom	USA
+2022.1583	Germany	Singapore
+2022.1583	France	Belgium
+2022.1583	Germany	Singapore
+2022.15831	USA	United Kingdom
+2022.15831	Spain	Chile
+2022.15831	India	Chile
+2022.15831	Germany	Singapore
+2022.15831	Germany	Slovakia
+2022.15831	Colombia	Norway
+2022.15831	USA	Italy
+2022.15831	Norway	Switzerland
+2022.15831	Norway	Denmark
+2022.15831	Indonesia	Singapore
+2022.15832	United Kingdom	Chile
+2022.15832	USA	Chile
+2022.15832	France	Germany
+2022.15832	Denmark	Switzerland
+2022.15833	Indonesia	Singapore
+2022.15833	Indonesia	Singapore
+2022.15833	Indonesia	Singapore
+2022.15834	United Kingdom	Switzerland
+2022.15835	Denmark	Singapore
+2022.161	Germany	United Kingdom
+2022.16102	United Kingdom	Poland
+2022.16103	France	United Kingdom
+2022.16103	USA	Poland
+2022.16104	USA	Canada
+2022.16104	United Kingdom	Norway
+2022.16104	USA	Poland
+2022.16104	Germany	Poland
+2022.16105	USA	Australia
+2022.16105	Germany	France
+2022.16105	Germany	Denmark
+2022.16105	France	Poland
+2022.16105	Turkey	Denmark
+2022.16105	USA	Denmark
+2022.16106	United Kingdom	Spain
+2022.16106	United Kingdom	Germany
+2022.16106	Brazil	France
+2022.16106	Italy	Poland
+2022.16109	Poland	Czech Republic
+2022.16372	Indonesia	Canada
+2022.16377	Mexico	Singapore
+2022.16378	South Africa	Australia
+2022.1665	USA	United Kingdom
+2022.18294	Spain	Poland

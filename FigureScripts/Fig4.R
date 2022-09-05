@@ -228,7 +228,7 @@ europe_to_africa_exports_table_summarize <- europe_to_africa_exports_table %>% g
 
 
 #NAmerica-Africa
-Namerica_to_africa<-subset(subset(beta_all_replicates,Destination_Continent=='Africa'),Origin_Continent=='North America')
+Namerica_to_africa<-subset(subset(alpha_all_replicates,Destination_Continent=='Africa'),Origin_Continent=='North America')
 Namerica_to_africa_table <- Namerica_to_africa %>% count(date4, replicate)
 Namerica_to_africa_table_summarize <- Namerica_to_africa_table %>% group_by(date4)  %>% 
   summarise(mean = mean(n), sd = sd(n))
@@ -275,7 +275,7 @@ df_africa$date<-as.Date(cut(df_africa$date,breaks = "1 week",start.on.monday = F
 
 alpha_prevalence<-ggplot(df_africa)+ theme_minimal()+
   geom_bar(color='black', size=0.1,position='fill',mapping = aes(x=date2,fill=Nextstrain_clade=='20I (Alpha, V1)'))+
-  scale_fill_manual(values=c('white','darkorange2'),name='Lineages', labels=c('Others','Alpha'))+
+  scale_fill_manual(values=c('white','grey30'),name='Lineages', labels=c('Others','Alpha'))+
   theme(legend.position = 'top', legend.title = element_text(size=10),legend.text = element_text(size=10))+
   ylab('Genomic\nPrevalence')+
   xlab('')+
@@ -303,7 +303,7 @@ africa_to_africa$Origin_Continent_Region<-as.character(africa_to_africa$Origin_C
 africa_to_africa<-africa_to_africa %>%
   dplyr::group_by(Origin)%>%
   dplyr::mutate(number=n())
-regional_cols<-c("Eastern Africa" = "#1b9e77", "Southern Africa" = "#d95f02", "Western Africa" = "#7570b3", "Northern Africa" = "#e7298a")
+regional_cols<-c("Eastern Africa" = "dodgerblue2", "Southern Africa" = "lightpink3", "Western Africa" = "#A4036F", "Northern Africa" = "darkblue")
 
 alpha_africa_map<-ggplot() +
   theme_void()+
@@ -569,7 +569,7 @@ df_africa$date<-as.Date(cut(df_africa$date,breaks = "1 week",start.on.monday = F
 
 beta_prevalence<-ggplot(df_africa)+ theme_minimal()+
   geom_bar(color='black', size=0.1,position='fill',mapping = aes(x=date2,fill=Nextstrain_clade=='20H (Beta, V2)'))+
-  scale_fill_manual(values=c('white','goldenrod2'),name='Lineages', labels=c('Others','Beta'))+
+  scale_fill_manual(values=c('white','grey30'),name='Lineages', labels=c('Others','Beta'))+
   theme(legend.position = 'top', legend.title = element_text(size=10),legend.text = element_text(size=10))+
   ylab('Genomic\nPrevalence')+
   xlab('')+
@@ -872,7 +872,7 @@ df_africa$date<-as.Date(cut(df_africa$date,breaks = "1 week",start.on.monday = F
 
 delta_prevalence<-ggplot(df_africa)+ theme_minimal()+
   geom_bar(color='black', size=0.1,position='fill',mapping = aes(x=date2,fill=Nextstrain_clade %like% 'Delta'))+
-  scale_fill_manual(values=c('white','darkseagreen3'),name='Lineages', labels=c('Others','Delta'))+
+  scale_fill_manual(values=c('white','grey30'),name='Lineages', labels=c('Others','Delta'))+
   theme(legend.position = 'top', legend.title = element_text(size=10),legend.text = element_text(size=10))+
   ylab('Genomic\nPrevalence')+
   xlab('')+
@@ -951,7 +951,7 @@ replicate8<-read.table(file='ImportExport/BA1_Africa_focused_0.0008/8annottated_
 replicate8$replicate <- "8"
 replicate9<-read.table(file='ImportExport/BA1_Africa_focused_0.0008/9annottated_tree_events.csv', sep = '\t', header = TRUE)
 replicate9$replicate <- "9"
-replicate10<-read.table(file='ImportExport/BA1_adjusted/africa/10annottated_tree_events.csv', sep = '\t', header = TRUE)
+replicate10<-read.table(file='ImportExport/BA1_Africa_focused_0.0008/10annottated_tree_events.csv', sep = '\t', header = TRUE)
 replicate10$replicate <- "10"
 
 
@@ -1176,7 +1176,7 @@ df_africa$date<-as.Date(cut(df_africa$date,breaks = "1 week",start.on.monday = F
 
 omicron_prevalence<-ggplot(df_africa)+ theme_minimal()+
   geom_bar(color='black', size=0.1,position='fill',mapping = aes(x=date2,fill=Nextstrain_clade %like% '21K'))+
-  scale_fill_manual(values=c('white','hotpink2'),name='Lineages', labels=c('Others','BA.1'))+
+  scale_fill_manual(values=c('white','grey30'),name='Lineages', labels=c('Others','BA.1'))+
   theme(legend.position = 'top', legend.title = element_text(size=10),legend.text = element_text(size=10))+
   ylab('Genomic\nPrevalence')+
   xlab('')+
@@ -1488,7 +1488,7 @@ df_africa$date<-as.Date(cut(df_africa$date,breaks = "1 week",start.on.monday = F
 
 BA2_prevalence<-ggplot(df_africa)+ theme_minimal()+
   geom_bar(color='black', size=0.1,position='fill',mapping = aes(x=date2,fill=Nextstrain_clade %like% '21L'))+
-  scale_fill_manual(values=c('white','lightpink3'),name='Lineages', labels=c('Others','BA.2'))+
+  scale_fill_manual(values=c('white','grey30'),name='Lineages', labels=c('Others','BA.2'))+
   theme(legend.position = 'top', legend.title = element_text(size=10),legend.text = element_text(size=10))+
   ylab('Genomic\nPrevalence')+
   xlab('')+
@@ -1552,5 +1552,5 @@ BA2_all
 all_import_export<-plot_grid(alpha_all,beta_all,delta_all,omicron_all,BA2_all, ncol=5)
 all_import_export
 
-ggsave("Fig4.pdf", all_import_export, device = "pdf", width = 55, height = 28, units = "cm", limitsize = FALSE) 
+ggsave("Fig4_colours_updated.pdf", all_import_export, device = "pdf", width = 55, height = 28, units = "cm", limitsize = FALSE) 
 
